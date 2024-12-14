@@ -11,35 +11,47 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Mechanics, Beijing Institute of Technology, 2019
+* Exchange Ph.D. student, Department of Engineering, Durham University, UK, 2017-2018
+* M.Sc. in Computational Mathematics, Shandong University of Technology, 2015
+* B.Sc. in Applied Mathematics, Linyi University, 2012
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023-present: Humboldt Research Fellowship Programme for Postdocs
+  * Institute of Photonics, Leibniz University Hannover, Germany
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019-present: Associate Researcher
+  * Faculty of Materials and Manufacturing
+  * Beijing University of Technology, China
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computational mechanics
+* Boundary element method, isogeometric boundary element method, and isogeometric analysis
+* Phase-field modeling for electronic packaging reliability and fracture mechanics
+* Multiscale structure simulation
+* Flexoelectric nanostructures
+* High performance computing
+* Mechanical problems in electronics packaging
+* Numerical simulation of thin-walled or thin-coated systems
+* Computational software development
+
+Honors and Awards
+======
+* Alexander von Humboldt Research Fellowship, 2022-2025
+* Outstanding PhD graduates in Beijing, 2019
+* National Scholarship for Doctoral Student, 2017 (Ministry of Education of China)
+* Excellent bachelor dissertation in Shandong, 2013
+* Outstanding graduates in Shandong, 2013
+
+Selected Projects
+======
+* Principal Investigator (PI), "Study on isogeometric boundary element method for thermal stress analysis of multi-scale and multi-layer structures", National Natural Science Foundation of China, 2021-2023
+* Principal Investigator (PI), "Numerical analysis of IGBT packaging module", General Program of Science and Technology Development Project of Beijing Municipal Education Commission, 2021-2023
+* Principal Investigator (PI), "Study on the temperature/stress analysis of IGBT packaging module", Beijing Postdoctoral Research Foundation, 2020-2021
+* Co-PI, "Study on fast direct isogeometric boundary element method for analysis of large-scale coating structures", National Natural Science Foundation of China, 2020-2023
+* Co-PI, "Crack analysis of Aeroengine turbine blade by using isogeometric boundary element method", National Natural Science Foundation of China, 2012-2013
 
 Publications
 ======
