@@ -21,7 +21,7 @@ repository               : "yanpeng-gong/yanpeng-gong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo-gong.jpg" # Place an image in /images/ and reference it here
   name             : "Yanpeng Gong"
   pronouns         : # example: "she/her"  
   bio              :  "Associate Researcher at BJUT | Humboldt Research Fellow"
