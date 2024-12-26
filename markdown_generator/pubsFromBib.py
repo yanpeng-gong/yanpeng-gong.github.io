@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!python
 # coding: utf-8
 
 # # Publications markdown generator for academicpages
