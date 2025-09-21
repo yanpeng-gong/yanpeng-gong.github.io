@@ -278,7 +278,7 @@ defaults:
       path: ""
       type: people
     values:
-      layout: people
+      layout: single
       author_profile: true
       share: true
 

@@ -93,9 +93,9 @@ collection: people
 <hr>
 <h3>硕士研究生 Graduate Students</h3>
 
-- 2022.09-2025.06,寇玉国, <a href="http://yanpeng-gong.github.io/files/Postdoc_HangLi.pdf" style="text-decoration:none;color:gray;"> 热力耦合相场模型在电子封装互连结构中的应用 Application of thermal coupled phase field model in electronic packaging interconnection structures </a>. 毕业去向：华南理工大学（读博）.
+- 2022.09-2025.06,寇玉国, <a href="http://yanpeng-gong.github.io/files/Postdoc_HangLi.pdf" style="text-decoration:none;color:gray;"> 毕业论文题目：热力耦合相场模型在电子封装互连结构中的应用 Application of thermal coupled phase field model in electronic packaging interconnection structures </a>. 毕业去向：华南理工大学（读博）.
 
-- 2021.09-2024.06, 徐浩, <a href="http://yanpeng-gong.github.io/files/Postdoc_HangLi.pdf" style="text-decoration:none;color:gray;"> 边界元法在电子封装瞬态问题中的应用 Application of boundary element method to transient problems in electronic packaging</a>. 毕业去向：**\*\*\*\***.
+- 2021.09-2024.06, 徐浩, <a href="http://yanpeng-gong.github.io/files/Postdoc_HangLi.pdf" style="text-decoration:none;color:gray;"> 毕业论文题目：边界元法在电子封装瞬态问题中的应用 Application of boundary element method to transient problems in electronic packaging</a>. 毕业去向：**\*\*\*\***.
 
 <!--
 <hr>
