@@ -10,7 +10,7 @@ redirect_from:
 
 北京工业大学<a href="https://www.bjut.edu.cn/" style="text-decoration:none;color:indianred;">力学系</a>副研究员，德国洪堡学者。2019 年在北京理工大学宇航学院力学系获得博士学位，期间于 2017-2018 年获国家留学基金委支持赴英国杜伦大学工程系联合培养，2019 年加入北京工业大学。2023-2025 年受德国洪堡基金会资助赴莱布尼茨-汉诺威大学开展学术研究。
 
-我的研究方向是计算力学，针对电子封装可靠性问题、软体机器人等应用发展相应的多尺度计算方法和机器学习算法，从事深度学习驱动的多尺度计算力学、电子封装可靠性预测及计算力学软件开发等方向研究，感兴趣的领域包括挠曲电材料性能表征、磁控软体机器人设计以及多物理场耦合问题相关的数值模拟技术（见<a href="https://yanpeng-gong.github.io/research/" style="text-decoration:none;color:indianred;">研究</a>）。目前已发表 SCI 论文 50 余篇，其中在计算力学领域顶级期刊 Comput. Methods Appl. Mech. Eng.、Appl. Math. Model.、Int. J. Numer. Methods Eng.等发表多篇论文（见<a href="https://yanpeng-gong.github.io/publications/" style="text-decoration:none;color:indianred;">论文</a>）。合作出版专著《等几何边界元法》。曾入选德国洪堡学者、北京市朝阳区"凤凰计划"优秀青年人才、《应用力学学报》青年编委，2025 年获得杜庆华工程计算方法优秀青年学者奖等。
+我的研究方向是计算力学，专注于为电子封装可靠性问题、软体机器人等应用发展多尺度计算方法和机器学习算法。主要从事深度学习驱动的多尺度计算力学、电子封装可靠性预测及计算力学软件开发等方向研究。感兴趣的领域包括挠曲电材料性能表征、磁控软体机器人设计以及多物理场耦合问题相关的数值模拟技术（见<a href="https://yanpeng-gong.github.io/research/" style="text-decoration:none;color:indianred;">研究</a>）。目前已发表 SCI 论文 50 余篇，其中在计算力学领域顶级期刊 Comput. Methods Appl. Mech. Eng.、Appl. Math. Model.、Int. J. Numer. Methods Eng.等发表多篇论文（见<a href="https://yanpeng-gong.github.io/publications/" style="text-decoration:none;color:indianred;">论文</a>）。合作出版专著《等几何边界元法》。曾入选德国洪堡学者、北京市朝阳区"凤凰计划"优秀青年人才、《应用力学学报》青年编委，2025 年获得杜庆华工程计算方法优秀青年学者奖等。
 
 <hr>
 
