@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yanpeng Gong"
+title                    : "Gong Research Group"
 title_separator          : "-"
 name                     : &name "Yanpeng Gong"
-description              : &description "Associate Researcher at BJUT"
+description              : &description "Group Website"
 url                      : https://yanpeng-gong.github.io
 baseurl                  : ""
 repository               : "yanpeng-gong/yanpeng-gong.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "bio-photo-gong.jpg" # Place an image in /images/ and reference it here
   name             : "公颜鹏 Yanpeng Gong"
   pronouns         : # example: "she/her"  
-  bio              :  "Associate Researcher at BJUT | Humboldt Research Fellow"
+  bio              :  "Dr., Assistant Professor, department of mechanics, Beijing University of Technology. "
   location         : "西区基础楼 703"
   employer         : "Beijing University of Technology"
   uri              : "https://yanpeng-gong.github.io"
