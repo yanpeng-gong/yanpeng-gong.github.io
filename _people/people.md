@@ -1,7 +1,8 @@
 ---
 layout: archive
-title: "<h2>团队 People</h2>"
-author_profile: true
+title: "团队 People"
+permalink: /people/
+author_profile: false
 collection: people
 ---
 
