@@ -22,11 +22,11 @@ repository               : "yanpeng-gong/yanpeng-gong.github.io"
 author:
   # Biographic information
   avatar           : "bio-photo-gong.jpg" # Place an image in /images/ and reference it here
-  name             : "Yanpeng Gong"
+  name             : "公颜鹏 Yanpeng Gong"
   pronouns         : # example: "she/her"  
   bio              :  "Associate Researcher at BJUT | Humboldt Research Fellow"
-  location         : "Hannover, Germany"
-  employer         : "Leibniz University Hannover"
+  location         : "西区基础楼 703"
+  employer         : "Beijing University of Technology"
   uri              : "https://yanpeng-gong.github.io"
   email            : "yanpeng.gong@bjut.edu.cn"
 
