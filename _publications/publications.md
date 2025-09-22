@@ -205,7 +205,12 @@ author_profile: false
 <li><p>H. Jeong, T. Ha, I. Kuang, L. Shen, <u>Z. Dai</u>, N. Sun, N. Lu*. <a href="https://doi.org/10.1109/EMBC.2017.8037756" style="text-decoration:none;color:#DE3163;">NFC-Enabled, Tattoo-Like Stretchable Biosensor Manufactured by “Cut-and-Paste” Method</a>. <b>IEEE Engineering in Medicine and Biology Society</b> DOI: 10.1109/EMBC.2017.8037756 (2017) <a href="http://zhaohedai.github.io/files/1.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p></li>
 -->
 
-<hr>
 <h3>专著与书籍章节 Books & Book Chapters</h3>
 
+<!-- 专著 -->
 <li>C. Dong, <u>Y. Gong</u>, F. Sun. Isogeometric Boundary Element Method (等几何边界元法). Science Press, Beijing, 1st Edition (May 2023) ISBN: 9787030742926</li>
+
+<!--
+ <!-- 书籍章节 -->
+ <li><u>Y. Gong</u>, F. Qin. Chapter 5: Computational Methods for Electronic Packaging. In: Advanced Electronic Packaging Technologies. Springer (2024) pp. 85-110</li>
+-->
