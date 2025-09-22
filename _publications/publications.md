@@ -44,7 +44,12 @@ author_profile: false
 <!--
 <li><p>S. Gupta, <u>Z. Dai</u>, K. Khare*. <a href="https://doi.org/10.48550/arXiv.2505.00640" style="text-decoration:none;color:gray;">Liquid Bridges on Lubricated Surfaces: A Counterintuitive Interplay of Liquid Pressure and Thin-Film Dynamics.</a> <b>arXiv</b> (in submission) <a href="http://zhaohedai.github.io/files/2025_Slips"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
 -->
-<li><u>Y. Gong</u>*, Y. He, Y. Mei, X. Zhuang, F. Qin, T. Rabczuk. <a href="https://arxiv.org/abs/2508.16999" style="text-decoration:none;color:#DE3163;">Physics-Informed Kolmogorov-Arnold Networks for multi-material elasticity problems in electronic packaging.</a> <b>arXiv</b> <a href="http://yanpeng-gong.github.io/files/2025_PIKAN.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
+<li><u>Y. Gong</u>, Y. He, Y. Mei*, X. Zhuang*, F. Qin, T. Rabczuk. <a href="https://arxiv.org/abs/2508.16999" style="text-decoration:none;color:#DE3163;">Physics-Informed Kolmogorov-Arnold Networks for multi-material elasticity problems in electronic packaging.</a> <b>arXiv</b> <a href="http://yanpeng-gong.github.io/files/2025_PIKAN.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
+
+<li><u>Y. Gong</u>, S. Li, F. Qin, B. Xu*. <a href="https://dx.doi.org/10.48550/arxiv.2508.11410" style="text-decoration:none;color:#DE3163;">Virtual element method for thermomechanical analysis of electronic packaging structures with multi-scale features.</a> <b>Engineering with Computers</b> (2025) <a href="http://yanpeng-gong.github.io/files/2025_VEM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
+
+<li><p>X. Zhuang*, H. Hu**, S. S. Nanthakumar, Q.-T. Tran, <u>Y. Gong</u>, T. Rabczuk. <a href="https://dx.doi.org/10.1016/j.apm.2025.116327" style="text-decoration:none;color:#DE3163;">Variationally consistent Maxwell stress in flexoelectric structures under finite deformation and immersed in free space</a>. <b>Applied Mathematical Modelling</b> (2025) 116327 <a href="http://yanpeng-gong.github.io/files/2025_AMM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li>
+
 <!--
 <li><p>S. Gupta, B. Bhatt, <u>Z. Dai</u>*, K. Khare*. <a href="https://doi.org/10.48550/arXiv.2505.00640" style="text-decoration:none;color:#DE3163;">Dynamics of Thin Lubricant Films upon Liquid Contact on Slippery Surfaces.</a> <b>arXiv</b> <a href="http://zhaohedai.github.io/files/2025_Slips"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li>
 
@@ -52,6 +57,7 @@ author_profile: false
 <li><p><u>C. Yu</u>, <u>W. Zeng</u>, Z. Kou, <u>W. Wang</u>, L. Wang, Q. Li, X. Liu, and <u>Z. Dai</u>*. <a href="https://doi.org/10.1103/jgqz-gwlc" style="text-decoration:none;color:#DE3163;">Transparency of graphene to solid-solid van der Waals interactions</a>. <b> Physical Review Letters</b> (2025) <a href="http://zhaohedai.github.io/files/2025_PRL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/2025_PRL"><i class="fa fa-github" style="font-size:16px; color:black"></i></a> <font color="#7B7D7D">Highlighted as an Editors' Suggestion
 <p style="text-align:center;"><img src="/images/publications/2025_PRL.png" width="400"></p>
 -->
+
 <!--
 <hr>
 <h3>Other writings</h3>
