@@ -60,6 +60,10 @@ author_profile: false
 
 <li><u>Y. Gong</u>*, Y. Kou, Q. Yue, X. Zhuang, F. Qin, Q. Wang, T. Rabczuk. <a href="https://doi.org/10.1016/j.icheatmasstransfer.2024.108033" style="text-decoration:none;color:#DE3163;">The application of thermomechanically coupled phase-field models in electronic packaging interconnect structures</a>. <b>International Communications in Heat and Mass Transfer</b> 159 (2024) 108033 <a href="http://yanpeng-gong.github.io/files/2024_ICHMT.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
 
+<br>
+<hr>
+<h3>2023</h3>
+
 <!--
 <li><p>S. Gupta, B. Bhatt, <u>Z. Dai</u>*, K. Khare*. <a href="https://doi.org/10.48550/arXiv.2505.00640" style="text-decoration:none;color:#DE3163;">Dynamics of Thin Lubricant Films upon Liquid Contact on Slippery Surfaces.</a> <b>arXiv</b> <a href="http://zhaohedai.github.io/files/2025_Slips"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li>
 
