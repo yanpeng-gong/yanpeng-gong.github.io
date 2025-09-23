@@ -227,7 +227,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 # These settings control how pages and collections are included in the site
 defaults:
   # _posts
@@ -292,7 +294,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-
+ # _portfolio
+  - scope:  
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 # Sass/SCSS
 sass:
   sass_dir: _sass

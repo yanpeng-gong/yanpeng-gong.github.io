@@ -21,10 +21,8 @@ main:
   - title: "News"
     url: /news/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-
+  - title: "Album"
+    url: /portfolio/
     
   - title: "Guide"
     url: /markdown/
