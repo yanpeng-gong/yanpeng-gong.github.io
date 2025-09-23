@@ -2,8 +2,7 @@
 layout: archive
 title: "<h2>学术链接 Academic Links</h2>"
 permalink: /links/
-author_profile: true
-redirect_from:
+author_profile: false
 ---
 
 <!-- Google tag (gtag.js) -->
@@ -18,14 +17,10 @@ redirect_from:
 <h3>学校相关 University</h3>
 <p style="text-align:left;"> 
 	<a href="https://www.bjut.edu.cn/" style="text-decoration:none;color:indianred;">北京工业大学</a> <br> 
-	<a href="https://mail.bjut.edu.cn/" style="text-decoration:none;color:indianred;">北工大邮箱</a> <br> 
-	<a href="https://jgxy.bjut.edu.cn/" style="text-decoration:none;color:indianred;">机械工程学院</a><br>
-	<a href="https://lx.bjut.edu.cn/" style="text-decoration:none;color:indianred;">理学部</a> <br> 
+	<a href="https://my.bjut.edu.cn/page/site/index" style="text-decoration:none;color:indianred;">北工大（校内）服务平台</a> <br> 
 	<a href="https://arxiv.org/list/cs.CE/new" style="text-decoration:none;color:black;">arXiv CS Computational Engineering</a><br> 
 	<a href="https://arxiv.org/list/math.NA/new" style="text-decoration:none;color:black;">arXiv Math Numerical Analysis</a><br> 
 	<a href="http://imechanica.org/" style="text-decoration:none;color:black;">iMechanica</a><br> 
-	<a href="https://www.cstam.org.cn/" style="text-decoration:none;color:black;">中国力学学会</a><br>
-	<a href="https://www.mathgenealogy.org/id.php?id=269836" style="text-decoration:none;color:black;">Mathematics Genealogy</a>
 </p>
 
 <hr>

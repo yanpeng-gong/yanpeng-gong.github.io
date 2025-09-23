@@ -230,6 +230,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  links:
+    output: true
+    permalink: /:collection/:path/
 # These settings control how pages and collections are included in the site
 defaults:
   # _posts
@@ -298,6 +301,15 @@ defaults:
   - scope:  
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _links
+  - scope:  
+      path: ""
+      type: links
     values:
       layout: single
       author_profile: true
