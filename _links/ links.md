@@ -54,12 +54,12 @@ author_profile: false
 <h3>电子封装与可靠性 Electronic Packaging & Reliability</h3>
 
 <p style="text-align:left;">
-<a href="https://www.sciencedirect.com/journal/microelectronics-reliability" style="text-decoration:none;color:black;">Microelectronics Reliability</a><br>
-<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6144" style="text-decoration:none;color:black;">IEEE Transactions on Components, Packaging and Manufacturing Technology</a><br> 
-<a href="https://asmedigitalcollection.asme.org/electronicpackaging" style="text-decoration:none;color:black;">Journal of Electronic Packaging</a><br>
-<a href="https://link.springer.com/journal/10854" style="text-decoration:none;color:black;">Journal of Materials Science: Materials in Electronics</a><br>
 <a href="https://www.sciencedirect.com/journal/international-communications-in-heat-and-mass-transfer" style="text-decoration:none;color:black;">International Communications in Heat and Mass Transfer</a><br>
 <a href="https://www.sciencedirect.com/journal/applied-thermal-engineering" style="text-decoration:none;color:black;">Applied Thermal Engineering</a><br>
 <a href="https://www.sciencedirect.com/journal/engineering-fracture-mechanics" style="text-decoration:none;color:black;">Engineering Fracture Mechanics</a><br> 
 <a href="https://www.sciencedirect.com/journal/engineering-structures" style="text-decoration:none;color:black;">Engineering Structures</a><br>
+<a href="https://www.sciencedirect.com/journal/microelectronics-reliability" style="text-decoration:none;color:black;">Microelectronics Reliability</a><br>
+<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6144" style="text-decoration:none;color:black;">IEEE Transactions on Components, Packaging and Manufacturing Technology</a><br> 
+<a href="https://asmedigitalcollection.asme.org/electronicpackaging" style="text-decoration:none;color:black;">Journal of Electronic Packaging</a><br>
+<a href="https://link.springer.com/journal/10854" style="text-decoration:none;color:black;">Journal of Materials Science: Materials in Electronics</a><br>
 </p>
