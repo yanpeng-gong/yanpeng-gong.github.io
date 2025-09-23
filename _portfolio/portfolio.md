@@ -15,9 +15,11 @@ collection: portfolio
   gtag('config', 'G-K251SYLJ6Y');
 </script>
 
+<!--
 <table border=0>
   <tr><td width=450 ><img src="/images/Album/2025_group1.jpg" width="450"></td><td width=450><img src="/images/Album/2025_group2.jpg" width="450"></td></tr>
 </table>
+-->
 
 <!--
 2025/09/01 欢迎新同学加入课题组 Welcome new students to join our research group.
