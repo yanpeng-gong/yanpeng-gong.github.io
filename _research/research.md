@@ -6,14 +6,6 @@ author_profile: false
 collection: research
 ---
 
-<!DOCTYPE html>
-<html>
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-</head>
-<body>
-
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-K251SYLJ6Y"></script>
 <script>
@@ -127,6 +119,3 @@ We are committed to solving critical numerical computational challenges in compl
 <li>2023-2025, 德国洪堡学者项目，德国莱布尼兹-汉诺威大学</li>
 <li>2017-2018, 国家留学基金委联合培养博士项目，英国杜伦大学工程系</li>
 </ul>
-
-</body>
-</html>
