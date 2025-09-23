@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<h2>学术链接 Academic Links</h2>"
+title: "学术链接 Academic Links"
 permalink: /links/
 author_profile: false
 ---
@@ -18,9 +18,11 @@ author_profile: false
 <p style="text-align:left;"> 
 	<a href="https://www.bjut.edu.cn/" style="text-decoration:none;color:indianred;">北京工业大学</a> <br> 
 	<a href="https://my.bjut.edu.cn/page/site/index" style="text-decoration:none;color:indianred;">北工大（校内）服务平台</a> <br> 
-	<a href="https://arxiv.org/list/cs.CE/new" style="text-decoration:none;color:black;">arXiv CS Computational Engineering</a><br> 
-	<a href="https://arxiv.org/list/math.NA/new" style="text-decoration:none;color:black;">arXiv Math Numerical Analysis</a><br> 
-	<a href="http://imechanica.org/" style="text-decoration:none;color:black;">iMechanica</a><br> 
+	<a href="https://webvpn.bjut.edu.cn/" style="text-decoration:none;color:indianred;">北工大（校外）服务平台</a> <br>
+  <a href="https://arxiv.org/list/cs.CE/new" style="text-decoration:none;color:black;">arXiv Computational Engineering</a><br>
+  <a href="https://arxiv.org/list/math.NA/new" style="text-decoration:none;color:black;">arXiv Numerical Analysis</a><br>
+  <a href="http://imechanica.org/" style="text-decoration:none;color:black;">iMechanica</a><br>
+  <a href="https://people.maths.ox.ac.uk/vella/" style="text-decoration:none;color:black;">Vella group</a>
 </p>
 
 <hr>
@@ -30,11 +32,22 @@ author_profile: false
 	<a href="https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering" style="text-decoration:none;color:black;">Computer Methods in Applied Mechanics and Engineering</a><br> 
 	<a href="https://link.springer.com/journal/466" style="text-decoration:none;color:black;">Computational Mechanics</a><br> 
 	<a href="https://onlinelibrary.wiley.com/journal/10970207" style="text-decoration:none;color:black;">International Journal for Numerical Methods in Engineering</a><br> 
-	<a href="https://www.sciencedirect.com/journal/engineering-analysis-with-boundary-elements" style="text-decoration:none;color:black;">Engineering Analysis with Boundary Elements</a><br> 
+	<a href="https://www.sciencedirect.com/journal/journal-of-computational-physics" style="text-decoration:none;color:black;">Journal of Computational Physics</a><br>
 	<a href="https://www.sciencedirect.com/journal/journal-of-computational-and-applied-mathematics" style="text-decoration:none;color:black;">Journal of Computational and Applied Mathematics</a><br> 
 	<a href="https://www.sciencedirect.com/journal/applied-mathematical-modelling" style="text-decoration:none;color:black;">Applied Mathematical Modelling</a><br> 
 	<a href="https://www.sciencedirect.com/journal/advances-in-engineering-software" style="text-decoration:none;color:black;">Advances in Engineering Software</a><br> 
 	<a href="https://www.sciencedirect.com/journal/finite-elements-in-analysis-and-design" style="text-decoration:none;color:black;">Finite Elements in Analysis and Design</a><br> 
+  <a href="https://www.sciencedirect.com/journal/engineering-analysis-with-boundary-elements" style="text-decoration:none;color:black;">Engineering Analysis with Boundary Elements</a><br> 
+</p>
+
+<hr>
+<h3>力学期刊 Mechanics Journals</h3>
+<p style="text-align:left;">
+<a href="https://www.sciencedirect.com/journal/journal-of-the-mechanics-and-physics-of-solids" style="text-decoration:none;color:black;">Journal of the Mechanics and Physics of Solids</a><br>
+<a href="https://asmedigitalcollection.asme.org/appliedmechanics" style="text-decoration:none;color:black;">Journal of Applied Mechanics</a><br>
+<a href="https://www.sciencedirect.com/journal/international-journal-of-mechanical-sciences" style="text-decoration:none;color:black;">International Journal of Mechanical Sciences</a><br>
+<a href="https://www.sciencedirect.com/journal/international-journal-of-solids-and-structures" style="text-decoration:none;color:black;">International Journal of Solids and Structures</a><br>
+<a href="https://www.sciencedirect.com/journal/extreme-mechanics-letters" style="text-decoration:none;color:black;">Extreme Mechanics Letters</a><br>
 </p>
 
 <hr>
@@ -49,39 +62,4 @@ author_profile: false
 <a href="https://www.sciencedirect.com/journal/applied-thermal-engineering" style="text-decoration:none;color:black;">Applied Thermal Engineering</a><br>
 <a href="https://www.sciencedirect.com/journal/engineering-fracture-mechanics" style="text-decoration:none;color:black;">Engineering Fracture Mechanics</a><br> 
 <a href="https://www.sciencedirect.com/journal/engineering-structures" style="text-decoration:none;color:black;">Engineering Structures</a><br>
-</p>
-
-<hr>
-<h3>机器学习与计算 Machine Learning & Computing</h3>
-<p style="text-align:left;">
-<a href="https://www.sciencedirect.com/journal/computer-physics-communications" style="text-decoration:none;color:black;">Computer Physics Communications</a><br>
-<a href="https://www.sciencedirect.com/journal/computers-and-structures" style="text-decoration:none;color:black;">Computers & Structures</a><br>
-<a href="https://www.nature.com/natmachintell/" style="text-decoration:none;color:black;">Nature Machine Intelligence</a><br>
-<a href="https://www.nature.com/natcomputsci/" style="text-decoration:none;color:black;">Nature Computational Science</a><br>
-<a href="https://www.sciencedirect.com/journal/neural-networks" style="text-decoration:none;color:black;">Neural Networks</a><br>
-<a href="https://jmlr.org/" style="text-decoration:none;color:black;">Journal of Machine Learning Research</a><br>
-</p>
-
-<hr>
-<h3>力学期刊 Mechanics Journals</h3>
-<p style="text-align:left;">
-<a href="https://www.sciencedirect.com/journal/journal-of-the-mechanics-and-physics-of-solids" style="text-decoration:none;color:black;">Journal of the Mechanics and Physics of Solids</a><br>
-<a href="https://asmedigitalcollection.asme.org/appliedmechanics" style="text-decoration:none;color:black;">Journal of Applied Mechanics</a><br>
-<a href="https://www.sciencedirect.com/journal/international-journal-of-mechanical-sciences" style="text-decoration:none;color:black;">International Journal of Mechanical Sciences</a><br>
-<a href="https://www.sciencedirect.com/journal/international-journal-of-solids-and-structures" style="text-decoration:none;color:black;">International Journal of Solids and Structures</a><br>
-<a href="https://www.sciencedirect.com/journal/extreme-mechanics-letters" style="text-decoration:none;color:black;">Extreme Mechanics Letters</a><br>
-<a href="https://lxxb.cstam.org.cn/CN/1000-0992/home.shtml" style="text-decoration:none;color:black;">力学学报</a><br>
-<a href="https://yylxxb.cstam.org.cn/" style="text-decoration:none;color:black;">应用力学学报</a><br>
-</p>
-
-<hr>
-<h3>软件与工具 Software & Tools</h3>
-<p style="text-align:left;">
-<a href="https://www.3ds.com/products-services/simulia/products/abaqus/" style="text-decoration:none;color:black;">ABAQUS</a><br>
-<a href="https://www.ansys.com/" style="text-decoration:none;color:black;">ANSYS</a><br>
-<a href="https://www.mathworks.com/products/matlab.html" style="text-decoration:none;color:black;">MATLAB</a><br>
-<a href="https://github.com/" style="text-decoration:none;color:black;">GitHub</a><br>
-<a href="https://www.overleaf.com/" style="text-decoration:none;color:black;">Overleaf</a><br>
-<a href="https://scholar.google.com/" style="text-decoration:none;color:black;">Google Scholar</a><br>
-<a href="https://www.researchgate.net/" style="text-decoration:none;color:black;">ResearchGate</a><br>
 </p>
