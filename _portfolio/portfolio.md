@@ -47,7 +47,7 @@ collection: portfolio
 
 <hr>
 <table border=0>
-  <tr><td width=250 ><img src="/images/Album/2024_LUH_potluck1.jpg" width="450"></td><td width=450><img src="/images/Album/2024_LUH_potluck2.jpg" width="450"></td></tr>
+  <tr><td width=350 ><img src="/images/Album/2024_LUH_potluck1.jpg" width="350"></td><td width=350><img src="/images/Album/2024_LUH_potluck2.jpg" width="350"></td></tr>
 </table>
 2024/12/6 Christmas potluck with the research group at Leibniz University Hannover during the Humboldt fellowship.
 
