@@ -46,8 +46,11 @@ collection: portfolio
 -->
 
 <hr>
-<img src="/images/Album/2024_LUH_potluck.jpg" width="500"><br>
+<table border=0>
+  <tr><td width=250 ><img src="/images/Album/2024_LUH_potluck1.jpg" width="450"></td><td width=450><img src="/images/Album/2024_LUH_potluck2.jpg" width="450"></td></tr>
+</table>
 2024/12/6 Christmas potluck with the research group at Leibniz University Hannover during the Humboldt fellowship.
+
 <hr>
 <img src="/images/Album/2019_GongPhDdefense.jpg" width="500"><br>
 2019/6/6 After Yanpeng Gong PhD dissertation defense (with the committee, from left to right: Prof. Yu Yang, Prof. Zhou Hongwei, Prof. Feng Xiqiao, Prof. Yao Zhenhan, Yanpeng Gong, Prof. Dong Chunying, Prof. Qin Fei, Prof. Su Yu, Prof. Yue Baozeng)
