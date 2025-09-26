@@ -58,7 +58,7 @@ collection: portfolio
 <hr>
 <table border=0>
   <tr><td width=300><img src="/images/Album/2024_Europe_travel1.jpg" width="300"></td><td width=350><img src="/images/Album/2024_Europe_travel2.jpg" width="350"></td></tr>
-  <tr><td width=300><img src="/images/Album/2024_Europe_travel3.jpg" width="300"></td><td width=350><img src="/images/Album/2024_Europe_travel4.jpg" width="350"></td></tr>
+  <tr><td width=350><img src="/images/Album/2024_Europe_travel3.jpg" width="350"></td><td width=350><img src="/images/Album/2024_Europe_travel4.jpg" width="350"></td></tr>
 </table>
 2023-2024欧洲游览掠影。Travel snapshots in Europe.
 
