@@ -92,10 +92,29 @@ collection: people
 
 <hr>
 <h3>硕士研究生 Graduate Students</h3>
+<style>
+.award-badge {
+    background: linear-gradient(135deg, #ffd700, #ffed4e);
+    color: #8b6914;
+    padding: 3px 8px;
+    border-radius: 12px;
+    font-size: 0.85em;
+    font-weight: bold;
+    margin: 0 5px;
+    display: inline-block;
+    border: 1px solid #f1c40f;
+    box-shadow: 0 1px 2px rgba(255, 215, 0, 0.3);
+}
 
-- 2022.09-2025.06,寇玉国, <a href="http://yanpeng-gong.github.io/files/Postdoc_HangLi.pdf" style="text-decoration:none;color:gray;"> 毕业论文题目：热力耦合相场模型在电子封装互连结构中的应用 Application of thermal coupled phase field model in electronic packaging interconnection structures </a>. 毕业去向：华南理工大学（读博）.
+.award-badge::before {
+content: "🏆 ";
+margin-right: 2px;
+}
+</style>
 
-- 2021.09-2024.06, 徐浩, <a href="http://yanpeng-gong.github.io/files/Postdoc_HangLi.pdf" style="text-decoration:none;color:gray;"> 毕业论文题目：边界元法在电子封装瞬态问题中的应用 Application of boundary element method to transient problems in electronic packaging</a>. 毕业去向：北京新风航天装备有限公司.
+- 2022.09-2025.06,寇玉国, <a href="http://yanpeng-gong.github.io/files/Postdoc_HangLi.pdf" style="text-decoration:none;color:gray;"> 毕业论文题目：热力耦合相场模型在电子封装互连结构中的应用 Application of thermal coupled phase field model in electronic packaging interconnection structures </a> <span class="award-badge">北京工业大学优秀毕业论文</span>. 毕业去向：华南理工大学（读博）.
+
+- 2021.09-2024.06, 徐浩, <a href="http://yanpeng-gong.github.io/files/Postdoc_HangLi.pdf" style="text-decoration:none;color:gray;"> 毕业论文题目：边界元法在电子封装瞬态问题中的应用 Application of boundary element method to transient problems in electronic packaging</a> <span class="award-badge">北京工业大学优秀毕业论文</span>. 毕业去向：北京新风航天装备有限公司.
 
 <!--
 <hr>
