@@ -57,14 +57,14 @@ collection: portfolio
 
 <hr>
 <table border=0>
-  <tr><td width=450><img src="/images/Album/2024_Europe_travel1.jpg" width="450"></td><td width=450><img src="/images/Album/2024_Europe_travel2.jpg" width="450"></td></tr>
-  <tr><td width=450><img src="/images/Album/2024_Europe_travel3.jpg" width="450"></td><td width=450><img src="/images/Album/2024_Europe_travel4.jpg" width="450"></td></tr>
+  <tr><td width=350><img src="/images/Album/2024_Europe_travel1.jpg" width="350"></td><td width=350><img src="/images/Album/2024_Europe_travel2.jpg" width="350"></td></tr>
+  <tr><td width=350><img src="/images/Album/2024_Europe_travel3.jpg" width="350"></td><td width=350><img src="/images/Album/2024_Europe_travel4.jpg" width="350"></td></tr>
 </table>
 2023-2024欧洲游览掠影。Travel snapshots in Europe.
 
 <hr>
 <table border=0>
-  <tr><td width=450><img src="/images/Album/2023_humboldt_conference_gong.jpg" width="450"></td><td width=450><img src="/images/Album/2023_humboldt_president_group.jpg" width="450"></td></tr>
+  <tr><td width=350><img src="/images/Album/2023_humboldt_conference_gong.jpg" width="350"></td><td width=350><img src="/images/Album/2023_humboldt_president_group.jpg" width="350"></td></tr>
 </table>
 2023/06/29 参加洪堡基金会年会期间与德国总统弗兰克-瓦尔特·施泰因迈尔合影。Photo with German President Frank-Walter Steinmeier during the Humboldt Foundation Annual Conference.
 
