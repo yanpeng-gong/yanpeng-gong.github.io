@@ -18,7 +18,6 @@ collection: news
 <p>课题组最新动态和重要消息 | Latest news and updates from our research group</p>
 
 <h3>2025</h3>
-- **Sept 26, 2024**: Prof.
 
 - 9 月 26 日，公颜鹏获聘为《应用力学学报》青年编辑委员会委员。Yanpeng Gong was appointed as a member of the Young Editorial Board of _Chinese Journal of Applied Mechanics_ (应用力学学报).
 
