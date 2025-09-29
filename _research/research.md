@@ -18,7 +18,7 @@ collection: research
 <h3>数值方法与软件开发 Numerical Methods & Software Development</h3>
 
 <p style="color:indianred;">Keywords: Isogeometric analysis, Phase field, PINN, Boundary element method, FEM-BEM coupling, ABAQUS integration</p>
-<div style="text-align: center;"><img src="/images/Research/numerical_methods.jpg" width="700"></div>
+<div style="text-align: center;"><img src="/images/Research/numerical_methods.jpg" width="800"></div>
 <p>我们致力于解决复杂工程问题中的关键数值计算挑战，开发高效的计算方法和软件工具。研究涵盖电子封装热-力-电多物理场耦合分析、软体机器人力学仿真、先进材料失效预测等前沿工程问题，特别是在等几何分析、相场法、机器学习、边界元法、虚单元法及商业软件二次开发等计算力学先进数值方法方面，开展深入的理论研究与工程应用。
 We are committed to solving critical numerical computational challenges in complex engineering problems by developing efficient computational methods and software tools. Our research addresses cutting-edge engineering challenges including thermo-electro-mechanical multi-physics coupling analysis in electronic packaging, soft robotics mechanical simulation, and advanced material failure prediction, with particular expertise in advanced numerical methods of computational mechanics such as isogeometric analysis, phase-field methods, machine learning, boundary element methods, virtual element methods, and commercial software secondary development.</p>
 <ol>
