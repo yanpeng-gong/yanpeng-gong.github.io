@@ -18,7 +18,7 @@ collection: research
 <h3>数值方法与软件开发 Numerical Methods & Software Development</h3>
 
 <p style="color:indianred;">Keywords: Isogeometric analysis, Phase field, PINN, Boundary element method, FEM-BEM coupling, ABAQUS integration</p>
-<div style="text-align: center;"><img src="/images/Research/numerical_methods.jpg" width="800"></div>
+<div style="text-align: center;"><img src="/images/Research/numerical_methods.jpg" width="950"></div>
 <p>我们致力于解决复杂工程问题中的关键数值计算挑战，开发高效的计算方法和软件工具。研究涵盖电子封装热-力-电多物理场耦合分析、软体机器人力学仿真、先进材料失效预测等前沿工程问题，特别是在等几何分析、相场法、机器学习、边界元法、虚单元法及商业软件二次开发等计算力学先进数值方法方面，开展深入的理论研究与工程应用。
 We are committed to solving critical numerical computational challenges in complex engineering problems by developing efficient computational methods and software tools. Our research addresses cutting-edge engineering challenges including thermo-electro-mechanical multi-physics coupling analysis in electronic packaging, soft robotics mechanical simulation, and advanced material failure prediction, with particular expertise in advanced numerical methods of computational mechanics such as isogeometric analysis, phase-field methods, machine learning, boundary element methods, virtual element methods, and commercial software secondary development.</p>
 <ol>
@@ -47,7 +47,7 @@ We are committed to solving critical numerical computational challenges in compl
 <h3>电子封装可靠性分析 Electronic Packaging Reliability</h3>
 <p style="color:indianred;">Keywords: Multi-scale structures, Multi-physics coupling, Thermal cycling, Phase-field modeling, IGBT modules, TSV structures, Advanced numerical techniques, Reliability prediction</p>
 
-<div style="text-align: center;"><img src="/images/Research/Electronic_Packaging_Reliability.jpg" width="700"></div>
+<div style="text-align: center;"><img src="/images/Research/Electronic_Packaging_Reliability.jpg" width="900"></div>
 
 <p>针对电子封装结构在复杂服役环境下的可靠性问题，我们建立多尺度、多物理场耦合的数值分析方法，重点研究热循环载荷下的材料损伤演化、界面失效机制及可靠性预测技术，为电子器件的设计优化和寿命评估提供理论支撑和工程指导。Addressing reliability issues of electronic packaging structures under complex service environments, we develop multiscale and multi-physics coupling numerical analysis methods, focusing on material damage evolution under thermal cycling, interface failure mechanisms, and reliability prediction technologies, providing theoretical support and engineering guidance for design optimization and lifetime assessment of electronic devices.</p>
 
