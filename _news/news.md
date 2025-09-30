@@ -33,7 +33,7 @@ collection: news
 
 - 9 月 10 日，欢迎贺一达、李思帅同学加入课题组，攻读硕士研究生学位！
 
-- 1 月 1 日，公颜鹏获德国洪堡基金会资助，赴莱布尼兹-汉诺威大学开展博士后研究项目。
+- 1 月 1 日，公颜鹏获德国洪堡基金会资助，赴莱布尼兹-汉诺威大学开展博士后研究项目。Yanpeng Gong received funding from the Alexander von Humboldt Foundation and commenced his postdoctoral research at Leibniz University Hannover.
 
 <h3>2022</h3>
 
