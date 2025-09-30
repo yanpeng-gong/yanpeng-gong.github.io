@@ -45,7 +45,7 @@ author_profile: false
 <li style="margin-bottom: 15px;">
   <u>Y. Gong</u>, Y. He, Y. Mei*, X. Zhuang*, F. Qin, T. Rabczuk. 
   <a href="https://arxiv.org/abs/2508.16999" style="text-decoration:none; color:#DE3163;">
-      <strong>Physics-Informed Kolmogorov-Arnold Networks for multi-material elasticity problems in electronic packaging.</strong>
+    Physics-Informed Kolmogorov-Arnold Networks for multi-material elasticity problems in electronic packaging.
   </a> 
   <b>arXiv</b> 
   <a href="http://yanpeng-gong.github.io/files/2025_PIKAN.pdf" style="text-decoration:none;">
