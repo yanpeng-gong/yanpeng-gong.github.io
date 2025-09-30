@@ -39,6 +39,8 @@ collection: news
 
 - 9 月 10 日，欢迎寇玉国同学加入课题组，攻读硕士研究生学位！
 
+- 2022 年 4 月 1 日起，公颜鹏受聘为北京工业大学副研究员（副高级）。Yanpeng Gong was appointed as Associate Professor at Beijing University of Technology.
+
 <h3>2021</h3>
 
 - 9 月 8 日，欢迎徐浩同学加入课题组，攻读硕士研究生学位！
