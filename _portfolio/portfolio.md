@@ -72,7 +72,7 @@ collection: portfolio
 <table border=0 cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
   <td width=350 style="border:none;"><img src="/images/Album/2023_humboldt_conference_gong.jpg" width="350" style="border:none;"></td>
-  <td width=350 style="border:none;"><img src="/images/Album/2023_humboldt_president_group.jpg" width="350" style="border:none;"></td>
+  <td width=300 style="border:none;"><img src="/images/Album/2023_humboldt_president_group.jpg" width="300" style="border:none;"></td>
   </tr>
 </table>
 2023/06/29 参加洪堡基金会年会期间与德国总统弗兰克-瓦尔特·施泰因迈尔合影。Photo with German President Frank-Walter Steinmeier during the Humboldt Foundation Annual Conference.
