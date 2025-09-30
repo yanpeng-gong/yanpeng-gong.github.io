@@ -65,8 +65,8 @@ collection: portfolio
   <td width=350 style="border:none;"><img src="/images/Album/2024_Europe_travel2.jpg" width="350" style="border:none;"></td>
   </tr>
   <tr>
-  <td width=350 style="border:none;"><img src="/images/Album/2024_Europe_travel3.jpg" width="350" style="border:none;"></td>
-  <td width=350 style="border:none;"><img src="/images/Album/2024_Europe_travel4.jpg" width="350" style="border:none;"></td>
+  <td width=300 style="border:none;"><img src="/images/Album/2024_Europe_travel3.jpg" width="300" style="border:none;"></td>
+  <td width=300 style="border:none;"><img src="/images/Album/2024_Europe_travel4.jpg" width="300" style="border:none;"></td>
   </tr>
 </table>
 2023-2024 Travel snapshots in Europe.
