@@ -52,8 +52,8 @@ collection: portfolio
 <hr>
 <table border=0 cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
-  <td width=350 ><img src="/images/Album/2024_LUH_potluck1.jpg" width="350"></td>
-  <td width=350><img src="/images/Album/2024_LUH_potluck2.jpg" width="350"></td>
+  <td width=350 style="border:none;"><img src="/images/Album/2024_LUH_potluck1.jpg" width="350" style="border:none;"></td>
+  <td width=350 style="border:none;"><img src="/images/Album/2024_LUH_potluck2.jpg" width="350" style="border:none;"></td>
   </tr>
 </table>
 2024/12/6 Christmas potluck with the research group at Leibniz University Hannover.
