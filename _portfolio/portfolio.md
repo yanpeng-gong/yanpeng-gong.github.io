@@ -59,14 +59,12 @@ collection: portfolio
 2024/12/6 Christmas potluck with the research group at Leibniz University Hannover.
 
 <hr>
-<table border=0 cellspacing="0" cellpadding="0" style="border:none;">
+<table border="0" cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
-  <td width=300 style="border:none;"><img src="/images/Album/2024_Europe_travel1.jpg" width="300" style="border:none;"></td>
-  <td width=350 style="border:none;"><img src="/images/Album/2024_Europe_travel2.jpg" width="350" style="border:none;"></td>
-  </tr>
-  <tr>
-  <td width=300 style="border:none;"><img src="/images/Album/2024_Europe_travel3.jpg" width="300" style="border:none;"></td>
-  <td width=300 style="border:none;"><img src="/images/Album/2024_Europe_travel4.jpg" width="300" style="border:none;"></td>
+    <td style="border:none;"><img src="/images/Album/2024_Europe_travel1.jpg" width="300" style="border:none;"></td>
+    <td style="border:none;"><img src="/images/Album/2024_Europe_travel2.jpg" width="300" style="border:none;"></td>
+    <td style="border:none;"><img src="/images/Album/2024_Europe_travel3.jpg" width="300" style="border:none;"></td>
+    <td style="border:none;"><img src="/images/Album/2024_Europe_travel4.jpg" width="300" style="border:none;"></td>
   </tr>
 </table>
 2023-2024 Travel snapshots in Europe.
