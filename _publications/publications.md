@@ -68,6 +68,9 @@ author_profile: false
   <a href="https://arxiv.org/abs/2508.11410" style="text-decoration:none; color:#4A90E2;">
     [arXiv]
   </a>
+  <a href="https://github.com/yanpeng-gong/VEM-electronic-packaging" style="text-decoration:none; color:#24292e;">
+  <i class="fa fa-github" style="font-size:16px;"></i> [Code]
+  </a>
 </li>
 
 <!--
