@@ -40,13 +40,38 @@ author_profile: false
 
 <br>
 <hr>
-<h3>2025</h3>
+<h2 style="color: #008B8B; font-weight: bold; font-size: 28px; margin-bottom: 20px;">Forthcoming</h2>
+<li style="margin-bottom: 15px;">
+    <u>Y. Gong</u>, Y. He, Y. Mei*, X. Zhuang*, F. Qin, T. Rabczuk. 
+    <a href="https://arxiv.org/abs/2508.16999" style="text-decoration:none; color:#DE3163;">
+      <strong>Physics-Informed Kolmogorov-Arnold Networks for multi-material elasticity problems in electronic packaging.</strong>
+    </a> 
+    <strong>arXiv</strong> 
+    <a href="http://yanpeng-gong.github.io/files/2025_PIKAN.pdf" style="text-decoration:none;">
+      <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
+    </a>
+  </li>
+  
+  <li style="margin-bottom: 15px;">
+    <u>Y. Gong</u>, S. Li, F. Qin, B. Xu*. 
+    <a href="https://dx.doi.org/10.48550/arxiv.2508.11410" style="text-decoration:none; color:#DE3163;">
+      <strong>Virtual element method for thermomechanical analysis of electronic packaging structures with multi-scale features.</strong>
+    </a> 
+    <strong>Engineering with Computers</strong> (2025) 
+    <a href="http://yanpeng-gong.github.io/files/2025_VEM.pdf" style="text-decoration:none;">
+      <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
+    </a>
+  </li>
+
 <!--
-<li><p>S. Gupta, <u>Z. Dai</u>, K. Khare*. <a href="https://doi.org/10.48550/arXiv.2505.00640" style="text-decoration:none;color:gray;">Liquid Bridges on Lubricated Surfaces: A Counterintuitive Interplay of Liquid Pressure and Thin-Film Dynamics.</a> <b>arXiv</b> (in submission) <a href="http://zhaohedai.github.io/files/2025_Slips"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li> 
--->
 <li><u>Y. Gong</u>, Y. He, Y. Mei*, X. Zhuang*, F. Qin, T. Rabczuk. <a href="https://arxiv.org/abs/2508.16999" style="text-decoration:none;color:#DE3163;">Physics-Informed Kolmogorov-Arnold Networks for multi-material elasticity problems in electronic packaging.</a> <b>arXiv</b> <a href="http://yanpeng-gong.github.io/files/2025_PIKAN.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
 
 <li><u>Y. Gong</u>, S. Li, F. Qin, B. Xu*. <a href="https://dx.doi.org/10.48550/arxiv.2508.11410" style="text-decoration:none;color:#DE3163;">Virtual element method for thermomechanical analysis of electronic packaging structures with multi-scale features.</a> <b>Engineering with Computers</b> (2025) <a href="http://yanpeng-gong.github.io/files/2025_VEM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
+-->
+
+<br>
+<hr>
+<h3>2025</h3>
 
 <li>X. Zhuang*, H. Hu**, S. S. Nanthakumar, Q.-T. Tran, <u>Y. Gong</u>, T. Rabczuk. <a href="https://dx.doi.org/10.1016/j.apm.2025.116327" style="text-decoration:none;color:#DE3163;">Variationally consistent Maxwell stress in flexoelectric structures under finite deformation and immersed in free space</a>. <b>Applied Mathematical Modelling</b> (2025) 116327 <a href="http://yanpeng-gong.github.io/files/2025_AMM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li>
 
