@@ -82,12 +82,7 @@ author_profile: false
   </a>
 </li>
 
-<!--
-<li><u>Y. Gong</u>, Y. He, Y. Mei*, X. Zhuang*, F. Qin, T. Rabczuk. <a href="https://arxiv.org/abs/2508.16999" style="text-decoration:none;color:#DE3163;">Physics-Informed Kolmogorov-Arnold Networks for multi-material elasticity problems in electronic packaging.</a> <b>arXiv</b> <a href="http://yanpeng-gong.github.io/files/2025_PIKAN.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
-
-<li><u>Y. Gong</u>, S. Li, F. Qin, B. Xu*. <a href="https://dx.doi.org/10.48550/arxiv.2508.11410" style="text-decoration:none;color:#DE3163;">Virtual element method for thermomechanical analysis of electronic packaging structures with multi-scale features.</a> <b>Engineering with Computers</b> (2025) <a href="http://yanpeng-gong.github.io/files/2025_VEM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
--->
-
+<!-- 2025 -->
 <br>
 <hr>
 <h3>2025</h3>
@@ -100,6 +95,7 @@ author_profile: false
 
 <li>H. Liu, F. Wang*, S. Cheng, L. Qiu, <u>Y. Gong</u>. <a href="https://doi.org/10.1063/5.0191290" style="text-decoration:none;color:#DE3163;">Shape optimization of sound barriers using an isogeometric meshless method</a>. <b>Physics of Fluids</b> 36(2) (2024) 027116 <a href="http://yanpeng-gong.github.io/files/2024_POF.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
 
+<!-- 2024 -->
 <br>
 <hr>
 <h3>2024</h3>
@@ -110,6 +106,7 @@ author_profile: false
 
 <li>S. Song, T. An*, F. Qin, <u>Y. Gong</u>, Y. Dai, P. Chen. <a href="https://doi.org/10.1109/ICEPT63120.2024.10668476" style="text-decoration:none;color:#DE3163;">Effect of Different Solder Layer Damage on Junction Temperature of IGBT Module</a>. <b>2024 25th International Conference on Electronic Packaging Technology (ICEPT)</b> (2024) 1-4 <a href="http://yanpeng-gong.github.io/files/2024_ICEPT.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
 
+<!-- 2023 -->
 <br>
 <hr>
 <h3>2023</h3>
@@ -127,6 +124,7 @@ author_profile: false
 
 <li>M. Zhang, F. Qin*, S. Chen, Y. Dai, Y. Jin, P. Chen, T. An, <u>Y. Gong</u>. <a href="https://doi.org/10.1109/TDMR.2022.3232128" style="text-decoration:none;color:#DE3163;">Effect of Capped Cu Layer on Protrusion Behaviors of Through Silicon via Copper (TSV-Cu) Under Double Annealing Conditions: Comparative Study</a>. <b>IEEE Transactions on Device and Materials Reliability</b> 23(1) (2023) 89-98 <a href="http://yanpeng-gong.github.io/files/2023_TDMR.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
 
+<!-- 2022 -->
 <br>
 <hr>
 <h3>2022</h3>
@@ -156,6 +154,7 @@ author_profile: false
 
 <li>Y. Tian, T. An*, F. Qin, <u>Y. Gong</u>, Y. Dai, Y. Chen. <a href="https://doi.org/10.1109/ICEPT56209.2022.9873277" style="text-decoration:none;color:#DE3163;">Stress analysis of automotive IGBT module under vibration load</a>. <b>2022 23rd International Conference on Electronic Packaging Technology (ICEPT)</b> (2022) 1-4 <a href="http://yanpeng-gong.github.io/files/2022_ICEPT4.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
 
+<!-- 2021 -->
 <br>
 <hr>
 <h3>2021</h3>
@@ -173,6 +172,7 @@ author_profile: false
 
 <li>S. Zhao, Y. Dai*, F. Qin**, Y. Li, L. Liu, Z. Zan, T. An, P. Chen, <u>Y. Gong</u>, Y. Wang. <a href="https://doi.org/10.1016/j.msea.2021.141729" style="text-decoration:none;color:#DE3163;">On mode II fracture toughness of sintered silver based on end-notch flexure (ENF) test considering various sintering parameters</a>. <b>Materials Science and Engineering: A</b> 823 (2021) 141729 <a href="http://yanpeng-gong.github.io/files/2021_MSEA.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
 
+<!-- 2020 -->
 <br>
 <hr>
 <h3>2020</h3>
@@ -185,6 +185,7 @@ author_profile: false
 
 <li>F. Qin*, Y. Hu, Y. Dai, T. An, P. Chen, <u>Y. Gong</u>, H. Yu. <a href="https://doi.org/10.1007/s11664-020-08325-1" style="text-decoration:none;color:#DE3163;">Crack Effect on the Equivalent Thermal Conductivity of Porously Sintered Silver</a>. <b>Journal of Electronic Materials</b> 49(10) (2020) 5994-6008 <a href="http://yanpeng-gong.github.io/files/2020_JEM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
 
+<!-- 2019 -->
 <br>
 <hr>
 <h3>2019</h3>
@@ -195,6 +196,7 @@ author_profile: false
 
 <li>F. Sun, C. Dong*, Y. Wu, <u>Y. Gong</u>. <a href="https://doi.org/10.1016/j.amc.2019.04.030" style="text-decoration:none;color:#DE3163;">Fast direct isogeometric boundary element method for 3D potential problems based on HODLR matrix</a>. <b>Applied Mathematics and Computation</b> 359 (2019) 17-33 <a href="http://yanpeng-gong.github.io/files/2019_AMC.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
 
+<!-- 2018 -->
 <br>
 <hr>
 <h3>2018</h3>
@@ -203,6 +205,7 @@ author_profile: false
 
 <li>X. Qu, C. Dong*, Y. Bai, <u>Y. Gong</u>. <a href="https://doi.org/10.1016/j.cam.2018.04.053" style="text-decoration:none;color:#DE3163;">Isogeometric boundary element method for calculating effective property of steady state thermal conduction in 2D heterogeneities with a homogeneous interphase</a>. <b>Journal of Computational and Applied Mathematics</b> 343 (2018) 124-138 <a href="http://yanpeng-gong.github.io/files/2018_JCAM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
 
+<!-- 2017 -->
 <br>
 <hr>
 <h3>2017</h3>
@@ -215,6 +218,7 @@ author_profile: false
 
 <li>X. Qin, C. Dong*, F. Wang, <u>Y. Gong</u>. <a href="https://doi.org/10.1016/j.tws.2017.03.019" style="text-decoration:none;color:#DE3163;">Free vibration analysis of isogeometric curvilinearly stiffened shells</a>. <b>Thin-Walled Structures</b> 116 (2017) 124-135 <a href="http://yanpeng-gong.github.io/files/2017_TWS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
 
+<!-- 2015 -->
 <br>
 <hr>
 <h3>2015</h3>
