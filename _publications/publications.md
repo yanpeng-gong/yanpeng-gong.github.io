@@ -47,22 +47,25 @@ author_profile: false
     <a href="https://arxiv.org/abs/2508.16999" style="text-decoration:none; color:#DE3163;">
       <strong>Physics-Informed Kolmogorov-Arnold Networks for multi-material elasticity problems in electronic packaging.</strong>
     </a> 
-    <strong>arXiv</strong> 
+    <b>arXiv</b> 
     <a href="http://yanpeng-gong.github.io/files/2025_PIKAN.pdf" style="text-decoration:none;">
       <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
     </a>
   </li>
   
-  <li style="margin-bottom: 15px;">
-    <u>Y. Gong</u>, S. Li, F. Qin, B. Xu*. 
-    <a href="https://dx.doi.org/10.48550/arxiv.2508.11410" style="text-decoration:none; color:#DE3163;">
-      <strong>Virtual element method for thermomechanical analysis of electronic packaging structures with multi-scale features.</strong>
-    </a> 
-    <strong>Engineering with Computers</strong> (2025) 
-    <a href="http://yanpeng-gong.github.io/files/2025_VEM.pdf" style="text-decoration:none;">
-      <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
-    </a>
-  </li>
+ <li style="margin-bottom: 15px;">
+  <u>Y. Gong</u>, S. Li, F. Qin, B. Xu*. 
+  <a href="https://dx.doi.org/10.48550/arxiv.2508.11410" style="text-decoration:none; color:#DE3163;">
+    <b>Virtual element method for thermomechanical analysis of electronic packaging structures with multi-scale features.</b>
+  </a> 
+  <b>Engineering with Computers</b> (2025)
+  <a href="http://yanpeng-gong.github.io/files/2025_VEM.pdf" style="text-decoration:none;">
+    <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
+  </a>
+  <a href="https://arxiv.org/abs/2508.11410" style="text-decoration:none; color:#4A90E2;">
+    [arXiv]
+  </a>
+</li>
 
 <!--
 <li><u>Y. Gong</u>, Y. He, Y. Mei*, X. Zhuang*, F. Qin, T. Rabczuk. <a href="https://arxiv.org/abs/2508.16999" style="text-decoration:none;color:#DE3163;">Physics-Informed Kolmogorov-Arnold Networks for multi-material elasticity problems in electronic packaging.</a> <b>arXiv</b> <a href="http://yanpeng-gong.github.io/files/2025_PIKAN.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
@@ -236,7 +239,7 @@ author_profile: false
 <!-- 专著 -->
 <li>C. Dong, <u>Y. Gong</u>, F. Sun. Isogeometric Boundary Element Method (等几何边界元法). Science Press, Beijing, 1st Edition (May 2023) ISBN: 9787030742926</li>
 
-<!--
  <!-- 书籍章节 -->
+ <!--
  <li><u>Y. Gong</u>, F. Qin. Chapter 5: Computational Methods for Electronic Packaging. In: Advanced Electronic Packaging Technologies. Springer (2024) pp. 85-110</li>
 -->
