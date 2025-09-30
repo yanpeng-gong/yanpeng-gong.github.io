@@ -43,20 +43,20 @@ author_profile: false
 <h2 style="color: #008B8B; font-weight: bold; font-size: 28px; margin-bottom: 20px;">Forthcoming</h2>
 
 <li style="margin-bottom: 15px;">
-    <u>Y. Gong</u>, Y. He, Y. Mei*, X. Zhuang*, F. Qin, T. Rabczuk. 
-    <a href="https://arxiv.org/abs/2508.16999" style="text-decoration:none; color:#DE3163;">
+  <u>Y. Gong</u>, Y. He, Y. Mei*, X. Zhuang*, F. Qin, T. Rabczuk. 
+  <a href="https://arxiv.org/abs/2508.16999" style="text-decoration:none; color:#DE3163;">
       <strong>Physics-Informed Kolmogorov-Arnold Networks for multi-material elasticity problems in electronic packaging.</strong>
-    </a> 
-    <b>arXiv</b> 
-    <a href="http://yanpeng-gong.github.io/files/2025_PIKAN.pdf" style="text-decoration:none;">
+  </a> 
+  <b>arXiv</b> 
+  <a href="http://yanpeng-gong.github.io/files/2025_PIKAN.pdf" style="text-decoration:none;">
       <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
-    </a>
-      <a href="https://arxiv.org/abs/2508.16999" style="text-decoration:none; color:#4A90E2;">
+  </a>
+  <a href="https://arxiv.org/abs/2508.16999" style="text-decoration:none; color:#4A90E2;">
     [arXiv]
   </a>
-  </li>
+</li>
   
- <li style="margin-bottom: 15px;">
+<li style="margin-bottom: 15px;">
   <u>Y. Gong</u>, S. Li, F. Qin, B. Xu*. 
   <a href="https://dx.doi.org/10.48550/arxiv.2508.11410" style="text-decoration:none; color:#DE3163;">
     Virtual element method for thermomechanical analysis of electronic packaging structures with multi-scale features.
