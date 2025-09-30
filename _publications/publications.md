@@ -41,6 +41,7 @@ author_profile: false
 <br>
 <hr>
 <h2 style="color: #008B8B; font-weight: bold; font-size: 28px; margin-bottom: 20px;">Forthcoming</h2>
+
 <li style="margin-bottom: 15px;">
     <u>Y. Gong</u>, Y. He, Y. Mei*, X. Zhuang*, F. Qin, T. Rabczuk. 
     <a href="https://arxiv.org/abs/2508.16999" style="text-decoration:none; color:#DE3163;">
