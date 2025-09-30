@@ -51,6 +51,9 @@ author_profile: false
     <a href="http://yanpeng-gong.github.io/files/2025_PIKAN.pdf" style="text-decoration:none;">
       <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
     </a>
+      <a href="https://arxiv.org/abs/2508.16999" style="text-decoration:none; color:#4A90E2;">
+    [arXiv]
+  </a>
   </li>
   
  <li style="margin-bottom: 15px;">
