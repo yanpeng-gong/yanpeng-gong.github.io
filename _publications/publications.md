@@ -44,7 +44,7 @@ author_profile: false
 
 <li style="margin-bottom: 15px;">
      <!-- Author names -->
-  <u>Y. Gong</u>, Y. He, Y. Mei*, X. Zhuang*, F. Qin, T. Rabczuk. 
+  <u>Y. Gong</u>*, Y. He, Y. Mei*, X. Zhuang*, F. Qin, T. Rabczuk. 
      <!-- Title of the paper -->
   <a href="https://arxiv.org/abs/2508.16999" style="text-decoration:none; color:#DE3163;">
     Physics-Informed Kolmogorov-Arnold Networks for multi-material elasticity problems in electronic packaging.
@@ -62,7 +62,7 @@ author_profile: false
   
 <li style="margin-bottom: 15px;">
      <!-- Author names -->
-  <u>Y. Gong</u>, S. Li, F. Qin, B. Xu*. 
+  <u>Y. Gong</u>*, S. Li, F. Qin, B. Xu*. 
      <!-- Title of the paper -->
   <a href="https://dx.doi.org/10.48550/arxiv.2508.11410" style="text-decoration:none; color:#DE3163;">
     Virtual element method for thermomechanical analysis of electronic packaging structures with multi-scale features.
@@ -89,9 +89,9 @@ author_profile: false
 
 <li>X. Zhuang*, H. Hu**, S. S. Nanthakumar, Q.-T. Tran, <u>Y. Gong</u>, T. Rabczuk. <a href="https://dx.doi.org/10.1016/j.apm.2025.116327" style="text-decoration:none;color:#DE3163;"> Variationally consistent Maxwell stress in flexoelectric structures under finite deformation and immersed in free space</a>. <b>Applied Mathematical Modelling</b> (2025) 116327 <a href="http://yanpeng-gong.github.io/files/papers/2025_AMM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
 
-<li><u>Y. Gong</u>*, Y. Kou, Q. Yue, X. Zhuang, N. Valizadeh, F. Qin, Q. Wang, T. Rabczuk. <a href="https://dx.doi.org/10.1016/j.engfracmech.2025.111039" style="text-decoration:none;color:#DE3163;">A phase-field study on thermo-mechanical coupled damage evolution and failure mechanisms of sintered silver interconnections</a>. <b>Engineering Fracture Mechanics</b> (2025) 111039 <a href="http://yanpeng-gong.github.io/files/papers/2025_EFM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
+<li><u>Y. Gong</u>*, Y. Kou, Q. Yue*, X. Zhuang*, N. Valizadeh, F. Qin, Q. Wang, T. Rabczuk. <a href="https://dx.doi.org/10.1016/j.engfracmech.2025.111039" style="text-decoration:none;color:#DE3163;">A phase-field study on thermo-mechanical coupled damage evolution and failure mechanisms of sintered silver interconnections</a>. <b>Engineering Fracture Mechanics</b> (2025) 111039 <a href="http://yanpeng-gong.github.io/files/papers/2025_EFM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
 
-<li><u>Y. Gong</u>*, Y. He, H. Hu, X. Zhuang, F. Qin, H. Xu, T. Rabczuk. <a href="https://doi.org/10.1016/j.engstruct.2024.119500" style="text-decoration:none;color:#DE3163;">A coupled finite element–boundary element method for transient elastic dynamic analysis of electronic packaging structures</a>. <b>Engineering Structures</b> 326 (2025) 119500 <a href="http://yanpeng-gong.github.io/files/papers/2025_ES.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
+<li><u>Y. Gong</u>*, Y. He, H. Hu, X. Zhuang*, F. Qin, H. Xu, T. Rabczuk. <a href="https://doi.org/10.1016/j.engstruct.2024.119500" style="text-decoration:none;color:#DE3163;">A coupled finite element–boundary element method for transient elastic dynamic analysis of electronic packaging structures</a>. <b>Engineering Structures</b> 326 (2025) 119500 <a href="http://yanpeng-gong.github.io/files/papers/2025_ES.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
 
 <li>H. Liu, F. Wang*, S. Cheng, L. Qiu, <u>Y. Gong</u>. <a href="https://doi.org/10.1063/5.0191290" style="text-decoration:none;color:#DE3163;">Shape optimization of sound barriers using an isogeometric meshless method</a>. <b>Physics of Fluids</b> 36(2) (2024) 027116 <a href="http://yanpeng-gong.github.io/files/papers/2024_POF.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
 
@@ -110,7 +110,7 @@ author_profile: false
 <br>
 <hr>
 <h3>2023</h3>
-<li>F. Qin, Q. He, <u>Y. Gong</u>*, C. Hou, H. Cheng, T. An, Y. Dai, P. Chen. <a href="https://doi.org/10.1115/1.4055125" style="text-decoration:none;color:#DE3163;">An Automatic Finite Element Method-Boundary Element Method Coupling Method for Elastic–Plastic Problems of Multiscale Structures in Electronic Packaging</a>. <b>Journal of Electronic Packaging</b> 145(2) (2023) <a href="http://yanpeng-gong.github.io/files/papers/.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
+<li>F. Qin, Q. He, <u>Y. Gong</u>*, C. Hou, H. Cheng, T. An, Y. Dai, P. Chen. <a href="https://doi.org/10.1115/1.4055125" style="text-decoration:none;color:#DE3163;">An Automatic Finite Element Method-Boundary Element Method Coupling Method for Elastic–Plastic Problems of Multiscale Structures in Electronic Packaging</a>. <b>Journal of Electronic Packaging</b> 145(2) (2023) <a href="http://yanpeng-gong.github.io/files/papers/2023_JEP.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
 
 <li>H. Xu, <u>Y. Gong</u>*, Y. Kou, F. Qin. <a href="https://doi.org/10.1109/icept59018.2023.10492337" style="text-decoration:none;color:#DE3163;">An isogeometric boundary element scheme for transient heat transfer problems in electronic packaging</a>. <b>2023 24th International Conference on Electronic Packaging Technology (ICEPT)</b> (2023) <a href="http://yanpeng-gong.github.io/files/papers/2023_ICEPT.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
 
@@ -179,11 +179,11 @@ author_profile: false
 
 <li><u>Y. Gong</u>*, C. Dong, F. Qin, G. Hattori, J. Trevelyan. <a href="https://doi.org/10.1016/j.cma.2020.113099" style="text-decoration:none;color:#DE3163;">Hybrid nearly singular integration for three-dimensional isogeometric boundary element analysis of coatings and other thin structures</a>. <b>Computer Methods in Applied Mechanics and Engineering</b> 367 (2020) 113099 <a href="http://yanpeng-gong.github.io/files/papers/2020_CMAME.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
 
-<li>F. Sun, <u>Y. Gong</u>*, C. Dong. <a href="https://doi.org/10.1016/j.cam.2020.112904" style="text-decoration:none;color:#DE3163;">A novel fast direct solver for 3D elastic inclusion problems with the isogeometric boundary element method</a>. <b>Journal of Computational and Applied Mathematics</b> 377 (2020) 112904 <a href="http://yanpeng-gong.github.io/files/papers/2020_JCAM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
+<li>F. Sun, <u>Y. Gong</u>, C. Dong*. <a href="https://doi.org/10.1016/j.cam.2020.112904" style="text-decoration:none;color:#DE3163;">A novel fast direct solver for 3D elastic inclusion problems with the isogeometric boundary element method</a>. <b>Journal of Computational and Applied Mathematics</b> 377 (2020) 112904 <a href="http://yanpeng-gong.github.io/files/papers/2020_JCAM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
 
 <li>Y. Guo, H. Yu, <u>Y. Gong</u>*, F. Qin. <a href="https://doi.org/10.1109/ICEPT50128.2020.9202534" style="text-decoration:none;color:#DE3163;">Thermal analysis of IGBT by isogeometric boundary element method</a>. <b>2020 21st International Conference on Electronic Packaging Technology (ICEPT)</b> (2020) 1-5 <a href="http://yanpeng-gong.github.io/files/papers/2020_ICEPT.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
 
-<li>F. Qin*, Y. Hu, Y. Dai, T. An, P. Chen, <u>Y. Gong</u>, H. Yu. <a href="https://doi.org/10.1007/s11664-020-08325-1" style="text-decoration:none;color:#DE3163;">Crack Effect on the Equivalent Thermal Conductivity of Porously Sintered Silver</a>. <b>Journal of Electronic Materials</b> 49(10) (2020) 5994-6008 <a href="http://yanpeng-gong.github.io/files/papers/2020_JEM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
+<li>F. Qin, Y. Hu, Y. Dai*, T. An, P. Chen, <u>Y. Gong</u>, H. Yu. <a href="https://doi.org/10.1007/s11664-020-08325-1" style="text-decoration:none;color:#DE3163;">Crack Effect on the Equivalent Thermal Conductivity of Porously Sintered Silver</a>. <b>Journal of Electronic Materials</b> 49(10) (2020) 5994-6008 <a href="http://yanpeng-gong.github.io/files/papers/2020_JEM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
 
 <!-- 2019 -->
 <br>
@@ -212,9 +212,9 @@ author_profile: false
 
 <li><u>Y. Gong</u>, C. Dong*, X. Qin. <a href="https://doi.org/10.1016/j.cam.2016.10.003" style="text-decoration:none;color:#DE3163;">An isogeometric boundary element method for three dimensional potential problems</a>. <b>Journal of Computational and Applied Mathematics</b> 313 (2017) 454-468 <a href="http://yanpeng-gong.github.io/files/papers/2017_JCAM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
 
-<li><u>Y. Gong</u>*, C. Dong, Y. Bai. <a href="https://doi.org/10.1016/j.enganabound.2016.11.005" style="text-decoration:none;color:#DE3163;">Evaluation of nearly singular integrals in isogeometric boundary element method</a>. <b>Engineering Analysis with Boundary Elements</b> 75 (2017) 21-35 <a href="http://yanpeng-gong.github.io/files/papers/2017_EABE.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
+<li><u>Y. Gong</u>, C. Dong*, Y. Bai. <a href="https://doi.org/10.1016/j.enganabound.2016.11.005" style="text-decoration:none;color:#DE3163;">Evaluation of nearly singular integrals in isogeometric boundary element method</a>. <b>Engineering Analysis with Boundary Elements</b> 75 (2017) 21-35 <a href="http://yanpeng-gong.github.io/files/papers/2017_EABE.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
 
-<li><u>Y. Gong</u>*, C. Dong. <a href="https://doi.org/10.1016/j.cam.2016.12.038" style="text-decoration:none;color:#DE3163;">An isogeometric boundary element method using adaptive integral method for 3D potential problems</a>. <b>Journal of Computational and Applied Mathematics</b> 319 (2017) 141-158 <a href="http://yanpeng-gong.github.io/files/papers/2017_JCAM2.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
+<li><u>Y. Gong</u>, C. Dong*. <a href="https://doi.org/10.1016/j.cam.2016.12.038" style="text-decoration:none;color:#DE3163;">An isogeometric boundary element method using adaptive integral method for 3D potential problems</a>. <b>Journal of Computational and Applied Mathematics</b> 319 (2017) 141-158 <a href="http://yanpeng-gong.github.io/files/papers/2017_JCAM2.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
 
 <li>X. Qin, C. Dong*, F. Wang, <u>Y. Gong</u>. <a href="https://doi.org/10.1016/j.tws.2017.03.019" style="text-decoration:none;color:#DE3163;">Free vibration analysis of isogeometric curvilinearly stiffened shells</a>. <b>Thin-Walled Structures</b> 116 (2017) 124-135 <a href="http://yanpeng-gong.github.io/files/papers/2017_TWS.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
 
