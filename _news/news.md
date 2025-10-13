@@ -18,7 +18,7 @@ collection: news
 <p>课题组最新动态和重要消息 | Latest news and updates from our research group</p>
 
 <h3>2025</h3>
-- 10月10-12日，公颜鹏在<a href="http://yanpeng-gong.github.io/files/Conference_program/DACOMA-25.pdf" style="text-decoration:none;color:#DE3163;">DACOMA25会议</a>作邀请报告"Energy-Based Physics-Informed Kolmogorov-Arnold Networks for Multi-Scale Multi-Material Electronic Packaging Structures"，研究生贺一达作口头报告"Physics-Informed Neural Operator for Multi-Material Elasticity Problems in Electronic Packaging"。
+- 10月10-12日，<u>公颜鹏</u>在<a href="http://yanpeng-gong.github.io/files/Conference_program/DACOMA-25.pdf" style="text-decoration:none;color:#DE3163;">DACOMA25会议</a>作邀请报告"Energy-Based Physics-Informed Kolmogorov-Arnold Networks for Multi-Scale Multi-Material Electronic Packaging Structures"，研究生<u>贺一达</u>作口头报告"Physics-Informed Neural Operator for Multi-Material Elasticity Problems in Electronic Packaging"。
 
 - 9 月 26 日，公颜鹏获聘为《应用力学学报》青年编辑委员会委员。Yanpeng Gong was appointed as a member of the Young Editorial Board of _Chinese Journal of Applied Mechanics_ (应用力学学报).
 
