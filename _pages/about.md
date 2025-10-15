@@ -14,8 +14,6 @@ redirect_from:
 
 <hr>
 
-<p style="color:indianred;">每年招收力学/机械硕士研究生；目前有训练性课题支持本科生参与科研活动，欢迎<a href="mailto:yanpeng.gong@bjut.edu.cn" style="text-decoration:none;color:indianred;"><i class="fas fa-fw fa-envelope" style="color:indianred"></i>邮件</a>或前往<a href="https://map.baidu.com/poi/%E5%8C%97%E5%B7%A5%E5%A4%A7%E8%A5%BF%E6%A0%A1%E5%8C%BA-%E5%9F%BA%E7%A1%80%E6%A5%BC/@12966984.011321558,4821348.059172729,19z?uid=32a7781ceabaac6279dbd25a&ugc_type=3&ugc_ver=1&device_ratio=2&compat=1&pcevaname=pc4.1&querytype=detailConInfo&da_src=shareurl" style="text-decoration:none;color:indianred;"><i class="fa fa-fw fa-map-marker" style="color:indianred"></i> 基础楼703</a>讨论。</p>
-
 <p style="color:indianred;">每年招收力学/机械硕士研究生（欢迎<strong>推免生</strong>和统考生）；目前有训练性课题支持本科生参与科研活动，欢迎<a href="mailto:yanpeng.gong@bjut.edu.cn" style="text-decoration:none;color:indianred;"><i class="fas fa-fw fa-envelope" style="color:indianred"></i>邮件</a>或前往<a href="https://map.baidu.com/poi/%E5%8C%97%E5%B7%A5%E5%A4%A7%E8%A5%BF%E6%A0%A1%E5%8C%BA-%E5%9F%BA%E7%A1%80%E6%A5%BC/@12966984.011321558,4821348.059172729,19z?uid=32a7781ceabaac6279dbd25a&ugc_type=3&ugc_ver=1&device_ratio=2&compat=1&pcevaname=pc4.1&querytype=detailConInfo&da_src=shareurl" style="text-decoration:none;color:indianred;"><i class="fa fa-fw fa-map-marker" style="color:indianred"></i> 基础楼703</a>讨论。</p>
 
 <hr>
