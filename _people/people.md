@@ -37,13 +37,20 @@ collection: people
 
 - 2023.09-present, 李思帅, Sishuai Li is working on virtual element method for thermo-mechanical coupling analysis in multiscale electronic packaging structures.
 
-- 2024.09-present, 张乐通, Letong Zhang is working on phase field modeling of thermal cycling-induced failure mechanisms in electronic packaging.
+- 2024.09-present, 张乐通（推免生）, Letong Zhang is working on phase field modeling of thermal cycling-induced failure mechanisms in electronic packaging.
 
 - 2024.09-present, 宋锦泉, Jinquan Song is working on stochastic phase field modeling of material property uncertainties in electronic packaging.
 
 - 2025.09-present, 张宇喆, Yuzhe Zhang, research topic to be determined.
 
 - 2025.09-present, 杨东晋, Dongjin Yang, research topic to be determined.
+
+<!-- 在页面位置添加招生说明（更有效） -->
+<div style="background: #e7f3ff; border-left: 4px solid #007bff; padding: 15px; margin: 20px 0; border-radius: 5px;">
+  <p style="margin: 0; font-size: 14px;">
+    <strong>招生信息 Recruitment:</strong> 每年招收力学/机械硕士研究生，欢迎有志于计算数学、力学、机器学习算法的<strong>推免生</strong>和统考生提前联系。课题组有充足的科研训练机会和学术交流平台。
+  </p>
+</div>
 
 <!--
 <hr>
