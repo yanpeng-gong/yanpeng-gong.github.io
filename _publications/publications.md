@@ -95,6 +95,8 @@ author_profile: false
 
 <li>H. Liu, F. Wang*, S. Cheng, L. Qiu, <u>Y. Gong</u>. <a href="https://doi.org/10.1063/5.0191290" style="text-decoration:none;color:#DE3163;">Shape optimization of sound barriers using an isogeometric meshless method</a>. <b>Physics of Fluids</b> 36(2) (2024) 027116 <a href="http://yanpeng-gong.github.io/files/papers/2024_POF.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
 
+<li>S. Li, <u>Y. Gong</u>*, F. Qin, P. Chen. <a href="https://doi.org/10.1109/ICEPT67137.2025.11156946" style="text-decoration:none;color:#DE3163;">Virtual Element Method for Thermomechanical Problems in Electronic Packaging</a>. <b>2025 26th International Conference on Electronic Packaging Technology (ICEPT)</b> (2025) 1-6 <a href="http://yanpeng-gong.github.io/files/papers/2025_ICEPT_Li.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
+
 <!-- 2024 -->
 <br>
 <hr>

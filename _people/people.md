@@ -35,7 +35,7 @@ collection: people
 
 - 2023.09-present, 贺一达, Yida He is working on machine learning applications in multiscale structures of electronic packaging.
 
-- 2023.12-present, 李思帅, Sishuai Li is working on virtual element method for thermo-mechanical coupling analysis in multiscale electronic packaging structures.
+- 2023.09-present, 李思帅, Sishuai Li is working on virtual element method for thermo-mechanical coupling analysis in multiscale electronic packaging structures.
 
 - 2024.09-present, 张乐通, Letong Zhang is working on phase field modeling of thermal cycling-induced failure mechanisms in electronic packaging.
 
