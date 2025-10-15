@@ -48,7 +48,7 @@ collection: people
 <!-- 在页面位置添加招生说明（更有效） -->
 <div style="background: #e7f3ff; border-left: 4px solid #007bff; padding: 15px; margin: 20px 0; border-radius: 5px;">
   <p style="margin: 0; font-size: 14px;">
-    <strong>招生信息 Recruitment:</strong> 每年招收力学/机械硕士研究生，欢迎有志于力学、计算数学、机器学习算法的<strong>推免生</strong>和统考生提前联系。课题组有充足的科研训练机会和学术交流平台。
+    <strong>招生信息 Recruitment:</strong> 每年招收力学/机械硕士研究生，欢迎有志于力学、计算数学、机器学习算法的<strong>推免生</strong>和<strong>统考生</strong>提前联系。课题组有充足的科研训练机会和学术交流平台。
   </p>
 </div>
 
