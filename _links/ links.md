@@ -41,8 +41,9 @@ author_profile: false
 <hr>
 <h3>合作课题组 Collaborating Research Groups</h3>
 <p style="text-align:left;">
-<a href="https://people.maths.ox.ac.uk/vella/" style="text-decoration:none;color:black;">Dominic Vella Group (University of Oxford)</a><br>
-<a href="https://www.ifam.uni-hannover.de/de/institut/personen/guo" style="text-decoration:none;color:black;">Xiaoying Zhuang Group (Leibniz University Hannover)</a><br>
+<a href="https://people.maths.ox.ac.uk/vella/" style="text-decoration:none;color:black;">Vella Group (University of Oxford)</a><br>
+<a href="https://www.iop.uni-hannover.de/en/csst" style="text-decoration:none;color:black;">Zhuang Group (Leibniz University Hannover)</a><br>
+<a href="https://www.uni-weimar.de/de/bau-und-umwelt/institute/ism/team/professuren/prof-dr-ing-timon-rabczuk/" style="text-decoration:none;color:black;">Rabczuk Group (Bauhaus-Universität Weimar)</a><br>
 <!-- 可以继续添加其他课题组 -->
 </p>
 
