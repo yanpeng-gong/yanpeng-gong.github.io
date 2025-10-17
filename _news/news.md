@@ -19,7 +19,7 @@ collection: news
 
 <h3>2025</h3>
 
-- 9 月 26 日，公颜鹏受聘为<em>Scientific Reports</em>编委会成员（Editorial Board Member）。10 月 16 日，应邀参加在北京航空航天大学举办的编委会会议，与主编及北京地区编委就期刊发展及学术管理进行讨论。<a href="http://yanpeng-gong.github.io/files/news/2025_SR_EBM_meeting.pdf" style="text-decoration:none;color:#4A90E2;">[会议证明]</a><br>
+- 10 月 16 日，公颜鹏受聘为<em>Scientific Reports</em>编委会成员（Editorial Board Member）。10 月 16 日，应邀参加在北京航空航天大学举办的编委会会议，与主编及北京地区编委就期刊发展及学术管理进行讨论。<a href="http://yanpeng-gong.github.io/files/news/2025_SR_EBM_meeting.pdf" style="text-decoration:none;color:#4A90E2;">[会议证明]</a><br>
   Yanpeng Gong was appointed as an Editorial Board Member of <em>Scientific Reports</em>. On October 16th, he attended the editorial board meeting at Beihang University, discussing journal development and academic management with the Chief Editor and board members from Beijing.
 
 - 10 月 10-12 日，<u>公颜鹏</u>在<a href="http://yanpeng-gong.github.io/files/Conference_program/DACOMA-25.pdf" style="text-decoration:none;color:#DE3163;">DACOMA25 会议</a>作邀请报告"Energy-Based Physics-Informed Kolmogorov-Arnold Networks for Multi-Scale Multi-Material Electronic Packaging Structures"，研究生<u>贺一达</u>作口头报告"Physics-Informed Neural Operator for Multi-Material Elasticity Problems in Electronic Packaging"。
