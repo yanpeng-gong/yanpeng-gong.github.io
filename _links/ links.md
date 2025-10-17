@@ -15,14 +15,35 @@ author_profile: false
 </script>
 
 <h3>学校相关 University</h3>
-<p style="text-align:left;"> 
-	<a href="https://www.bjut.edu.cn/" style="text-decoration:none;color:indianred;">北京工业大学</a> <br> 
-	<a href="https://my.bjut.edu.cn/page/site/index" style="text-decoration:none;color:indianred;">北工大（校内）服务平台</a> <br> 
-	<a href="https://webvpn.bjut.edu.cn/" style="text-decoration:none;color:indianred;">北工大（校外）服务平台</a> <br>
-  <a href="https://arxiv.org/list/cs.CE/new" style="text-decoration:none;color:black;">arXiv Computational Engineering</a><br>
-  <a href="https://arxiv.org/list/math.NA/new" style="text-decoration:none;color:black;">arXiv Numerical Analysis</a><br>
-  <a href="http://imechanica.org/" style="text-decoration:none;color:black;">iMechanica</a><br>
-  <a href="https://people.maths.ox.ac.uk/vella/" style="text-decoration:none;color:black;">Vella group</a>
+<p style="text-align:left;">
+<a href="https://www.bjut.edu.cn/" style="text-decoration:none;color:indianred;">北京工业大学 Beijing University of Technology</a><br>
+<a href="https://my.bjut.edu.cn/page/site/index" style="text-decoration:none;color:indianred;">北工大校内服务平台 Campus Service Platform</a><br>
+<a href="https://webvpn.bjut.edu.cn/" style="text-decoration:none;color:indianred;">北工大校外服务平台 VPN Service</a><br>
+</p>
+
+<hr>
+<h3>编委会成员 Editorial Board Member</h3>
+<p style="text-align:left;">
+<a href="https://www.nature.com/srep/" style="text-decoration:none;color:indianred;">Scientific Reports (Nature Publishing Group)</a><br>
+<a href="https://pubs.cstam.org.cn/yylxxb" style="text-decoration:none;color:indianred;">应用力学学报 Chinese Journal of Applied Mechanics</a><br>
+</p>
+
+<hr>
+<h3>学术网站 Academic Resources</h3>
+<p style="text-align:left;">
+<a href="https://arxiv.org/list/cs.CE/new" style="text-decoration:none;color:black;">arXiv: Computational Engineering</a><br>
+<a href="https://arxiv.org/list/math.NA/new" style="text-decoration:none;color:black;">arXiv: Numerical Analysis</a><br>
+<a href="http://imechanica.org/" style="text-decoration:none;color:black;">iMechanica (Community Website)</a><br>
+<a href="https://scholar.google.com/" style="text-decoration:none;color:black;">Google Scholar</a><br>
+<a href="https://www.researchgate.net/" style="text-decoration:none;color:black;">ResearchGate</a><br>
+</p>
+
+<hr>
+<h3>合作课题组 Collaborating Research Groups</h3>
+<p style="text-align:left;">
+<a href="https://people.maths.ox.ac.uk/vella/" style="text-decoration:none;color:black;">Dominic Vella Group (University of Oxford)</a><br>
+<a href="https://www.ifam.uni-hannover.de/de/institut/personen/guo" style="text-decoration:none;color:black;">Xiaoying Zhuang Group (Leibniz University Hannover)</a><br>
+<!-- 可以继续添加其他课题组 -->
 </p>
 
 <hr> 
