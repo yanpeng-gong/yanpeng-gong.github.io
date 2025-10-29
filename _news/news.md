@@ -23,7 +23,7 @@ collection: news
   Yanpeng Gong received the DU Qing-Hua Medal & Young Researcher Award of Computational Methods in Engineering at CCOME2025 in Nanchang, and delivered a plenary talk on virtual element method for electronic packaging.
 
 - 10 月 16 日，<u>公颜鹏</u>受聘为<a href="https://www.nature.com/srep/" style="text-decoration:none;color:#DE3163;"><em>Scientific Reports</em></a>编委会成员（Editorial Board Member）。应邀参加在北京航空航天大学举办的编委会会议，与主编及北京地区编委就期刊发展及学术管理进行讨论。<a href="http://yanpeng-gong.github.io/files/news/2025_SR_EBM_meeting.pdf" style="text-decoration:none;color:#4A90E2;">[会议证明]</a><br>
-  <u>Yanpeng Gong</u> was appointed as an Editorial Board Member of <a href="https://www.nature.com/srep/" style="text-decoration:none;color:#DE3163;"><em>Scientific Reports</em></a>. On October 16th, he attended the editorial board meeting at Beihang University, discussing journal development and academic management with the Chief Editor and board members from Beijing.
+  <u>Yanpeng Gong</u> was appointed as an Editorial Board Member of Scientific Reports. On October 16th, he attended the editorial board meeting at Beihang University, discussing journal development and academic management with the Chief Editor and board members from Beijing.
 
 - 10 月 10-12 日，<u>公颜鹏</u>在<a href="http://yanpeng-gong.github.io/files/Conference_program/DACOMA2025.pdf" style="text-decoration:none;color:#DE3163;">DACOMA25 会议</a>作邀请报告"Energy-Based Physics-Informed Kolmogorov-Arnold Networks for Multi-Scale Multi-Material Electronic Packaging Structures"，研究生<u>贺一达</u>作口头报告"Physics-Informed Neural Operator for Multi-Material Elasticity Problems in Electronic Packaging"。
 
