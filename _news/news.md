@@ -18,6 +18,7 @@ collection: news
 <p>课题组最新动态和重要消息 | Latest news and updates from our research group</p>
 
 <h3>2025</h3>
+- 11月7日，恭喜硕士生<u>贺一达</u>获得<strong>国家奖学金</strong>和<strong>一等学业奖学金</strong>，<u>李思帅</u>获得<strong>三等学业奖学金</strong>。Congratulations to Yida He for receiving the National Scholarship and First-Class Academic Scholarship, and to Sishuai Li for receiving the Third-Class Academic Scholarship.
 
 - 10 月 25 日，<u>公颜鹏</u>在<a href="http://yanpeng-gong.github.io/files/Conference_program/CCOME2025.pdf" style="text-decoration:none;color:#DE3163;">CCOME2025</a>获<span style="color:#D4AF37; font-weight:bold;">"杜庆华工程计算方法优秀青年学者奖"</span>，并应邀作大会主旨报告"基于虚单元法的多尺度电子封装热力耦合分析"。<a href="http://yanpeng-gong.github.io/files/news/2025_DQH_award.pdf" style="text-decoration:none;color:#4A90E2;">[获奖证书]</a><br>
   Yanpeng Gong received the DU Qing-Hua Medal & Young Researcher Award of Computational Methods in Engineering at CCOME2025 in Nanchang, and delivered a plenary talk on virtual element method for electronic packaging.
