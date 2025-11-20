@@ -19,7 +19,7 @@ collection: news
 
 <h3>2025</h3>
 
-- 11 月 29 日，公颜鹏参加"第 136 期高端青年沙龙——含能复合材料失效行为表征与分析研讨会"（中国复合材料学会，北京），并作报告"多尺度数值计算方法及其工程应用"。<a href="https://mp.weixin.qq.com/s/jn7QZvW-GvZQFH4C22ydeQ" style="text-decoration:none;color:#4A90E2;">[会议通知]</a> <a href="http://yanpeng-gong.github.io/files/Conference_program/Energetic_Materials2025.png" style="text-decoration:none;color:#4A90E2;">[日程表]</a><br>
+<!-- - 11 月 29 日，公颜鹏参加"第 136 期高端青年沙龙——含能复合材料失效行为表征与分析研讨会"（中国复合材料学会，北京），并作报告"多尺度数值计算方法及其工程应用"。<a href="https://mp.weixin.qq.com/s/jn7QZvW-GvZQFH4C22ydeQ" style="text-decoration:none;color:#4A90E2;">[会议通知]</a> <a href="http://yanpeng-gong.github.io/files/Conference_program/Energetic_Materials2025.png" style="text-decoration:none;color:#4A90E2;">[日程表]</a><br> -->
 
 - 11 月 7 日，恭喜硕士生<u>贺一达</u>获得<strong>国家奖学金</strong>和<strong>一等学业奖学金</strong>，<u>李思帅</u>获得<strong>三等学业奖学金</strong>。Congratulations to Yida He for receiving the National Scholarship and First-Class Academic Scholarship, and to Sishuai Li for receiving the Third-Class Academic Scholarship.
 
