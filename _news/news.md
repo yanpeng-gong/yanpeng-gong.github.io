@@ -18,7 +18,9 @@ collection: news
 <p>课题组最新动态和重要消息 | Latest news and updates from our research group</p>
 
 <h3>2025</h3>
-- 11月7日，恭喜硕士生<u>贺一达</u>获得<strong>国家奖学金</strong>和<strong>一等学业奖学金</strong>，<u>李思帅</u>获得<strong>三等学业奖学金</strong>。Congratulations to Yida He for receiving the National Scholarship and First-Class Academic Scholarship, and to Sishuai Li for receiving the Third-Class Academic Scholarship.
+-11月29日，公颜鹏参加"第136期高端青年沙龙——含能复合材料失效行为表征与分析研讨会"（中国复合材料学会，北京），并作邀请报告"多尺度数值计算方法及其工程应用"。<a href="https://mp.weixin.qq.com/s/jn7QZvW-GvZQFH4C22ydeQ" style="text-decoration:none;color:#4A90E2;">[会议通知]</a> <a href="http://yanpeng-gong.github.io/files/Conference_program/2025_Energetic_Materials_schedule.png" style="text-decoration:none;color:#4A90E2;">[日程表]</a><br>
+
+- 11 月 7 日，恭喜硕士生<u>贺一达</u>获得<strong>国家奖学金</strong>和<strong>一等学业奖学金</strong>，<u>李思帅</u>获得<strong>三等学业奖学金</strong>。Congratulations to Yida He for receiving the National Scholarship and First-Class Academic Scholarship, and to Sishuai Li for receiving the Third-Class Academic Scholarship.
 
 - 10 月 25 日，<u>公颜鹏</u>在<a href="http://yanpeng-gong.github.io/files/Conference_program/CCOME2025.pdf" style="text-decoration:none;color:#DE3163;">CCOME2025</a>获<span style="color:#D4AF37; font-weight:bold;">"杜庆华工程计算方法优秀青年学者奖"</span>，并应邀作大会主旨报告"基于虚单元法的多尺度电子封装热力耦合分析"。<a href="http://yanpeng-gong.github.io/files/news/2025_DQH_award.pdf" style="text-decoration:none;color:#4A90E2;">[获奖证书]</a><br>
   Yanpeng Gong received the DU Qing-Hua Medal & Young Researcher Award of Computational Methods in Engineering at CCOME2025 in Nanchang, and delivered a plenary talk on virtual element method for electronic packaging.
