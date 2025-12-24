@@ -50,7 +50,7 @@ author_profile: false
     A coupled finite element-virtual element method for thermomechanical analysis of electronic packaging structures.
   </a> 
      <!-- Journal information -->
-  <b>arXiv</b> 
+  <b>arXiv</b> (2025) 
   <a href="http://yanpeng-gong.github.io/files/papers/2025_VeFe.pdf" style="text-decoration:none;">
       <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
   </a>
@@ -68,7 +68,7 @@ author_profile: false
     Physics-Informed Kolmogorov-Arnold Networks for multi-material elasticity problems in electronic packaging.
   </a> 
      <!-- Journal information -->
-  <b>arXiv</b> 
+  <b>arXiv</b> (2025) 
   <a href="http://yanpeng-gong.github.io/files/papers/2025_PIKAN.pdf" style="text-decoration:none;">
       <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
   </a>
