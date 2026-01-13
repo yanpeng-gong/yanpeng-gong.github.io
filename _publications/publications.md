@@ -19,14 +19,15 @@ author_profile: false
 
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&display=swap" rel="stylesheet">
 
-<!-- CSS部分 -->
+/_ CSS 部分 _/
+
 <style>
 body {
   font-family: 'IBM Plex Sans', sans-serif;
   font-size: 16px;
 }
 .publications-list {
-    counter-reset: pub-counter;
+    counter-reset: pub-counter 59; /* 设置初始值为总论文数+1 */
     list-style: none;
     padding-left: 0;
 }
@@ -35,7 +36,7 @@ body {
     margin-bottom: 30px;
     gap: 20px;
     align-items: flex-start;
-    counter-increment: pub-counter;
+    counter-increment: pub-counter -1; /* 每次递减1 */
 }
 .publication-item::before {
     content: counter(pub-counter) ".";
