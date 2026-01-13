@@ -1182,9 +1182,5 @@ Arxive预印版：有图片
     </div>
 </li>
 
- <!-- 书籍章节 -->
- <!--
- <li><u>Y. Gong</u>, F. Qin. Chapter 5: Computational Methods for Electronic Packaging. In: Advanced Electronic Packaging Technologies. Springer (2024) pp. 85-110</li>
--->
 <!-- 关闭列表 -->
 </ol>
