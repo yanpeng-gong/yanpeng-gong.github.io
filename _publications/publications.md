@@ -88,21 +88,25 @@ body {
 <h2 style="color: #008B8B; font-weight: bold; font-size: 28px; margin-bottom: 20px;">Forthcoming</h2>
 
 <li style="margin-bottom: 15px;">
-     <!-- Author names -->
-  <u>Y. Gong</u>*, Y. He, Y. Mei*, X. Zhuang*, F. Qin, T. Rabczuk. 
-     <!-- Title of the paper -->
-  <a href="https://arxiv.org/abs/2508.16999" style="text-decoration:none; color:#DE3163;">
-    Physics-Informed Kolmogorov-Arnold Networks for multi-material elasticity problems in electronic packaging.
-  </a> 
-     <!-- Journal information -->
-  <b>arXiv</b> (2025) 
-  <a href="http://yanpeng-gong.github.io/files/papers/2025_PIKAN.pdf" style="text-decoration:none;">
-      <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
-  </a>
-     <!-- link of arXive -->
-  <a href="https://arxiv.org/abs/2508.16999" style="text-decoration:none; color:#4A90E2;">
-    [arXiv]
-  </a>
+
+<li class="publication-item">
+    <div class="publication-content">
+        <!-- Author names -->
+        <u>Y. Gong</u>*, Y. He, Y. Mei*, X. Zhuang*, F. Qin, T. Rabczuk.
+        <!-- Title of the paper -->
+        <a href="https://arxiv.org/abs/2508.16999" style="text-decoration:none; color:#DE3163;">
+            Physics-Informed Kolmogorov-Arnold Networks for multi-material elasticity problems in electronic packaging.
+        </a>
+        <!-- Journal information -->
+        <b>arXiv</b> (2025)
+        <a href="http://yanpeng-gong.github.io/files/papers/2025_PIKAN.pdf" style="text-decoration:none;">
+            <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
+        </a>
+        <!-- link of arXive -->
+        <a href="https://arxiv.org/abs/2508.16999" style="text-decoration:none; color:#4A90E2;">
+            [arXiv]
+        </a>
+    </div>
 </li>
 
 <!--
