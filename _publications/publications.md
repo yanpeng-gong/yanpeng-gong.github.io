@@ -188,6 +188,7 @@ Arxive预印版：有图片
 <hr>
 <h3>2026</h3>
 
+<!-- VEM FEM coupling method -->
 <li class="publication-item">
     <!-- 左侧：论文信息 -->
     <div class="publication-content">
@@ -249,28 +250,6 @@ Arxive预印版：有图片
     <div class="publication-image">
         <img src="/files/papers/2025_EC_VEM.jpg" alt="Mesh used in Virtual Element Method">
     </div>
-</li>
-
-<li style="margin-bottom: 15px;">
-     <!-- Author names -->
-  <u>Y. Gong</u>*, S. Li, F. Qin, B. Xu*. 
-     <!-- Title of the paper -->
-  <a href="https://link.springer.com/article/10.1007/s00366-025-02219-8" style="text-decoration:none; color:#DE3163;">
-    Virtual element method for thermomechanical analysis of electronic packaging structures with multi-scale features.
-  </a> 
-     <!-- Journal information -->
-  <b>Engineering with Computers</b> 41 (2025) 4799–4824
-  <a href="http://yanpeng-gong.github.io/files/papers/2025_EC.pdf" style="text-decoration:none;">
-    <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
-  </a>
-     <!-- link of arXive -->
-  <a href="https://arxiv.org/abs/2508.11410" style="text-decoration:none; color:#4A90E2;">
-    [arXiv] 
-  </a>
-     <!-- link of open source code -->
-  <a href="https://github.com/yanpeng-gong/VEM-electronic-packaging" style="text-decoration:none; color:#24292e;">
-  <i class="fa fa-github" style="font-size:16px;"></i> [Code] 
-  </a>
 </li>
 
 <li>X. Zhuang*, H. Hu**, S. S. Nanthakumar, Q.-T. Tran, <u>Y. Gong</u>, T. Rabczuk. <a href="https://dx.doi.org/10.1016/j.apm.2025.116327" style="text-decoration:none;color:#DE3163;"> Variationally consistent Maxwell stress in flexoelectric structures under finite deformation and immersed in free space</a>. <b>Applied Mathematical Modelling</b> (2025) 116327 <a href="http://yanpeng-gong.github.io/files/papers/2025_AMM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
