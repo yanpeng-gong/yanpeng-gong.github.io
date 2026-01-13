@@ -103,47 +103,60 @@ author_profile: false
 </li>
 
 <!--
-<!-- 论文模版，包括有图片和无图片介绍的情况 -->
-<!-- 论文1(预印本arxive)：有图片 -->
+论文模版，包括有图片和无图片介绍的情况
+
+Arxive预印版：有图片
 <li class="publication-item">
+    左侧：论文信息
     <div class="publication-content">
-        <u>Y. Gong</u>, Y. He, Y. Mei*, X. Zhuang*, F. Qin, T. Rabczuk. 
+        Author names
+        <u>Y. Gong</u>, Y. He, Y. Mei*, X. Zhuang*, F. Qin, T. Rabczuk.
+        Title of the paper
         <a href="https://arxiv.org/abs/2508.16999" style="text-decoration:none; color:#DE3163;">
             Physics-Informed Kolmogorov-Arnold Networks for multi-material elasticity problems in electronic packaging.
-        </a> 
+        </a>
+        Journal information
         <b>arXiv</b> (2025)
         <a href="http://yanpeng-gong.github.io/files/papers/2025_PIKAN.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
+        link of open source code
         <a href="https://github.com/your-repo" style="text-decoration:none; color:#24292e;">
             <i class="fa fa-github" style="font-size:16px;"></i> [Code]
         </a>
     </div>
+    右侧：图片展示
     <div class="publication-image">
         <img src="/images/papers/2025_PIKAN.jpg" alt="PIKAN scheme">
     </div>
 </li>
 -->
 
-<!--
-<!-- 论文2（发表论文）：有图片 -->
+<!-- 发表论文：有图片
 <li class="publication-item">
+    左侧：论文信息
     <div class="publication-content">
-        <u>Y. Gong</u>*, S. Li, F. Qin, B. Xu*. 
+        Author names
+        <u>Y. Gong</u>*, S. Li, F. Qin, B. Xu*.
+        Title of the paper
         <a href="https://link.springer.com/article/10.1007/s00366-025-02219-8" style="text-decoration:none; color:#DE3163;">
             Virtual element method for thermomechanical analysis of electronic packaging structures with multi-scale features.
-        </a> 
+        </a>
+        Journal information
         <b>Engineering with Computers</b> 41 (2025) 4799–4824
         <a href="http://yanpeng-gong.github.io/files/papers/2025_EC.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
+        link of arXive
         <a href="https://arxiv.org/abs/2508.11410" style="text-decoration:none; color:#4A90E2;">
-            [arXiv] 
+            [arXiv]
         </a>
+        link of open source code
         <a href="https://github.com/yanpeng-gong/VEM-electronic-packaging" style="text-decoration:none; color:#24292e;">
-            <i class="fa fa-github" style="font-size:16px;"></i> [Code] 
+            <i class="fa fa-github" style="font-size:16px;"></i> [Code]
         </a>
     </div>
+    右侧：图片展示
     <div class="publication-image">
         <img src="/images/papers/2025_VEM.jpg" alt="VEM mesh">
     </div>
@@ -151,16 +164,20 @@ author_profile: false
 -->
 
 <!--
-<!-- 论文3：没有图片 -->
+    发表论文：没有图片
 <li class="publication-item">
     <div class="publication-content">
-        H. Liu, F. Wang*, S. Cheng, L. Qiu, <u>Y. Gong</u>. 
+        Author names
+        H. Liu, F. Wang*, S. Cheng, L. Qiu, <u>Y. Gong</u>.
+        Title of the paper
         <a href="https://doi.org/10.1063/5.0191290" style="text-decoration:none; color:#DE3163;">
             Shape optimization of sound barriers using an isogeometric meshless method.
-        </a> 
+        </a>
+        Journal information
         <b>Physics of Fluids</b> 36(2) (2024) 027116
-        <a href="http://yanpeng-gong.github.io/files/papers/2024_POF.pdf" style="text-decoration:none;">
-            <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
+        link of arXive
+        <a href="https://arxiv.org/abs/2508.11410" style="text-decoration:none; color:#4A90E2;">
+            [arXiv]
         </a>
     </div>
 </li>
@@ -172,6 +189,7 @@ author_profile: false
 <h3>2026</h3>
 
 <li class="publication-item">
+    <!-- 左侧：论文信息 -->
     <div class="publication-content">
         <!-- Author names -->
         <u>Y. Gong</u>, S. Li, Y. Mei*,B. Xu, F. Qin, X. Zhuang, T. Rabczuk. 
@@ -188,38 +206,50 @@ author_profile: false
         <a href="https://arxiv.org/abs/2511.09348" style="text-decoration:none; color:#4A90E2;">
           [arXiv]
         </a>
+          <!-- link of open source code -->
         <a href="https://github.com/yanpeng-gong/VEM-electronic-packaging" style="text-decoration:none; color:#24292e;">
             <i class="fa fa-github" style="font-size:16px;"></i> [Code] 
         </a>
       </div>
-       <!-- pictures -->
+       <!-- 右侧：图片展示 -->
       <div class="publication-image">
         <img src="/files/papers/2026_VeFe.jpg" alt="VE-FE Coupling mesh">
       </div>
-</li>
-
-<li style="margin-bottom: 15px;">
-     <!-- Author names -->
-  <u>Y. Gong</u>, S. Li, Y. Mei*,B. Xu, F. Qin, X. Zhuang, T. Rabczuk. 
-     <!-- Title of the paper -->
-  <a href="https://doi.org/10.1016/j.enganabound.2026.106640" style="text-decoration:none; color:#DE3163;">
-    A coupled finite element-virtual element method for thermomechanical analysis of electronic packaging structures.
-  </a> 
-     <!-- Journal information -->
-  <b>Engineering Analysis with Boundary Elements</b> 184 (2026) 106640.
-  <a href="http://yanpeng-gong.github.io/files/papers/2025_VeFe.pdf" style="text-decoration:none;">
-      <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
-  </a>
-     <!-- link of arXive -->
-  <a href="https://arxiv.org/abs/2511.09348" style="text-decoration:none; color:#4A90E2;">
-    [arXiv]
-  </a>
 </li>
 
 <!-- 2025 -->
 <br>
 <hr>
 <h3>2025</h3>
+
+<li class="publication-item">
+    <!-- 左侧：论文信息 -->
+    <div class="publication-content">
+        <!-- Author names -->
+        <u>Y. Gong</u>*, S. Li, F. Qin, B. Xu*. 
+        <!-- Title of the paper -->
+        <a href="https://link.springer.com/article/10.1007/s00366-025-02219-8" style="text-decoration:none; color:#DE3163;">
+            Virtual element method for thermomechanical analysis of electronic packaging structures with multi-scale features.
+        </a> 
+        <!-- Journal information -->
+        <b>Engineering with Computers</b> 41 (2025) 4799–4824
+        <a href="http://yanpeng-gong.github.io/files/papers/2025_EC.pdf" style="text-decoration:none;">
+            <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
+        </a>
+        <!-- link of arXive -->
+        <a href="https://arxiv.org/abs/2508.11410" style="text-decoration:none; color:#4A90E2;">
+            [arXiv] 
+        </a>
+        <!-- link of open source code -->
+        <a href="https://github.com/yanpeng-gong/VEM-electronic-packaging" style="text-decoration:none; color:#24292e;">
+            <i class="fa fa-github" style="font-size:16px;"></i> [Code] 
+        </a>
+    </div>
+    <!-- 右侧：图片展示 -->
+    <div class="publication-image">
+        <img src="/images/papers/2025_EC_VEM.jpg" alt="Mesh used in Virtual Element Method">
+    </div>
+</li>
 
 <li style="margin-bottom: 15px;">
      <!-- Author names -->
