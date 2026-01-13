@@ -255,7 +255,22 @@ Arxive预印版：有图片
     </div>
 </li>
 
-<li>X. Zhuang*, H. Hu**, S. S. Nanthakumar, Q.-T. Tran, <u>Y. Gong</u>, T. Rabczuk. <a href="https://dx.doi.org/10.1016/j.apm.2025.116327" style="text-decoration:none;color:#DE3163;"> Variationally consistent Maxwell stress in flexoelectric structures under finite deformation and immersed in free space</a>. <b>Applied Mathematical Modelling</b> (2025) 116327 <a href="http://yanpeng-gong.github.io/files/papers/2025_AMM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
+<!-- Flexo -->
+<li class="publication-item">
+    <div class="publication-content">
+        <!-- Author names -->
+        X. Zhuang*, H. Hu**, S. S. Nanthakumar, Q.-T. Tran, <u>Y. Gong</u>, T. Rabczuk.
+        <!-- Title of the paper -->
+        <a href="https://dx.doi.org/10.1016/j.apm.2025.116327" style="text-decoration:none; color:#DE3163;">
+            Variationally consistent Maxwell stress in flexoelectric structures under finite deformation and immersed in free space.
+        </a>
+        <!-- Journal information -->
+        <b>Applied Mathematical Modelling</b> (2025) 116327
+        <a href="http://yanpeng-gong.github.io/files/papers/2025_AMM.pdf" style="text-decoration:none;">
+            <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
+        </a>
+    </div>
+</li>
 
 <li><u>Y. Gong</u>*, Y. Kou, Q. Yue*, X. Zhuang*, N. Valizadeh, F. Qin, Q. Wang, T. Rabczuk. <a href="https://dx.doi.org/10.1016/j.engfracmech.2025.111039" style="text-decoration:none;color:#DE3163;">A phase-field study on thermo-mechanical coupled damage evolution and failure mechanisms of sintered silver interconnections</a>. <b>Engineering Fracture Mechanics</b> (2025) 111039 <a href="http://yanpeng-gong.github.io/files/papers/2025_EFM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></li>
 
