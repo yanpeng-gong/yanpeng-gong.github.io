@@ -194,7 +194,7 @@ author_profile: false
       </div>
        <!-- pictures -->
       <div class="publication-image">
-        <img src="/images/papers/2026_VeFe.jpg" alt="VEM mesh">
+        <img src="/files/papers/2026_VeFe.jpg" alt="VE-FE Coupling mesh">
       </div>
 </li>
 
