@@ -1114,13 +1114,6 @@ Arxive预印版：有图片
         </a>
     </div>
 </li>
-<!--
-<li><p>S. Gupta, B. Bhatt, <u>Z. Dai</u>*, K. Khare*. <a href="https://doi.org/10.48550/arXiv.2505.00640" style="text-decoration:none;color:#DE3163;">Dynamics of Thin Lubricant Films upon Liquid Contact on Slippery Surfaces.</a> <b>arXiv</b> <a href="http://zhaohedai.github.io/files/2025_Slips"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a></p></li>
-
-<!--
-<li><p><u>C. Yu</u>, <u>W. Zeng</u>, Z. Kou, <u>W. Wang</u>, L. Wang, Q. Li, X. Liu, and <u>Z. Dai</u>*. <a href="https://doi.org/10.1103/jgqz-gwlc" style="text-decoration:none;color:#DE3163;">Transparency of graphene to solid-solid van der Waals interactions</a>. <b> Physical Review Letters</b> (2025) <a href="http://zhaohedai.github.io/files/2025_PRL.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <a href="https://github.com/ZhaoheDai/2025_PRL"><i class="fa fa-github" style="font-size:16px; color:black"></i></a> <font color="#7B7D7D">Highlighted as an Editors' Suggestion
-<p style="text-align:center;"><img src="/images/publications/2025_PRL.png" width="400"></p>
--->
 
 <hr>
 <h3>Other writings</h3>
@@ -1172,12 +1165,6 @@ Arxive预印版：有图片
         </a>
     </div>
 </li>
-
-<!--
-<li><p>Y. Li, G. Wang, <u>Z. Dai</u>, Y. Hou, H. Miao, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.7520/1001-4888-19-037" style="text-decoration:none;color:#DE3163;">Measurement of Young’s Modulus of 2D Materials Through in situ Through-Hole Bubble Tests</a>. <b>Journal of Experimental Mechanics</b> (in Chinese) DOI: 10.7520/1001-4888-19-037 (2019) <a href="http://zhaohedai.github.io/files/3.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p></li>
-<li><p>J. Xiao, G. Wang, <u>Z. Dai</u>, H. Miao, L. Liu*, Z. Zhang*. <a href="https://doi.org/10.7520/1001-4888-18-061" style="text-decoration:none;color:#DE3163;">Nanoindentation of Multilayer Two-dimensional Materials: An Experimental Study</a>. <b>Journal of Experimental Mechanics</b> (in Chinese) DOI: 10.7520/1001-4888-18-061 (2018) <a href="http://zhaohedai.github.io/files/2.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p></li>
-<li><p>H. Jeong, T. Ha, I. Kuang, L. Shen, <u>Z. Dai</u>, N. Sun, N. Lu*. <a href="https://doi.org/10.1109/EMBC.2017.8037756" style="text-decoration:none;color:#DE3163;">NFC-Enabled, Tattoo-Like Stretchable Biosensor Manufactured by “Cut-and-Paste” Method</a>. <b>IEEE Engineering in Medicine and Biology Society</b> DOI: 10.1109/EMBC.2017.8037756 (2017) <a href="http://zhaohedai.github.io/files/1.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> </p></li>
--->
 
 <h3>专著与书籍章节 Books & Book Chapters</h3>
 
