@@ -19,8 +19,6 @@ author_profile: false
 
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&display=swap" rel="stylesheet">
 
-/_ CSS 部分 _/
-
 <style>
 body {
   font-family: 'IBM Plex Sans', sans-serif;
@@ -40,7 +38,7 @@ body {
 }
 .publication-item::before {
     content: counter(pub-counter) ".";
-    font-weight: bold;
+    font-weight: normal;
     margin-right: 8px;
     flex-shrink: 0;
 }
@@ -81,6 +79,9 @@ body {
 <hr>
 <p>Below is a chronological list of my publications in refereed journals. For recent highlights, please visit my profile at <a href="https://yanzhao.bjut.edu.cn/info/1516/17371.htm" style="color:black;"><i class="fa fa-university" aria-hidden="true"></i></a>. For citation statistics, see my <a href="https://scholar.google.com/citations?user=wmkLERIAAAAJ&hl=zh-CN" style="color:black;"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i></a> or <a href="https://www.researchgate.net/profile/Yanpeng-Gong" style="color:black;"><i class="fab fa-fw fa-researchgate"></i></a> profile.</p>
 <hr>
+
+<!-- 添加列表容器开始标签 -->
+<ol class="publications-list">
 
 <br>
 <hr>
@@ -1185,3 +1186,5 @@ Arxive预印版：有图片
  <!--
  <li><u>Y. Gong</u>, F. Qin. Chapter 5: Computational Methods for Electronic Packaging. In: Advanced Electronic Packaging Technologies. Springer (2024) pp. 85-110</li>
 -->
+<!-- 关闭列表 -->
+</ol>
