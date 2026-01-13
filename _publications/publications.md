@@ -23,23 +23,12 @@ author_profile: false
     font-family: 'IBM Plex Sans', sans-serif;
     font-size: 16px;
   }
-  .publications-list {
-    counter-reset: pub-counter;
-    list-style: none;
-    padding-left: 0;
-  }
   .publication-item {
   display: flex;
   margin-bottom: 30px;
   gap: 20px;
   align-items: flex-start;
   counter-increment: pub-counter;
-  }
-  .publication-item::before {
-  content: counter(pub-counter) ".";
-  font-weight: bold;
-  margin-right: 8px;
-  flex-shrink: 0;
   }
   .publication-content {
   flex: 1;
