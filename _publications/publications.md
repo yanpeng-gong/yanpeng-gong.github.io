@@ -247,7 +247,7 @@ Arxive预印版：有图片
     </div>
     <!-- 右侧：图片展示 -->
     <div class="publication-image">
-        <img src="/images/papers/2025_EC_VEM.jpg" alt="Mesh used in Virtual Element Method">
+        <img src="/files/papers/2025_EC_VEM.jpg" alt="Mesh used in Virtual Element Method">
     </div>
 </li>
 
