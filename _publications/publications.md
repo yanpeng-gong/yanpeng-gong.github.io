@@ -18,41 +18,47 @@ author_profile: false
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&display=swap" rel="stylesheet">
+<!-- CSS部分 -->
 <style>
-  body {
-    font-family: 'IBM Plex Sans', sans-serif;
-    font-size: 16px;
-  }
-  .publication-item {
+body {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 16px;
+}
+/* 论文列表样式 - 使用HTML原生编号 */
+ol {
+  padding-left: 30px;
+}
+/* 带图片的论文项 */
+.publication-item {
   display: flex;
   margin-bottom: 30px;
   gap: 20px;
   align-items: flex-start;
-  counter-increment: pub-counter;
-  }
-  .publication-content {
+  list-style-position: outside; /* 编号在外侧 */
+}
+.publication-content {
   flex: 1;
   min-width: 0;
-  }
-  .publication-image {
+}
+.publication-image {
   flex-shrink: 0;
   width: 280px;
-  }
-  .publication-image img {
+}
+.publication-image img {
   width: 100%;
   height: auto;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  }
-  /_ 响应式设计：小屏幕时图片移到下方 _/
-  @media (max-width: 768px) {
-    .publication-item {
+}
+/* 响应式设计：小屏幕时图片移到下方 */
+@media (max-width: 768px) {
+  .publication-item {
     flex-direction: column;
-    }
-    .publication-image {
-    width: 100%;
-    }
   }
+  .publication-image {
+    width: 100%;
+  }
+}
 </style>
 
 <!--
