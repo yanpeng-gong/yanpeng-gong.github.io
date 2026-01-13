@@ -25,31 +25,37 @@ body {
   font-family: 'IBM Plex Sans', sans-serif;
   font-size: 16px;
 }
-/* 论文列表样式 - 使用HTML原生编号 */
-ol {
-  padding-left: 30px;
+.publications-list {
+    counter-reset: pub-counter;
+    list-style: none;
+    padding-left: 0;
 }
-/* 带图片的论文项 */
 .publication-item {
-  display: flex;
-  margin-bottom: 30px;
-  gap: 20px;
-  align-items: flex-start;
-  list-style-position: outside; /* 编号在外侧 */
+    display: flex;
+    margin-bottom: 30px;
+    gap: 20px;
+    align-items: flex-start;
+    counter-increment: pub-counter;
+}
+.publication-item::before {
+    content: counter(pub-counter) ".";
+    font-weight: bold;
+    margin-right: 8px;
+    flex-shrink: 0;
 }
 .publication-content {
-  flex: 1;
-  min-width: 0;
+    flex: 1;
+    min-width: 0;
 }
 .publication-image {
-  flex-shrink: 0;
-  width: 280px;
+    flex-shrink: 0;
+    width: 280px;
 }
 .publication-image img {
-  width: 100%;
-  height: auto;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
 /* 响应式设计：小屏幕时图片移到下方 */
 @media (max-width: 768px) {
@@ -184,7 +190,6 @@ Arxive预印版：有图片
 <br>
 <hr>
 <h3>2026</h3>
-<ol reversed >
 
 <!-- VEM FEM coupling method -->
 <li class="publication-item">
@@ -220,7 +225,6 @@ Arxive预印版：有图片
 <br>
 <hr>
 <h3>2025</h3>
-<ol reversed >
 
 <li class="publication-item">
     <!-- 左侧：论文信息 -->
