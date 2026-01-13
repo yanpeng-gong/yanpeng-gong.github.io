@@ -88,8 +88,6 @@ body {
 <hr>
 <h2 style="color: #008B8B; font-weight: bold; font-size: 28px; margin-bottom: 20px;">Forthcoming</h2>
 
-<li style="margin-bottom: 15px;">
-
 <li class="publication-item">
     <div class="publication-content">
         <!-- Author names -->
