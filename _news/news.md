@@ -17,6 +17,10 @@ collection: news
 
 <p>课题组最新动态和重要消息 | Latest news and updates from our research group</p>
 
+<h3>2026</h3>
+
+- 1 月 16 日，恭喜硕士生<u>贺一达</u>在"2025 年第七届全球校园人工智能算法精英大赛全国总决赛"中荣获<strong>一等奖</strong>（赛题：AI+力学）<a href="http://yanpeng-gong.github.io/files/news/2025AI+Mech.jpg" style="text-decoration:none;color:#4A90E2;">[获奖证书]</a>。Congratulations to <u>Yida He</u> for winning the First Prize in the 7th Global Campus AI Algorithm Elite Competition National Finals (Topic: AI+Mechanics).<br>
+
 <h3>2025</h3>
 
 - 11 月 29 日，<u>公颜鹏</u>参加“第 136 期高端青年沙龙——含能复合材料失效行为表征与分析研讨会"（中国复合材料学会，北京），并作报告"多尺度数值计算方法及其工程应用”。<a href="https://mp.weixin.qq.com/s/jn7QZvW-GvZQFH4C22ydeQ" style="text-decoration:none;color:#4A90E2;">[会议通知]</a> <a href="http://yanpeng-gong.github.io/files/Conference_program/Energetic_Materials2025.png" style="text-decoration:none;color:#4A90E2;">[日程表]</a><br>
