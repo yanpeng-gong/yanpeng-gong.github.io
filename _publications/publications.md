@@ -77,7 +77,7 @@ body {
 </table>
 -->
 <hr>
-<p>Below is a chronological list of my publications in refereed journals. For recent highlights, please visit my profile at <a href="https://yanzhao.bjut.edu.cn/info/1516/17371.htm" style="color:black;"><i class="fa fa-university" aria-hidden="true"></i></a>. For citation statistics, see my <a href="https://scholar.google.com/citations?user=wmkLERIAAAAJ&hl=zh-CN" style="color:black;"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i></a> or <a href="https://www.researchgate.net/profile/Yanpeng-Gong" style="color:black;"><i class="fab fa-fw fa-researchgate"></i></a> profile.</p>
+<p>Below is a chronological list of my publications in refereed journals. For recent highlights, please visit my profile at <a href="https://msm.bjut.edu.cn/info/1096/2401.htm" style="color:black;"><i class="fa fa-university" aria-hidden="true"></i></a>. For citation statistics, see my <a href="https://scholar.google.com/citations?user=wmkLERIAAAAJ&hl=zh-CN" style="color:black;"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i></a> or <a href="https://www.researchgate.net/profile/Yanpeng-Gong" style="color:black;"><i class="fab fa-fw fa-researchgate"></i></a> profile.</p>
 <hr>
 
 <!-- 添加列表容器开始标签 -->
