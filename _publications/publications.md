@@ -107,7 +107,7 @@ body {
     </div>
     <!-- 右侧：图片展示-->
     <div class="publication-image">
-        <img src="/images/papers/2026_AMM_pikan_multimaterial_flowchart.pdf" alt="PIKAN flowchart">
+        <img src="/files/papers/2026_AMM_pikan_multimaterial_flowchart.pdf" alt="PIKAN flowchart">
     </div>
 </li>
 
