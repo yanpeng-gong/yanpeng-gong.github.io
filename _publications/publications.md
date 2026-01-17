@@ -90,7 +90,7 @@ body {
 <li class="publication-item">
     <div class="publication-content">
         <!-- Author names -->
-        <u>Y. Gong</u>*, Y. He, Y. Mei*, X. Zhuang*, F. Qin, T. Rabczuk.
+        <u>Y. Gong</u>, Y. He, Y. Mei*, X. Zhuang*, F. Qin, T. Rabczuk.
         <!-- Title of the paper -->
         <a href="https://arxiv.org/abs/2508.16999" style="text-decoration:none; color:#DE3163;">
             Physics-Informed Kolmogorov-Arnold Networks for multi-material elasticity problems in electronic packaging.
@@ -107,7 +107,7 @@ body {
     </div>
     <!-- 右侧：图片展示-->
     <div class="publication-image">
-        <img src="/files/papers/2026_AMM_pikan_multimaterial_flowchart.pdf" alt="PIKAN flowchart">
+        <img src="/files/papers/2025_PIKAN.jpg" alt="PIKAN flowchart">
     </div>
 </li>
 
