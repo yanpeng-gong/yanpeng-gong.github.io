@@ -25,7 +25,7 @@ body {
   font-size: 16px;
 }
 .publications-list {
-    counter-reset: pub-counter 59; /* 设置初始值为总论文数+1 */
+    counter-reset: pub-counter 60; /* 设置初始值为总论文数+1 */
     list-style: none;
     padding-left: 0;
 }
