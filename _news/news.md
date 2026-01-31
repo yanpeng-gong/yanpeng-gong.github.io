@@ -19,6 +19,8 @@ collection: news
 
 <h3>2026</h3>
 
+- 1 月 31 日，<u>公颜鹏</u>入选<a href="https://ep.org.cn/CN/column/column2.shtml" style="text-decoration:none;color:#DE3163;">《电子与封装》</a>期刊<strong>2026 年青年编委</strong>。Yanpeng Gong has been appointed as a <strong>Young Editorial Board Member</strong> of <i>Electronics & Packaging</i> journal for 2026.<br>
+
 - 1 月 16 日，恭喜硕士生<u>贺一达</u>在<a href="https://www.aicomp.cn/" style="text-decoration:none;color:#DE3163;">“2025 年第七届全球校园人工智能算法精英大赛全国总决赛”</a>中荣获<strong>一等奖</strong>（赛题：AI+力学）<a href="http://yanpeng-gong.github.io/files/news/2025AI+Mech.jpg" style="text-decoration:none;color:#4A90E2;">[获奖证书]</a>。Congratulations to <u>Yida He</u> for winning the First Prize in the 7th Global Campus AI Algorithm Elite Competition National Finals (Topic: AI+Mechanics).<br>
 
 <h3>2025</h3>
