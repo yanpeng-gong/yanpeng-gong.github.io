@@ -100,30 +100,6 @@ body {
     </div>
 </li>
 
-<li class="publication-item">
-    <div class="publication-content">
-        <!-- Author names -->
-        <u>Y. Gong</u>, Y. He, Y. Mei*, X. Zhuang*, F. Qin, T. Rabczuk.
-        <!-- Title of the paper -->
-        <a href="https://arxiv.org/abs/2508.16999" style="text-decoration:none; color:#DE3163;">
-            Physics-Informed Kolmogorov-Arnold Networks for multi-material elasticity problems in electronic packaging.
-        </a>
-        <!-- Journal information -->
-        <b>arXiv</b> (2025)
-        <a href="http://yanpeng-gong.github.io/files/papers/2025_PIKAN.pdf" style="text-decoration:none;">
-            <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
-        </a>
-        <!-- link of arXive -->
-        <a href="https://arxiv.org/abs/2508.16999" style="text-decoration:none; color:#4A90E2;">
-            [arXiv]
-        </a>
-    </div>
-    <!-- 右侧：图片展示-->
-    <div class="publication-image">
-        <img src="/files/papers/2025_PIKAN.png" alt="PIKAN flowchart">
-    </div>
-</li>
-
 <!--
 论文模版，包括有图片和无图片介绍的情况
 
@@ -209,6 +185,35 @@ Arxive预印版：有图片
 <br>
 <hr>
 <h3>2026</h3>
+
+<!-- PIKAN method for multilayer electronic packaging problems -->
+<li class="publication-item">
+    <div class="publication-content">
+        <!-- Author names -->
+        <u>Y. Gong</u>, Y. He, Y. Mei*, X. Zhuang*, F. Qin, T. Rabczuk.
+        <!-- Title of the paper -->
+        <a href="https://doi.org/10.1016/j.apm.2026.116793" style="text-decoration:none; color:#DE3163;">
+            Physics-informed Kolmogorov-Arnold networks for multi-material elasticity problems in electronic packaging.
+        </a>
+        <!-- Journal information -->
+        <b>Applied Mathematical Modelling</b> 156 (2026) 116793
+        <a href="http://yanpeng-gong.github.io/files/papers/2026_AMM.pdf" style="text-decoration:none;">
+            <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
+        </a>
+        <!-- link of arXiv -->
+        <a href="https://arxiv.org/abs/2508.16999" style="text-decoration:none; color:#4A90E2;">
+            [arXiv]
+        </a>
+                <!-- link of open source code -->
+        <a href="https://github.com/yanpeng-gong/PIKAN-MultiMaterial" style="text-decoration:none; color:#24292e;">
+            <i class="fa fa-github" style="font-size:16px;"></i> [Code] 
+        </a>
+    </div>
+    <!-- 右侧：图片展示-->
+    <div class="publication-image">
+        <img src="/files/papers/2026_PIKAN.png" alt="PIKAN flowchart">
+    </div>
+</li>
 
 <!-- VEM FEM coupling method -->
 <li class="publication-item">
