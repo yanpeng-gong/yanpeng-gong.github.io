@@ -186,6 +186,22 @@ Arxive预印版：有图片
 <hr>
 <h3>2026</h3>
 
+<li class="publication-item">
+    <div class="publication-content">
+        <!-- Author names -->
+        Z. Wang, L. Zhang, <u>Y. Gong</u>*.
+        <!-- Title of the paper -->
+        <a href="https://doi.org/10.1016/j.tws.2026.114927" style="text-decoration:none; color:#DE3163;">
+            Effect of loading configuration and edge defect on the biaxial flexural behavior of annealed and chemically strengthened aluminosilicate glass plates.
+        </a>
+        <!-- Journal information -->
+        <b>Thin-Walled Structures</b> (2026) 114927
+        <a href="http://yanpeng-gong.github.io/files/papers/2026_TWS.pdf" style="text-decoration:none;">
+            <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
+        </a>
+    </div>
+</li>
+
 <!-- PIKAN method for multilayer electronic packaging problems -->
 <li class="publication-item">
     <div class="publication-content">
