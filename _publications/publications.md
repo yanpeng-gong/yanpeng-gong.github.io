@@ -196,10 +196,14 @@ Arxive预印版：有图片
             Effect of loading configuration and edge defect on the biaxial flexural behavior of annealed and chemically strengthened aluminosilicate glass plates.
         </a>
         <!-- Journal information -->
-        <b>Thin-Walled Structures</b> (2026) 114927
+        <b>Thin-Walled Structures</b> 226 (2026) 114927
         <a href="http://yanpeng-gong.github.io/files/papers/2026_TWS.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
+    </div>
+    <!-- 右侧：图片展示-->
+    <div class="publication-image">
+        <img src="/files/papers/2026_TWS.jpg" alt="Biaxial flexural test of glass plates">
     </div>
 </li>
 
