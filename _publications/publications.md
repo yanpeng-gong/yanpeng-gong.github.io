@@ -134,7 +134,9 @@ Arxive预印版：有图片
     </div>
     右侧：图片展示
     <div class="publication-image">
-        <img src="/images/papers/2025_PIKAN.jpg" alt="PIKAN scheme">
+        <a href="/images/papers/2025_PIKAN.jpg" target="_blank">
+            <img src="/images/papers/2025_PIKAN.jpg" alt="PIKAN scheme">
+        </a>
     </div>
 </li>
 -->
@@ -165,7 +167,9 @@ Arxive预印版：有图片
     </div>
     右侧：图片展示
     <div class="publication-image">
-        <img src="/images/papers/2025_VEM.jpg" alt="VEM mesh">
+        <a href="/images/papers/2025_VEM.jpg" target="_blank">
+            <img src="/images/papers/2025_VEM.jpg" alt="VEM mesh">
+        </a>
     </div>
 </li>
 -->
@@ -243,7 +247,9 @@ Arxive预印版：有图片
     </div>
     <!-- 右侧：图片展示-->
     <div class="publication-image">
-        <img src="/files/papers/2026_PIKAN.png" alt="PIKAN flowchart">
+        <a href="/files/papers/2026_PIKAN.png" target="_blank">
+            <img src="/files/papers/2026_PIKAN.png" alt="PIKAN flowchart">
+        </a>
     </div>
 </li>
 
@@ -273,7 +279,9 @@ Arxive预印版：有图片
       </div>
        <!-- 右侧：图片展示 -->
       <div class="publication-image">
-        <img src="/files/papers/2026_VeFe.jpg" alt="VE-FE Coupling mesh">
+        <a href="/files/papers/2026_VeFe.jpg" target="_blank">
+            <img src="/files/papers/2026_VeFe.jpg" alt="VE-FE Coupling mesh">
+        </a>
       </div>
 </li>
 
@@ -307,7 +315,9 @@ Arxive预印版：有图片
     </div>
     <!-- 右侧：图片展示 -->
     <div class="publication-image">
-        <img src="/files/papers/2025_EC_VEM.jpg" alt="Mesh used in Virtual Element Method">
+        <a href="/files/papers/2025_EC_VEM.jpg" target="_blank">
+            <img src="/files/papers/2025_EC_VEM.jpg" alt="Mesh used in Virtual Element Method">
+        </a>
     </div>
 </li>
 
