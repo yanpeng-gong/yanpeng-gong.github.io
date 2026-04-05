@@ -50,18 +50,27 @@ body {
     flex-shrink: 0;
     width: 280px;
 }
+.publication-image.wide {
+    width: 420px;
+}
 .publication-image img {
     width: 100%;
     height: auto;
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    cursor: zoom-in;
+    transition: transform 0.2s ease;
+}
+.publication-image img:hover {
+    transform: scale(1.02);
 }
 /* 响应式设计：小屏幕时图片移到下方 */
 @media (max-width: 768px) {
   .publication-item {
     flex-direction: column;
   }
-  .publication-image {
+  .publication-image,
+  .publication-image.wide {
     width: 100%;
   }
 }
@@ -202,8 +211,10 @@ Arxive预印版：有图片
         </a>
     </div>
     <!-- 右侧：图片展示-->
-    <div class="publication-image">
-        <img src="/files/papers/2026_TWS.jpg" alt="Biaxial flexural test of glass plates">
+    <div class="publication-image wide">
+        <a href="/files/papers/2026_TWS.jpg" target="_blank">
+            <img src="/files/papers/2026_TWS.jpg" alt="Biaxial flexural test of glass plates">
+        </a>
     </div>
 </li>
 
