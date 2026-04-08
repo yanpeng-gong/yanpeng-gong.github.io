@@ -18,11 +18,14 @@ Education
 
 Work Experience
 ======
-* 2023-present: Humboldt Research Fellowship Programme for Postdocs
+* 2023-2025: Humboldt Research Fellow
   * Institute of Photonics, Leibniz University Hannover, Germany
 
-* 2019-present: Associate Researcher
+* 2022-present: Associate Research Fellow (副研究员)
   * Faculty of Materials and Manufacturing
+  * Beijing University of Technology, China
+
+* 2019-2022: Lecturer
   * Beijing University of Technology, China
 
 Research Interests
@@ -73,4 +76,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Editorial Board Member, *Scientific Reports* (Nature Publishing Group), 2025–present
+* Young Editorial Board Member, *Chinese Journal of Applied Mechanics*, 2025–present
+* Young Editorial Board Member, *Electronics & Packaging*, 2026–present

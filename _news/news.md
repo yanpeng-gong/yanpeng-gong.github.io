@@ -6,15 +6,6 @@ author_profile: false
 collection: news
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-K251SYLJ6Y"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-K251SYLJ6Y');
-</script>
-
 <p>课题组最新动态和重要消息 | Latest news and updates from our research group</p>
 
 <h3>2026</h3>

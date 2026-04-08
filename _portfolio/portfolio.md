@@ -6,15 +6,6 @@ author_profile: false
 collection: portfolio
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-K251SYLJ6Y"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-K251SYLJ6Y');
-</script>
-
 <!--
 <table border=0>
   <tr><td width=450 ><img src="/images/Album/2025_group1.jpg" width="450"></td><td width=450><img src="/images/Album/2025_group2.jpg" width="450"></td></tr>

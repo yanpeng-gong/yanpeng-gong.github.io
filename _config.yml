@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Gong Research Group"
 title_separator          : "-"
 name                     : &name "Yanpeng Gong"
-description              : &description "Group Website"
+description              : &description "Gong Research Group at Beijing University of Technology - Computational Mechanics, Electronic Packaging, Machine Learning"
 url                      : https://yanpeng-gong.github.io
 baseurl                  : ""
 repository               : "yanpeng-gong/yanpeng-gong.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "bio-photo-gong.jpg" # Place an image in /images/ and reference it here
   name             : "公颜鹏 Yanpeng Gong"
   pronouns         : # example: "she/her"  
-  bio              :  "Dr., Assistant Professor, department of mechanics, Beijing University of Technology. "
+  bio              :  "Dr., Associate Research Fellow, Department of Mechanics, Beijing University of Technology."
   location         : "北京工业大学(西区) 基础楼703"
   employer         : "Beijing University of Technology"
   uri              : "https://yanpeng-gong.github.io"
@@ -136,7 +136,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "/images/bio-photo-gong.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -147,9 +147,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-analytics-4"
   google:
-    tracking_id          :
+    tracking_id          : "G-K251SYLJ6Y"
 
 
 # Reading Files

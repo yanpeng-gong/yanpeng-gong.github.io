@@ -5,15 +5,6 @@ permalink: /links/
 author_profile: false
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-K251SYLJ6Y"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-K251SYLJ6Y');
-</script>
-
 <h3>学校相关 University</h3>
 <p style="text-align:left;">
 <a href="https://www.bjut.edu.cn/" style="text-decoration:none;color:indianred;">北京工业大学 Beijing University of Technology</a><br>

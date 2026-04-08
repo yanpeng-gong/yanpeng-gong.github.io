@@ -6,21 +6,11 @@ author_profile: false
 collection: people
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-K251SYLJ6Y"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-K251SYLJ6Y');
-</script>
-
 {% include base_path %}
 
 <h3>课题组负责人   Principal Investigator</h3>
   
-* 公颜鹏 (Yanpeng Gong) <a href="http://yanpeng-gong.github.io/files/CV2024.pdf" style="color:black;"><i class="fa fa-file" aria-hidden="true"></i></a>
+* 公颜鹏 (Yanpeng Gong) <a href="http://yanpeng-gong.github.io/files/CV_YanpengGong.pdf" style="color:black;"><i class="fa fa-file" aria-hidden="true"></i></a>
 
 <!--
 <hr>
@@ -48,7 +38,7 @@ collection: people
 <!-- 在页面位置添加招生说明（更有效） -->
 <div style="background: #e7f3ff; border-left: 4px solid #007bff; padding: 15px; margin: 20px 0; border-radius: 5px;">
   <p style="margin: 0; font-size: 14px;">
-    <strong>招生信息 Recruitment:</strong> 每年招收力学/机械<strong>博士研究生</strong>和<strong>硕士研究生</strong>（欢迎<strong>推免生</strong>和<strong>统考生</strong>），有志于计算力学、机器学习算法、电子封装可靠性研究的同学请提前联系。课题组有充足的科研训练机会和国际学术交流平台。欢迎<a href="mailto:yanpenggong@gmail.com" style="text-decoration:none;color:#007bff;"><strong>邮件咨询</strong></a>！
+    <strong>招生信息 Recruitment:</strong> 每年招收力学/机械<strong>博士研究生</strong>和<strong>硕士研究生</strong>（欢迎<strong>推免生</strong>和<strong>统考生</strong>），有志于计算力学、机器学习算法、电子封装可靠性研究的同学请提前联系。课题组有充足的科研训练机会和国际学术交流平台。欢迎<a href="mailto:yanpeng.gong@bjut.edu.cn" style="text-decoration:none;color:#007bff;"><strong>邮件咨询</strong></a>！
   </p>
 </div>
 
@@ -119,9 +109,9 @@ margin-right: 2px;
 }
 </style>
 
-- 2022.09-2025.06,寇玉国, <a href="http://yanpeng-gong.github.io/files/Postdoc_HangLi.pdf" style="text-decoration:none;color:gray;"> 毕业论文题目：热力耦合相场模型在电子封装互连结构中的应用 Application of thermal coupled phase field model in electronic packaging interconnection structures </a> <span class="award-badge">北京工业大学优秀毕业论文</span>. 毕业去向：华南理工大学（读博）.
+- 2022.09-2025.06, 寇玉国, 毕业论文题目：热力耦合相场模型在电子封装互连结构中的应用 Application of thermal coupled phase field model in electronic packaging interconnection structures <span class="award-badge">北京工业大学优秀毕业论文</span>. 毕业去向：华南理工大学（读博）.
 
-- 2021.09-2024.06, 徐浩, <a href="http://yanpeng-gong.github.io/files/Postdoc_HangLi.pdf" style="text-decoration:none;color:gray;"> 毕业论文题目：边界元法在电子封装瞬态问题中的应用 Application of boundary element method to transient problems in electronic packaging</a> <span class="award-badge">北京工业大学优秀毕业论文</span>. 毕业去向：北京新风航天装备有限公司.
+- 2021.09-2024.06, 徐浩, 毕业论文题目：边界元法在电子封装瞬态问题中的应用 Application of boundary element method to transient problems in electronic packaging <span class="award-badge">北京工业大学优秀毕业论文</span>. 毕业去向：北京新风航天装备有限公司.
 
 <!--
 <hr>
