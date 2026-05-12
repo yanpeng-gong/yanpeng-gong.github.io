@@ -21,7 +21,7 @@ Work Experience
 * 2023-2025: Humboldt Research Fellow
   * Institute of Photonics, Leibniz University Hannover, Germany
 
-* 2022-present: Associate Research Fellow (副研究员)
+* 2022-present: Associate Professor (副研究员)
   * Faculty of Materials and Manufacturing
   * Beijing University of Technology, China
 
