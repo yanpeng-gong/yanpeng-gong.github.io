@@ -37,6 +37,15 @@ collection: portfolio
 -->
 
 <hr>
+<table border=0 cellspacing="0" cellpadding="0" style="border:none;">
+  <tr>
+  <td width=350 style="border:none;"><img src="/images/Album/2026_HeYida_MSdefense.jpg" width="350" style="border:none;"></td>
+  <td width=350 style="border:none;"><img src="/images/Album/2026_LiSishuai_MSdefense.jpg" width="350" style="border:none;"></td>
+  </tr>
+</table>
+2026/05/11 祝贺贺一达、李思帅顺利通过硕士学位论文答辩。Congratulations to Yida He and Sishuai Li on successfully passing their Master's thesis defense.
+
+<hr>
 <img src="/images/Album/2025_farewell_hannover.jpg" width="400"><br>
 2025/01/23 Farewell photo with friends at Hannover Hauptbahnhof.
 
