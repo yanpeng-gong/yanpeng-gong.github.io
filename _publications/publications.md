@@ -15,7 +15,7 @@ body {
   font-size: 16px;
 }
 .publications-list {
-    counter-reset: pub-counter 61; /* 设置初始值为总论文数+1 */
+    counter-reset: pub-counter 62; /* 设置初始值为总论文数+1 */
     list-style: none;
     padding-left: 0;
 }
@@ -85,6 +85,19 @@ body {
 <br>
 <hr>
 <h2 style="color: #008B8B; font-weight: bold; font-size: 28px; margin-bottom: 20px;">Forthcoming</h2>
+
+<li class="publication-item">
+    <div class="publication-content">
+        <!-- Author names -->
+        <u>Y. Gong</u>, L. Zhang, Y. Duan, T. An, X. Zhuang, T. Rabczuk*.
+        <!-- Title of the paper -->
+        <a href="#" style="text-decoration:none; color:#DE3163;">
+            A variational-damage-based thermo-mechanical phase-field model for fracture analysis of electronic packaging structures.
+        </a>
+        <!-- Journal information -->
+        <b>Engineering Fracture Mechanics</b> Under Review
+    </div>
+</li>
 
 <li class="publication-item">
     <div class="publication-content">
