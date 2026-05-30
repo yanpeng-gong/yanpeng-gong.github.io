@@ -10,7 +10,7 @@ collection: people
 
 <h3>课题组负责人   Principal Investigator</h3>
   
-* 公颜鹏 (Yanpeng Gong) <a href="http://yanpeng-gong.github.io/files/CV_YanpengGong.pdf" style="color:black;"><i class="fa fa-file" aria-hidden="true"></i></a>
+* 公颜鹏 (Yanpeng Gong) <a href="https://yanpeng-gong.github.io/cv/" style="color:black;"><i class="fa fa-file" aria-hidden="true"></i></a>
 
 <!--
 <hr>
