@@ -10,28 +10,28 @@ collection: news
 
 <h3>2026</h3>
 
-- 5 月 30 日，<u>公颜鹏</u>作为 Guest Editor 参与组织的 <a href="https://go.nature.com/4dC9Gwy" style="text-decoration:none;color:#DE3163;"><em>Scientific Reports</em> 专题 "Advanced 3D Packaging and Integration"</a> 正式开放投稿，截止日期 <strong>2027 年 2 月 11 日</strong>。客座编辑团队：Yanpeng Gong（北京工业大学）、Ji-Wei Lian、Uma Sathyakam P、Shih-Kang Lin。诚邀同行投稿！<a href="http://yanpeng-gong.github.io/files/news/2026_SR_SI_3DPackaging.png" style="text-decoration:none;color:#4A90E2;">[宣传图]</a><br>
+- 5 月 30 日，<u>公颜鹏</u>作为 Guest Editor 参与组织的 <a href="https://go.nature.com/4dC9Gwy" style="text-decoration:none;color:#DE3163;"><em>Scientific Reports</em> 专题 "Advanced 3D Packaging and Integration"</a> 正式开放投稿，截止日期 <strong>2027 年 2 月 11 日</strong>。客座编辑团队：Yanpeng Gong（北京工业大学）、Ji-Wei Lian、Uma Sathyakam P、Shih-Kang Lin。诚邀同行投稿！<a href="/files/news/2026_SR_SI_3DPackaging.png" style="text-decoration:none;color:#4A90E2;">[宣传图]</a><br>
   The <a href="https://go.nature.com/4dC9Gwy" style="text-decoration:none;color:#DE3163;"><em>Scientific Reports</em> Collection "Advanced 3D Packaging and Integration"</a>, co-edited by <u>Yanpeng Gong</u>, Ji-Wei Lian, Uma Sathyakam P, and Shih-Kang Lin, is now <strong>open for submissions</strong> (deadline: 11 February 2027). Contributions are warmly welcome.<br>
 
 - 5 月 11 日，恭喜硕士生<u>贺一达</u>、<u>李思帅</u>顺利通过<strong>硕士学位论文答辩</strong>！Congratulations to <u>Yida He</u> and <u>Sishuai Li</u> for successfully passing their <strong>Master's thesis defense</strong>!<br>
 
 - 1 月 31 日，<u>公颜鹏</u>入选<a href="https://ep.org.cn/CN/column/column1.shtml" style="text-decoration:none;color:#DE3163;">《电子与封装》</a>期刊<a href="https://ep.org.cn/CN/column/column2.shtml"><strong>2026 年青年编委</strong></a>。Yanpeng Gong has been appointed as a <strong>Young Editorial Board Member</strong> of <i>Electronics & Packaging</i> journal for 2026.<br>
 
-- 1 月 16 日，恭喜硕士生<u>贺一达</u>在<a href="https://www.aicomp.cn/" style="text-decoration:none;color:#DE3163;">“2025 年第七届全球校园人工智能算法精英大赛全国总决赛”</a>中荣获<strong>一等奖</strong>（赛题：AI+力学）<a href="http://yanpeng-gong.github.io/files/news/2025AI+Mech.jpg" style="text-decoration:none;color:#4A90E2;">[获奖证书]</a>。Congratulations to <u>Yida He</u> for winning the First Prize in the 7th Global Campus AI Algorithm Elite Competition National Finals (Topic: AI+Mechanics).<br>
+- 1 月 16 日，恭喜硕士生<u>贺一达</u>在<a href="https://www.aicomp.cn/" style="text-decoration:none;color:#DE3163;">“2025 年第七届全球校园人工智能算法精英大赛全国总决赛”</a>中荣获<strong>一等奖</strong>（赛题：AI+力学）<a href="/files/news/2025AI+Mech.jpg" style="text-decoration:none;color:#4A90E2;">[获奖证书]</a>。Congratulations to <u>Yida He</u> for winning the First Prize in the 7th Global Campus AI Algorithm Elite Competition National Finals (Topic: AI+Mechanics).<br>
 
 <h3>2025</h3>
 
-- 11 月 29 日，<u>公颜鹏</u>参加“第 136 期高端青年沙龙——含能复合材料失效行为表征与分析研讨会"（中国复合材料学会，北京），并作报告"多尺度数值计算方法及其工程应用”。<a href="https://mp.weixin.qq.com/s/jn7QZvW-GvZQFH4C22ydeQ" style="text-decoration:none;color:#4A90E2;">[会议通知]</a> <a href="http://yanpeng-gong.github.io/files/Conference_program/Energetic_Materials2025.png" style="text-decoration:none;color:#4A90E2;">[日程表]</a><br>
+- 11 月 29 日，<u>公颜鹏</u>参加“第 136 期高端青年沙龙——含能复合材料失效行为表征与分析研讨会"（中国复合材料学会，北京），并作报告"多尺度数值计算方法及其工程应用”。<a href="https://mp.weixin.qq.com/s/jn7QZvW-GvZQFH4C22ydeQ" style="text-decoration:none;color:#4A90E2;">[会议通知]</a> <a href="/files/Conference_program/Energetic_Materials2025.png" style="text-decoration:none;color:#4A90E2;">[日程表]</a><br>
 
 - 11 月 7 日，恭喜硕士生<u>贺一达</u>获得<strong>国家奖学金</strong>和<strong>一等学业奖学金</strong>，<u>李思帅</u>获得<strong>三等学业奖学金</strong>。Congratulations to Yida He for receiving the National Scholarship and First-Class Academic Scholarship, and to Sishuai Li for receiving the Third-Class Academic Scholarship.
 
-- 10 月 25 日，<u>公颜鹏</u>在<a href="http://yanpeng-gong.github.io/files/Conference_program/CCOME2025.pdf" style="text-decoration:none;color:#DE3163;">CCOME2025</a>获<span style="color:#D4AF37; font-weight:bold;">"杜庆华工程计算方法优秀青年学者奖"</span>，并应邀作大会主旨报告"基于虚单元法的多尺度电子封装热力耦合分析"。<a href="http://yanpeng-gong.github.io/files/news/2025_DQH_award.pdf" style="text-decoration:none;color:#4A90E2;">[获奖证书]</a><br>
+- 10 月 25 日，<u>公颜鹏</u>在<a href="/files/Conference_program/CCOME2025.pdf" style="text-decoration:none;color:#DE3163;">CCOME2025</a>获<span style="color:#D4AF37; font-weight:bold;">"杜庆华工程计算方法优秀青年学者奖"</span>，并应邀作大会主旨报告"基于虚单元法的多尺度电子封装热力耦合分析"。<a href="/files/news/2025_DQH_award.pdf" style="text-decoration:none;color:#4A90E2;">[获奖证书]</a><br>
   Yanpeng Gong received the DU Qing-Hua Medal & Young Researcher Award of Computational Methods in Engineering at CCOME2025 in Nanchang, and delivered a plenary talk on virtual element method for electronic packaging.
 
-- 10 月 16 日，<u>公颜鹏</u>受聘为<a href="https://www.nature.com/srep/" style="text-decoration:none;color:#DE3163;"><em>Scientific Reports</em></a>编委会成员（Editorial Board Member）。应邀参加在北京航空航天大学举办的编委会会议，与主编及北京地区编委就期刊发展及学术管理进行讨论。<a href="http://yanpeng-gong.github.io/files/news/2025_SR_EBM_meeting.pdf" style="text-decoration:none;color:#4A90E2;">[会议证明]</a><br>
+- 10 月 16 日，<u>公颜鹏</u>受聘为<a href="https://www.nature.com/srep/" style="text-decoration:none;color:#DE3163;"><em>Scientific Reports</em></a>编委会成员（Editorial Board Member）。应邀参加在北京航空航天大学举办的编委会会议，与主编及北京地区编委就期刊发展及学术管理进行讨论。<a href="/files/news/2025_SR_EBM_meeting.pdf" style="text-decoration:none;color:#4A90E2;">[会议证明]</a><br>
   <u>Yanpeng Gong</u> was appointed as an Editorial Board Member of Scientific Reports. On October 16th, he attended the editorial board meeting at Beihang University, discussing journal development and academic management with the Chief Editor and board members from Beijing.
 
-- 10 月 10-12 日，<u>公颜鹏</u>在<a href="http://yanpeng-gong.github.io/files/Conference_program/DACOMA2025.pdf" style="text-decoration:none;color:#DE3163;">DACOMA25 会议</a>作邀请报告"Energy-Based Physics-Informed Kolmogorov-Arnold Networks for Multi-Scale Multi-Material Electronic Packaging Structures"，研究生<u>贺一达</u>作口头报告"Physics-Informed Neural Operator for Multi-Material Elasticity Problems in Electronic Packaging"。
+- 10 月 10-12 日，<u>公颜鹏</u>在<a href="/files/Conference_program/DACOMA2025.pdf" style="text-decoration:none;color:#DE3163;">DACOMA25 会议</a>作邀请报告"Energy-Based Physics-Informed Kolmogorov-Arnold Networks for Multi-Scale Multi-Material Electronic Packaging Structures"，研究生<u>贺一达</u>作口头报告"Physics-Informed Neural Operator for Multi-Material Elasticity Problems in Electronic Packaging"。
 
 - 9 月 26 日，<u>公颜鹏</u>获聘为《应用力学学报》青年编辑委员会委员。<u>Yanpeng Gong</u> was appointed as a member of the Young Editorial Board of _Chinese Journal of Applied Mechanics_ (应用力学学报).
 

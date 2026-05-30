@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yanpeng-gong.github.io/sitemap.xml

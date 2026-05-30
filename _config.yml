@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Gong Research Group"
 title_separator          : "-"
 name                     : &name "Yanpeng Gong"
-description              : &description "Gong Research Group at Beijing University of Technology - Computational Mechanics, Electronic Packaging, Machine Learning"
+description              : &description "Yanpeng Gong (公颜鹏), Associate Professor at Beijing University of Technology and Humboldt Fellow. Computational mechanics research on electronic packaging reliability, phase-field fracture, isogeometric BEM, and physics-informed machine learning (PINN). 60+ SCI papers."
 url                      : https://yanpeng-gong.github.io
 baseurl                  : ""
 repository               : "yanpeng-gong/yanpeng-gong.github.io"
@@ -140,9 +140,13 @@ og_image                 : "/images/bio-photo-gong.jpg" # Open Graph/Twitter def
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Person # Person or Organization (defaults to Person)
+  name                   : "Yanpeng Gong 公颜鹏" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://scholar.google.com/citations?user=wmkLERIAAAAJ&hl=zh-CN"
+    - "https://orcid.org/0000-0002-3177-2826"
+    - "https://www.researchgate.net/profile/Yanpeng-Gong"
+    - "https://www.webofscience.com/wos/author/record/LIF-1683-2024"
 
 
 # Analytics

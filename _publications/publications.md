@@ -1,7 +1,9 @@
 ---
 layout: archive
+title: "论文 Publications"
 permalink: /publications/
 author_profile: false
+description: "Peer-reviewed publications of Yanpeng Gong (公颜鹏): 60+ SCI papers on computational mechanics, electronic packaging reliability, isogeometric boundary element method, phase-field fracture, and physics-informed neural networks (PINN)."
 ---
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -127,7 +129,7 @@ Arxive预印版：有图片
         </a>
         Journal information
         <b>arXiv</b> (2025)
-        <a href="http://yanpeng-gong.github.io/files/papers/2025_PIKAN.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2025_PIKAN.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
         link of open source code
@@ -156,7 +158,7 @@ Arxive预印版：有图片
         </a>
         Journal information
         <b>Engineering with Computers</b> 41 (2025) 4799–4824
-        <a href="http://yanpeng-gong.github.io/files/papers/2025_EC.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2025_EC.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
         link of arXive
@@ -213,7 +215,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Thin-Walled Structures</b> 226 (2026) 114927
-        <a href="http://yanpeng-gong.github.io/files/papers/2026_TWS.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2026_TWS.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -236,7 +238,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Applied Mathematical Modelling</b> 156 (2026) 116793
-        <a href="http://yanpeng-gong.github.io/files/papers/2026_AMM.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2026_AMM.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
         <!-- link of arXiv -->
@@ -268,7 +270,7 @@ Arxive预印版：有图片
         </a> 
         <!-- Journal information -->
         <b>Engineering Analysis with Boundary Elements</b> 184 (2026) 106640.
-        <a href="http://yanpeng-gong.github.io/files/papers/2026_VeFe.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2026_VeFe.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
           <!-- link of arXive -->
@@ -304,7 +306,7 @@ Arxive预印版：有图片
         </a> 
         <!-- Journal information -->
         <b>Engineering with Computers</b> 41 (2025) 4799–4824
-        <a href="http://yanpeng-gong.github.io/files/papers/2025_EC.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2025_EC.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
         <!-- link of arXive -->
@@ -335,7 +337,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Applied Mathematical Modelling</b> (2025) 116327
-        <a href="http://yanpeng-gong.github.io/files/papers/2025_AMM.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2025_AMM.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -351,7 +353,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Engineering Fracture Mechanics</b> (2025) 111039
-        <a href="http://yanpeng-gong.github.io/files/papers/2025_EFM.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2025_EFM.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -367,7 +369,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Engineering Structures</b> 326 (2025) 119500
-        <a href="http://yanpeng-gong.github.io/files/papers/2025_ES.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2025_ES.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -383,9 +385,6 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Physics of Fluids</b> 36(2) (2024) 027116
-        <a href="http://yanpeng-gong.github.io/files/papers/2024_POF.pdf" style="text-decoration:none;">
-            <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
-        </a>
     </div>
 </li>
 
@@ -399,7 +398,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>2025 26th International Conference on Electronic Packaging Technology (ICEPT)</b> (2025) 1-6
-        <a href="http://yanpeng-gong.github.io/files/papers/2025_ICEPT_Li.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2025_ICEPT_Li.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -420,7 +419,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>International Communications in Heat and Mass Transfer</b> 159 (2024) 108033
-        <a href="http://yanpeng-gong.github.io/files/papers/2024_ICHMT.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2024_ICHMT.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -436,7 +435,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>2024 25th International Conference on Electronic Packaging Technology (ICEPT)</b> (2024) 1-5
-        <a href="http://yanpeng-gong.github.io/files/papers/2024_ICEPT2.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2024_ICEPT2.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -452,7 +451,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>2024 25th International Conference on Electronic Packaging Technology (ICEPT)</b> (2024) 1-4
-        <a href="http://yanpeng-gong.github.io/files/papers/2024_ICEPT.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2024_ICEPT.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -473,7 +472,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Journal of Electronic Packaging</b> 145(2) (2023)
-        <a href="http://yanpeng-gong.github.io/files/papers/2023_JEP.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2023_JEP.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -489,7 +488,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>2023 24th International Conference on Electronic Packaging Technology (ICEPT)</b> (2023)
-        <a href="http://yanpeng-gong.github.io/files/papers/2023_ICEPT.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2023_ICEPT.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -505,9 +504,6 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Molecular Simulation</b> 49(13-14) (2023) 1281-1292
-        <a href="http://yanpeng-gong.github.io/files/papers/2023_MS.pdf" style="text-decoration:none;">
-            <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
-        </a>
     </div>
 </li>
 
@@ -521,9 +517,6 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>International Journal of Adhesion and Adhesives</b> 125 (2023) 103422
-        <a href="http://yanpeng-gong.github.io/files/papers/2023_IJAA.pdf" style="text-decoration:none;">
-            <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
-        </a>
     </div>
 </li>
 
@@ -537,7 +530,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Materials Science in Semiconductor Processing</b> 158 (2023) 107353
-        <a href="http://yanpeng-gong.github.io/files/papers/2023_MSSP.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2023_MSSP.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -553,7 +546,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Electronics</b> 12(7) (2023) 1650
-        <a href="http://yanpeng-gong.github.io/files/papers/2023_Electronics.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2023_Electronics.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -569,7 +562,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>IEEE Transactions on Device and Materials Reliability</b> 23(1) (2023) 89-98
-        <a href="http://yanpeng-gong.github.io/files/papers/2023_TDMR.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2023_TDMR.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -589,7 +582,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>International Journal for Numerical Methods in Engineering</b> 123(20) (2022) 4877-4892
-        <a href="http://yanpeng-gong.github.io/files/papers/2022_IJNME.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2022_IJNME.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -605,7 +598,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Engineering Analysis with Boundary Elements</b> 137 (2022) 78-90
-        <a href="http://yanpeng-gong.github.io/files/papers/2022_EABE.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2022_EABE.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -621,7 +614,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Applied Mathematical Modelling</b> 109 (2022) 161-185
-        <a href="http://yanpeng-gong.github.io/files/papers/2022_AMM.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2022_AMM.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -637,7 +630,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Applied Thermal Engineering</b> 212 (2022) 118600
-        <a href="http://yanpeng-gong.github.io/files/papers/2022_ATE.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2022_ATE.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -653,7 +646,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>IEEE Transactions on Components, Packaging and Manufacturing Technology</b> 12(6) (2022) 964-972
-        <a href="http://yanpeng-gong.github.io/files/papers/2022_TCPMT.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2022_TCPMT.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -669,7 +662,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Engineering Fracture Mechanics</b> 264 (2022) 108355
-        <a href="http://yanpeng-gong.github.io/files/papers/2022_EFM.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2022_EFM.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -685,7 +678,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Engineering Analysis with Boundary Elements</b> 135 (2022) 182-195
-        <a href="http://yanpeng-gong.github.io/files/papers/2022_EABE2.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2022_EABE2.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -701,7 +694,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>IEEE Transactions on Power Electronics</b> 37(6) (2022) 7286-7298
-        <a href="http://yanpeng-gong.github.io/files/papers/2022_TPE.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2022_TPE.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -717,7 +710,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>2022 23rd International Conference on Electronic Packaging Technology (ICEPT)</b> (2022) 1-4
-        <a href="http://yanpeng-gong.github.io/files/papers/2022_ICEPT.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2022_ICEPT.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -733,7 +726,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Journal of Power Electronics</b> 22(9) (2022) 1561-1575
-        <a href="http://yanpeng-gong.github.io/files/papers/2022_JPE.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2022_JPE.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -749,7 +742,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>2022 23rd International Conference on Electronic Packaging Technology (ICEPT)</b> (2022) 1-4
-        <a href="http://yanpeng-gong.github.io/files/papers/2022_ICEPT2.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2022_ICEPT2.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -765,7 +758,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>2022 23rd International Conference on Electronic Packaging Technology (ICEPT)</b> (2022) 1-4
-        <a href="http://yanpeng-gong.github.io/files/papers/2022_ICEPT3.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2022_ICEPT3.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -781,7 +774,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>2022 23rd International Conference on Electronic Packaging Technology (ICEPT)</b> (2022) 1-4
-        <a href="http://yanpeng-gong.github.io/files/papers/2022_ICEPT4.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2022_ICEPT4.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -802,7 +795,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Engineering Analysis with Boundary Elements</b> 128 (2021) 195-202
-        <a href="http://yanpeng-gong.github.io/files/papers/2021_EABE.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2021_EABE.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -818,7 +811,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>AIMS Mathematics</b> 6(11) (2021) 12599-12618
-        <a href="http://yanpeng-gong.github.io/files/papers/2021_AIMS.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2021_AIMS.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -834,7 +827,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Computer Methods in Applied Mechanics and Engineering</b> 384 (2021) 113958
-        <a href="http://yanpeng-gong.github.io/files/papers/2021_CMAME.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2021_CMAME.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -850,7 +843,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Engineering Analysis with Boundary Elements</b> 128 (2021) 298-309
-        <a href="http://yanpeng-gong.github.io/files/papers/2021_EABE2.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2021_EABE2.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -866,7 +859,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Mechanical Systems and Signal Processing</b> 154 (2021) 107550
-        <a href="http://yanpeng-gong.github.io/files/papers/2021_MSSP.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2021_MSSP.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -882,7 +875,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Microelectronics Reliability</b> 124 (2021) 114290
-        <a href="http://yanpeng-gong.github.io/files/papers/2021_MR.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2021_MR.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -898,7 +891,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Materials Science and Engineering: A</b> 823 (2021) 141729
-        <a href="http://yanpeng-gong.github.io/files/papers/2021_MSEA.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2021_MSEA.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -919,7 +912,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Computer Methods in Applied Mechanics and Engineering</b> 367 (2020) 113099
-        <a href="http://yanpeng-gong.github.io/files/papers/2020_CMAME.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2020_CMAME.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -935,7 +928,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Journal of Computational and Applied Mathematics</b> 377 (2020) 112904
-        <a href="http://yanpeng-gong.github.io/files/papers/2020_JCAM.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2020_JCAM.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -951,7 +944,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>2020 21st International Conference on Electronic Packaging Technology (ICEPT)</b> (2020) 1-5
-        <a href="http://yanpeng-gong.github.io/files/papers/2020_ICEPT.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2020_ICEPT.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -967,7 +960,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Journal of Electronic Materials</b> 49(10) (2020) 5994-6008
-        <a href="http://yanpeng-gong.github.io/files/papers/2020_JEM.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2020_JEM.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -988,7 +981,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Computer Methods in Applied Mechanics and Engineering</b> 346 (2019) 642-673
-        <a href="http://yanpeng-gong.github.io/files/papers/2019_CMAME.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2019_CMAME.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -1004,7 +997,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Computational Mechanics</b> 63(2) (2019) 181-199
-        <a href="http://yanpeng-gong.github.io/files/papers/2019_CM.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2019_CM.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -1020,7 +1013,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Applied Mathematics and Computation</b> 359 (2019) 17-33
-        <a href="http://yanpeng-gong.github.io/files/papers/2019_AMC.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2019_AMC.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -1041,7 +1034,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Advances in Engineering Software</b> 119 (2018) 103-115
-        <a href="http://yanpeng-gong.github.io/files/papers/2018_AES.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2018_AES.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -1057,7 +1050,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Journal of Computational and Applied Mathematics</b> 343 (2018) 124-138
-        <a href="http://yanpeng-gong.github.io/files/papers/2018_JCAM.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2018_JCAM.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -1078,7 +1071,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Journal of Computational and Applied Mathematics</b> 313 (2017) 454-468
-        <a href="http://yanpeng-gong.github.io/files/papers/2017_JCAM.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2017_JCAM.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -1094,7 +1087,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Engineering Analysis with Boundary Elements</b> 75 (2017) 21-35
-        <a href="http://yanpeng-gong.github.io/files/papers/2017_EABE.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2017_EABE.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -1110,7 +1103,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Journal of Computational and Applied Mathematics</b> 319 (2017) 141-158
-        <a href="http://yanpeng-gong.github.io/files/papers/2017_JCAM2.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2017_JCAM2.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -1126,7 +1119,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Thin-Walled Structures</b> 116 (2017) 124-135
-        <a href="http://yanpeng-gong.github.io/files/papers/2017_TWS.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2017_TWS.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -1146,7 +1139,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Engineering Analysis with Boundary Elements</b> 60 (2015) 144-153
-        <a href="http://yanpeng-gong.github.io/files/papers/2015_EABE.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2015_EABE.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -1162,7 +1155,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Acta Mechanica</b> 226(9) (2015) 2873-2885
-        <a href="http://yanpeng-gong.github.io/files/papers/2015_AM.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2015_AM.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -1178,7 +1171,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Abstract and Applied Analysis</b> 2015 (2015) 418293
-        <a href="http://yanpeng-gong.github.io/files/papers/2015_AAA.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2015_AAA.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -1197,7 +1190,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Structure & Environment Engineering</b> 49(5) (2022)
-        <a href="http://yanpeng-gong.github.io/files/papers/2022_SEE.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2022_SEE.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -1213,7 +1206,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Structure & Environment Engineering</b> 49(5) (2022)
-        <a href="http://yanpeng-gong.github.io/files/papers/2022_SEE2.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2022_SEE2.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>
@@ -1229,7 +1222,7 @@ Arxive预印版：有图片
         </a>
         <!-- Journal information -->
         <b>Structure & Environment Engineering</b> 49(3) (2022)
-        <a href="http://yanpeng-gong.github.io/files/papers/2022_SEE3.pdf" style="text-decoration:none;">
+        <a href="/files/papers/2022_SEE3.pdf" style="text-decoration:none;">
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
     </div>

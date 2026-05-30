@@ -9,18 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D. in Mechanics, Beijing Institute of Technology, 2019
-* Exchange Ph.D. student, Department of Engineering, Durham University, UK, 2017-2018
-
 Work Experience
 ======
 * 2023-2025: Humboldt Research Fellow
   * Institute of Photonics, Leibniz University Hannover, Germany
 
 * 2022-present: Associate Professor (副研究员)
-  * Faculty of Materials and Manufacturing
+  * Department of Mechanics, Faculty of Materials and Manufacturing
   * Beijing University of Technology, China
 
 * 2019-2022: Lecturer

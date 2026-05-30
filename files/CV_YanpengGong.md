@@ -7,13 +7,6 @@ Email: yanpeng.gong@bjut.edu.cn | Web: https://yanpeng-gong.github.io
 
 ---
 
-## Education
-
-- **Ph.D. in Mechanics**, Beijing Institute of Technology, 2019  
-  - Exchange Ph.D. student, Department of Engineering, Durham University, UK, 2017–2018 (CSC funded)
-
----
-
 ## Work Experience
 
 - **2022–present**: Associate Professor (副研究员), Beijing University of Technology
@@ -72,7 +65,7 @@ Email: yanpeng.gong@bjut.edu.cn | Web: https://yanpeng-gong.github.io
 
 ## Selected Publications
 
-Over 50 SCI publications. Representative works:
+Over 60 SCI publications. Representative works:
 
 1. **Y. Gong** et al. A coupled finite element-virtual element method for thermomechanical analysis of electronic packaging structures. *Engineering Analysis with Boundary Elements* 184, 106640 (2026)
 2. **Y. Gong** et al. Physics-informed Kolmogorov-Arnold Networks for multi-material elasticity problems in electronic packaging. *Applied Mathematical Modelling* 156, 116793 (2026)
