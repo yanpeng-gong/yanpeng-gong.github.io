@@ -11,8 +11,6 @@ Email: yanpeng.gong@bjut.edu.cn | Web: https://yanpeng-gong.github.io
 
 - **Ph.D. in Mechanics**, Beijing Institute of Technology, 2019  
   - Exchange Ph.D. student, Department of Engineering, Durham University, UK, 2017–2018 (CSC funded)
-- **M.Sc. in Computational Mathematics**, Shandong University of Technology, 2015
-- **B.Sc. in Applied Mathematics**, Linyi University, 2012
 
 ---
 
