@@ -10,6 +10,9 @@ collection: news
 
 <h3>2026</h3>
 
+- 5 月 30 日，<u>公颜鹏</u>作为 Guest Editor 参与组织的 <a href="https://go.nature.com/4dC9Gwy" style="text-decoration:none;color:#DE3163;"><em>Scientific Reports</em> 专题 "Advanced 3D Packaging and Integration"</a> 正式开放投稿，截止日期 <strong>2027 年 2 月 11 日</strong>。客座编辑团队：Yanpeng Gong（北京工业大学）、Ji-Wei Lian、Uma Sathyakam P、Shih-Kang Lin。诚邀同行投稿！<a href="http://yanpeng-gong.github.io/files/news/2026_SR_SI_3DPackaging.png" style="text-decoration:none;color:#4A90E2;">[宣传图]</a><br>
+  The <a href="https://go.nature.com/4dC9Gwy" style="text-decoration:none;color:#DE3163;"><em>Scientific Reports</em> Collection "Advanced 3D Packaging and Integration"</a>, co-edited by <u>Yanpeng Gong</u>, Ji-Wei Lian, Uma Sathyakam P, and Shih-Kang Lin, is now <strong>open for submissions</strong> (deadline: 11 February 2027). Contributions are warmly welcome.<br>
+
 - 5 月 11 日，恭喜硕士生<u>贺一达</u>、<u>李思帅</u>顺利通过<strong>硕士学位论文答辩</strong>！Congratulations to <u>Yida He</u> and <u>Sishuai Li</u> for successfully passing their <strong>Master's thesis defense</strong>!<br>
 
 - 1 月 31 日，<u>公颜鹏</u>入选<a href="https://ep.org.cn/CN/column/column1.shtml" style="text-decoration:none;color:#DE3163;">《电子与封装》</a>期刊<a href="https://ep.org.cn/CN/column/column2.shtml"><strong>2026 年青年编委</strong></a>。Yanpeng Gong has been appointed as a <strong>Young Editorial Board Member</strong> of <i>Electronics & Packaging</i> journal for 2026.<br>

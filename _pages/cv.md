@@ -79,3 +79,4 @@ Service and leadership
 * Editorial Board Member, *Scientific Reports* (Nature Publishing Group), 2025–present
 * Young Editorial Board Member, *Chinese Journal of Applied Mechanics*, 2025–present
 * Young Editorial Board Member, *Electronics & Packaging*, 2026–present
+* Guest Editor, *Scientific Reports* Collection ["Advanced 3D Packaging and Integration"](https://go.nature.com/4dC9Gwy), 2026 (deadline: 11 February 2027)

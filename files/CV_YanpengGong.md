@@ -50,6 +50,7 @@ Email: yanpeng.gong@bjut.edu.cn | Web: https://yanpeng-gong.github.io
 - **Editorial Board Member**, *Scientific Reports* (Nature Publishing Group), 2025–present
 - **Young Editorial Board Member**, *Chinese Journal of Applied Mechanics* (应用力学学报), 2025–present
 - **Young Editorial Board Member**, *Electronics & Packaging* (电子与封装), 2026–present
+- **Guest Editor**, *Scientific Reports* Collection ["Advanced 3D Packaging and Integration"](https://go.nature.com/4dC9Gwy), 2026 (submission deadline: 11 February 2027)
 
 ---
 
