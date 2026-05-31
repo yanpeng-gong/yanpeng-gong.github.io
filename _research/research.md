@@ -7,7 +7,39 @@ collection: research
 description: "Research of Yanpeng Gong (公颜鹏): numerical methods and software development (isogeometric/boundary element method, phase-field, PINN, FEM-BEM coupling), electronic packaging reliability, and multiscale multi-physics simulation."
 ---
 
-<h3>数值方法与软件开发 Numerical Methods & Software Development</h3>
+<p>课题组围绕计算力学，在以下四个方向开展研究（点击图片跳转）。Our research spans four directions in computational mechanics — click a card to jump to that theme.</p>
+
+<style>
+.research-nav { display:grid; grid-template-columns:repeat(auto-fit,minmax(190px,1fr)); gap:16px; margin:18px 0 30px; }
+.research-nav a { text-decoration:none; color:inherit; border:1px solid #e6e6e6; border-radius:10px; overflow:hidden; background:#fff; transition:transform .15s ease, box-shadow .15s ease; }
+.research-nav a:hover { transform:translateY(-3px); box-shadow:0 5px 16px rgba(0,0,0,.13); }
+.research-nav .thumb { height:115px; background-size:cover; background-position:center; }
+.research-nav .label { padding:10px 12px; font-weight:600; font-size:.92em; line-height:1.35; }
+.research-nav .label small { display:block; color:#777; font-weight:400; font-size:.85em; margin-top:2px; }
+@media (max-width:600px){ .research-nav{ grid-template-columns:repeat(2,1fr); } }
+</style>
+
+<div class="research-nav">
+  <a href="#numerical-methods">
+    <div class="thumb" style="background-image:url('/images/Research/numerical_methods.jpg');"></div>
+    <div class="label">数值方法与软件开发<small>Numerical Methods &amp; Software</small></div>
+  </a>
+  <a href="#packaging-reliability">
+    <div class="thumb" style="background-image:url('/images/Research/Electronic_Packaging_Reliability.jpg');"></div>
+    <div class="label">电子封装可靠性<small>Electronic Packaging Reliability</small></div>
+  </a>
+  <a href="#machine-learning">
+    <div class="thumb" style="background-image:url('/images/Research/Research_ML.jpg');"></div>
+    <div class="label">机器学习与计算力学<small>Machine Learning in Mechanics</small></div>
+  </a>
+  <a href="#soft-robotics">
+    <div class="thumb" style="background:linear-gradient(135deg,#20B2AA,#008B8B);"></div>
+    <div class="label">智能软材料与软体机器人<small>Smart Soft Materials &amp; Robotics</small></div>
+  </a>
+</div>
+
+<hr>
+<h3 id="numerical-methods">数值方法与软件开发 Numerical Methods & Software Development</h3>
 
 <p style="color:indianred;">Keywords: Isogeometric analysis, Phase field, PINN, Boundary element method, FEM-BEM coupling, ABAQUS integration</p>
 <div style="text-align: center;"><img src="/images/Research/numerical_methods.jpg" alt="Numerical methods and software development research overview" width="950"></div>
@@ -29,7 +61,7 @@ We are committed to solving critical numerical computational challenges in compl
 </ol>
 
 <hr>
-<h3>电子封装可靠性分析 Electronic Packaging Reliability</h3>
+<h3 id="packaging-reliability">电子封装可靠性分析 Electronic Packaging Reliability</h3>
 <p style="color:indianred;">Keywords: Multi-scale structures, Multi-physics coupling, Thermal cycling, Phase-field modeling, IGBT modules, TSV structures, Advanced numerical techniques, Reliability prediction</p>
 
 <div style="text-align: center;"><img src="/images/Research/Electronic_Packaging_Reliability.jpg" alt="Electronic packaging reliability analysis" width="900"></div>
@@ -44,7 +76,7 @@ We are committed to solving critical numerical computational challenges in compl
 </ol>
 
 <hr>
-<h3>机器学习与计算力学 Machine Learning in Computational Mechanics</h3>
+<h3 id="machine-learning">机器学习与计算力学 Machine Learning in Computational Mechanics</h3>
 <p style="color:indianred;">Keywords: Physics-informed neural networks, Kolmogorov-Arnold networks, Deep learning, Data-driven modeling, Multi-material problems, Surrogate modeling, AI-enhanced simulation</p>
 
 <div style="text-align: center;"><img src="/images/Research/Research_ML.jpg" alt="Machine learning in computational mechanics" width="700"></div>
@@ -56,7 +88,7 @@ We are committed to solving critical numerical computational challenges in compl
 </ol>
 
 <hr>
-<h3>智能软材料与软体机器人力学 Smart Soft Materials & Soft Robotics Mechanics</h3>
+<h3 id="soft-robotics">智能软材料与软体机器人力学 Smart Soft Materials & Soft Robotics Mechanics</h3>
 <p style="color:indianred;">Keywords: Magnetic actuation, Flexoelectricity, Soft materials, Nonlinear deformation, Multi-physics coupling, Dynamic simulation, Bio-inspired design, Smart actuators</p>
 
 <!-- TODO: 需要添加软体机器人研究图片到 /images/Research/Research_SoftRobot.png -->
