@@ -33,7 +33,7 @@ collection: people
 
 - 2025.09-present, 张宇喆, Yuzhe Zhang, research topic to be determined.
 
-- 2025.09-present, 杨东晋, Dongjin Yang, research topic to be determined.
+- 2025.09-present, 杨东晋, Dongjin Yang is working on machine learning-based heterogeneous parameter inversion for fracture behavior prediction and reliability analysis of brittle ceramics (e.g., aluminum nitride).
 
 <!-- 在页面位置添加招生说明（更有效） -->
 <div style="background: #e7f3ff; border-left: 4px solid #007bff; padding: 15px; margin: 20px 0; border-radius: 5px;">
