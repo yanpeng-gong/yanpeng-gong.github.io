@@ -31,7 +31,7 @@ collection: people
 
 - 2024.09-present, 宋锦泉, Jinquan Song is working on stochastic phase field modeling of material property uncertainties in electronic packaging.
 
-- 2025.09-present, 张宇喆, Yuzhe Zhang, research topic to be determined.
+- 2025.09-present, 张宇喆, Yuzhe Zhang is working on probabilistic fracture analysis of heterogeneous brittle materials, coupling cross-correlated random fields (Karhunen–Loève expansion) with the phase-field cohesive zone model (PF-CZM) and Monte Carlo simulation.
 
 - 2025.09-present, 杨东晋, Dongjin Yang is working on machine learning-based heterogeneous parameter inversion for fracture behavior prediction and reliability analysis of brittle ceramics (e.g., aluminum nitride).
 
