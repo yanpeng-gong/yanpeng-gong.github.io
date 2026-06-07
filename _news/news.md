@@ -10,7 +10,7 @@ collection: news
 
 <h3>2026</h3>
 
-- 6 月 3 日，<u>公颜鹏</u>的 <a href="https://scholar.google.com/citations?user=wmkLERIAAAAJ&hl=zh-CN" style="text-decoration:none;color:#DE3163;">Google Scholar</a> 引用总数突破 <strong>1000 次</strong>。感谢多年来合作者们的支持，以及课题组同学们的共同努力。<a href="/files/news/2026_GoogleScholar_1000.png" style="text-decoration:none;color:#4A90E2;">[引用截图]</a><br>
+- 6 月 3 日，<u>公颜鹏</u>的 <a href="https://scholar.google.com/citations?user=wmkLERIAAAAJ&hl=zh-CN" style="text-decoration:none;color:#DE3163;">Google Scholar</a> 引用总数突破 <strong>1000 次</strong>。感谢多年来合作者们的支持，以及课题组同学们的共同努力。<a href="/files/news/2026_GoogleScholar_1000.png" style="text-decoration:none;color:#4A90E2;">[引用曲线]</a><br>
   June 3, 2026 — My <a href="https://scholar.google.com/citations?user=wmkLERIAAAAJ&hl=zh-CN" style="text-decoration:none;color:#DE3163;">Google Scholar</a> citations surpassed <strong>1,000</strong>. Sincere thanks to my collaborators over the years and to the students in my group.<br>
 
 - 5 月 30 日，<u>公颜鹏</u>作为 Guest Editor 参与组织的 <a href="https://go.nature.com/4dC9Gwy" style="text-decoration:none;color:#DE3163;"><em>Scientific Reports</em> 专题 "Advanced 3D Packaging and Integration"</a> 正式开放投稿，截止日期 <strong>2027 年 2 月 11 日</strong>。客座编辑团队：Yanpeng Gong（北京工业大学）、Ji-Wei Lian、Uma Sathyakam P、Shih-Kang Lin。诚邀同行投稿！<a href="/files/news/2026_SR_SI_3DPackaging.png" style="text-decoration:none;color:#4A90E2;">[宣传图]</a><br>
