@@ -43,13 +43,25 @@ Honors and Awards
 * Excellent bachelor dissertation in Shandong, 2013
 * Outstanding graduates in Shandong, 2013
 
-Selected Projects
+Research Grants & Projects
 ======
-* Principal Investigator (PI), "Study on isogeometric boundary element method for thermal stress analysis of multi-scale and multi-layer structures", National Natural Science Foundation of China, 2021-2023
-* Principal Investigator (PI), "Numerical analysis of IGBT packaging module", General Program of Science and Technology Development Project of Beijing Municipal Education Commission, 2021-2023
-* Principal Investigator (PI), "Study on the temperature/stress analysis of IGBT packaging module", Beijing Postdoctoral Research Foundation, 2020-2021
-* Co-PI, "Study on fast direct isogeometric boundary element method for analysis of large-scale coating structures", National Natural Science Foundation of China, 2020-2023
-* Co-PI, "Crack analysis of Aeroengine turbine blade by using isogeometric boundary element method", National Natural Science Foundation of China, 2012-2013
+**Principal Investigator — Government-Funded (纵向):**
+* 2023-2025, Alexander von Humboldt Research Fellowship Programme, Alexander von Humboldt Foundation
+* 2021-2023, Isogeometric boundary element method for thermal stress analysis of multi-scale and multi-layer structures, National Natural Science Foundation of China (Youth Program)
+* 2021-2023, Isogeometric boundary element method for interface failure analysis of multi-layer, multi-scale IGBT packaging modules, Beijing Municipal Education Commission Science and Technology Program (General Program)
+* 2021, Dynamic isogeometric boundary element method for thermo-mechanical coupling analysis of multi-scale IGBT packaging modules, Chaoyang District Postdoctoral Research Fund
+* 2020-2021, Isogeometric boundary element method for temperature/stress analysis of IGBT packaging modules, Beijing Postdoctoral Research Foundation (First Class)
+
+**Principal Investigator — Industry (横向):**
+* 2026, Reliability assessment methods for key components of aircraft landing gear
+* 2025, Cascade mechanism of oil-contamination propagation in high-pressure hydraulic systems
+* 2024, Intelligent hydraulic component modeling and simulation based on MWORKS
+* 2022, Mesoscale simulation of composite solid propellants
+* 2022, Influence factors on the separation efficiency of cyclone separators
+
+**Co-Investigator:**
+* 2020-2023, Fast direct isogeometric boundary element method for analysis of large-scale coating structures, National Natural Science Foundation of China
+* 2012-2013, Crack analysis of aeroengine turbine blades using the isogeometric boundary element method, National Natural Science Foundation of China
 
 Publications
 ======

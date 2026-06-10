@@ -45,21 +45,25 @@ Email: yanpeng.gong@bjut.edu.cn | Web: https://yanpeng-gong.github.io
 
 ---
 
-## Research Grants (as PI)
+## Research Grants & Projects
 
-**Government-Funded Projects:**
+**As Principal Investigator — Government-Funded Projects:**
 1. 2023–2025, Alexander von Humboldt Research Fellowship Programme, Humboldt Foundation
 2. 2021–2023, National Natural Science Foundation of China (Youth Program)
 3. 2021–2023, Beijing Municipal Education Commission Science and Technology Program
 4. 2021, Chaoyang District Postdoctoral Research Fund
 5. 2020–2021, Beijing Postdoctoral Research Foundation (First Class)
 
-**Industry Projects:**
+**As Principal Investigator — Industry Projects:**
 1. 2026, Reliability assessment of aircraft landing gear key components
 2. 2025, Oil contamination propagation mechanism in high-pressure hydraulic systems
 3. 2024, Intelligent hydraulic component modeling and simulation based on MWORKS
 4. 2022, Mesoscale simulation of composite solid propellants
 5. 2022, Separation efficiency analysis of cyclone separators
+
+**As Co-Investigator:**
+1. 2020–2023, Fast direct isogeometric BEM for large-scale coating structures, National Natural Science Foundation of China
+2. 2012–2013, Crack analysis of aeroengine turbine blades using isogeometric BEM, National Natural Science Foundation of China
 
 ---
 
@@ -87,4 +91,4 @@ Full list: https://yanpeng-gong.github.io/publications/
 
 ---
 
-*Last updated: April 2026*
+*Last updated: May 2026*
