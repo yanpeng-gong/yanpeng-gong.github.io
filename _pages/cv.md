@@ -35,7 +35,9 @@ Research Interests
 
 Honors and Awards
 ======
-* Alexander von Humboldt Research Fellowship, 2022-2025
+* Du Qing-Hua Outstanding Young Scholar Award in Engineering Computational Methods (杜庆华工程计算方法优秀青年学者奖), 2025
+* Chaoyang District "Phoenix Program" Distinguished Young Talent (北京市朝阳区“凤凰计划”优秀青年人才), 2024
+* Alexander von Humboldt Research Fellowship, 2023-2025
 * Outstanding PhD graduates in Beijing, 2019
 * National Scholarship for Doctoral Student, 2017 (Ministry of Education of China)
 * Excellent bachelor dissertation in Shandong, 2013
