@@ -133,7 +133,7 @@ We are committed to solving critical numerical computational challenges in compl
 <ul>
 <li>2025, 杜庆华工程计算方法优秀青年学者奖</li>
 <li>2024, 北京市朝阳区"凤凰计划"优秀青年人才</li>
-<li>2025, 德国洪堡学者 (Humboldt Fellow)</li>
+<li>2022, 德国洪堡学者 (Humboldt Fellow，2023-2025 执行)</li>
 <li>2019, 北京市优秀毕业生</li>
 </ul>
 

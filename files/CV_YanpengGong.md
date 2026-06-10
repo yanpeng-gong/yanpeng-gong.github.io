@@ -3,6 +3,7 @@
 **Associate Professor (副研究员)**  
 Department of Mechanics, Faculty of Materials and Manufacturing  
 Beijing University of Technology, Beijing, China  
+Ph.D. in Mechanics, Beijing Institute of Technology (2019) · Visiting Ph.D., Durham University, UK (2017–2018, CSC-funded)  
 Email: yanpeng.gong@bjut.edu.cn | Web: https://yanpeng-gong.github.io  
 
 ---
@@ -30,7 +31,7 @@ Email: yanpeng.gong@bjut.edu.cn | Web: https://yanpeng-gong.github.io
 
 - **2025** Du Qing-Hua Outstanding Young Scholar Award in Engineering Computational Methods (杜庆华工程计算方法优秀青年学者奖)
 - **2024** Chaoyang District "Phoenix Program" Distinguished Young Talent (北京市朝阳区"凤凰计划"优秀青年人才)
-- **2023** Alexander von Humboldt Research Fellowship (德国洪堡学者)
+- **2022** Alexander von Humboldt Research Fellowship — tenure 2023–2025 (德国洪堡学者)
 - **2019** Outstanding Ph.D. Graduate of Beijing (北京市优秀毕业生)
 - **2017** National Scholarship for Doctoral Students, Ministry of Education of China
 
