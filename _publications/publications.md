@@ -197,11 +197,11 @@ Arxive预印版：有图片
         <!-- Author names -->
         L. Zhang, Y. Zhang, D. Yang, Y. He, S. Li, Z. Wang, <u>Y. Gong</u>*.
         <!-- Title of the paper -->
-        <a href="#" style="text-decoration:none; color:#DE3163;">
+        <a href="https://link.cnki.net/urlid/61.1112.o3.20260508.1648.004" style="text-decoration:none; color:#DE3163;">
             Research progress on mechanics computational methods for multi-scale electronic packaging structures (电子封装多尺度结构力学计算方法研究进展) (In Chinese).
         </a>
         <!-- Journal information -->
-        <b>Chinese Journal of Applied Mechanics</b> (应用力学学报) (2026)
+        <b>Chinese Journal of Applied Mechanics</b> (应用力学学报) (2026, Online First 网络首发)
     </div>
 </li>
 
