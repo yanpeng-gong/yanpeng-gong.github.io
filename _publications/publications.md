@@ -17,7 +17,7 @@ body {
   font-size: 16px;
 }
 .publications-list {
-    counter-reset: pub-counter 62; /* 设置初始值为总论文数+1 */
+    counter-reset: pub-counter 63; /* 设置初始值为总论文数+1 */
     list-style: none;
     padding-left: 0;
 }
@@ -203,6 +203,20 @@ Arxive预印版：有图片
 <br>
 <hr>
 <h3>2026</h3>
+
+<!-- FS-FEM electro-thermo-mechanical SiC MOSFET (co-author) -->
+<li class="publication-item">
+    <div class="publication-content">
+        <!-- Author names -->
+        P. Chen, F. Gao, T. An, <u>Y. Gong</u>, F. Qin*.
+        <!-- Title of the paper -->
+        <a href="https://doi.org/10.1016/j.rineng.2026.111555" style="text-decoration:none; color:#DE3163;">
+            Transient electro-thermo-mechanical coupled analysis of SiC MOSFET by face-based smoothed finite element method.
+        </a>
+        <!-- Journal information -->
+        <b>Results in Engineering</b> 31 (2026) 111555 <span style="color:#7B7D7D;">(Open Access)</span>
+    </div>
+</li>
 
 <!-- Edge defect effects on biaxial flexural strength of glass plates -->
 <li class="publication-item">
