@@ -203,6 +203,12 @@ Arxive预印版：有图片
         <!-- Journal information -->
         <b>Chinese Journal of Applied Mechanics</b> (应用力学学报) (2026, Online First 网络首发)
     </div>
+    <!-- 右侧：图片展示-->
+    <div class="publication-image wide">
+        <a href="/files/papers/2026_CJAM_multiscale.png" target="_blank">
+            <img src="/files/papers/2026_CJAM_multiscale.png" alt="Multi-scale characteristics of electronic packaging structures">
+        </a>
+    </div>
 </li>
 
 <!-- FS-FEM electro-thermo-mechanical SiC MOSFET (co-author) -->
