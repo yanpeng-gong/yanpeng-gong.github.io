@@ -208,7 +208,7 @@ Arxive预印版：有图片
 <li class="publication-item">
     <div class="publication-content">
         <!-- Author names -->
-        P. Chen, F. Gao, T. An, <u>Y. Gong</u>, F. Qin*.
+        P. Chen*, F. Gao, T. An, <u>Y. Gong</u>, F. Qin.
         <!-- Title of the paper -->
         <a href="https://doi.org/10.1016/j.rineng.2026.111555" style="text-decoration:none; color:#DE3163;">
             Transient electro-thermo-mechanical coupled analysis of SiC MOSFET by face-based smoothed finite element method.
