@@ -101,19 +101,6 @@ body {
     </div>
 </li>
 
-<li class="publication-item">
-    <div class="publication-content">
-        <!-- Author names -->
-        L. Zhang, Y. Zhang, D. Yang, Y. He, S. Li, Z. Wang, <u>Y. Gong</u>*.
-        <!-- Title of the paper -->
-        <a href="#" style="text-decoration:none; color:#DE3163;">
-            Research progress on mechanics computational methods for multi-scale electronic packaging structures (电子封装多尺度结构力学计算方法研究进展) (In Chinese).
-        </a>
-        <!-- Journal information -->
-        <b>Chinese Journal of Applied Mechanics</b> (2026) Accepted
-    </div>
-</li>
-
 <!--
 论文模版，包括有图片和无图片介绍的情况
 
@@ -203,6 +190,20 @@ Arxive预印版：有图片
 <br>
 <hr>
 <h3>2026</h3>
+
+<!-- Review: computational methods for multi-scale electronic packaging (In Chinese) -->
+<li class="publication-item">
+    <div class="publication-content">
+        <!-- Author names -->
+        L. Zhang, Y. Zhang, D. Yang, Y. He, S. Li, Z. Wang, <u>Y. Gong</u>*.
+        <!-- Title of the paper -->
+        <a href="#" style="text-decoration:none; color:#DE3163;">
+            Research progress on mechanics computational methods for multi-scale electronic packaging structures (电子封装多尺度结构力学计算方法研究进展) (In Chinese).
+        </a>
+        <!-- Journal information -->
+        <b>Chinese Journal of Applied Mechanics</b> (应用力学学报) (2026)
+    </div>
+</li>
 
 <!-- FS-FEM electro-thermo-mechanical SiC MOSFET (co-author) -->
 <li class="publication-item">
