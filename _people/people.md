@@ -105,9 +105,9 @@ margin-right: 2px;
 }
 </style>
 
-- 2023.09-2026.06, 贺一达, 毕业论文题目：物理信息机器学习在封装多尺度结构力学分析中的应用研究 Application of physics-informed machine learning to mechanical analysis of multi-scale electronic packaging structures. 毕业去向：北京华航无线电测量研究所.
+- 2023.09-2026.06, 贺一达, 毕业论文题目：物理信息机器学习在封装多尺度结构力学分析中的应用研究 Application of physics-informed machine learning to mechanical analysis of multi-scale electronic packaging structures <span class="award-badge">北京工业大学优秀毕业论文</span>. 毕业去向：北京华航无线电测量研究所.
 
-- 2023.09-2026.06, 李思帅, 毕业论文题目：虚单元法在多尺度电子封装结构中的应用研究 Application of the virtual element method to multi-scale electronic packaging structures. 毕业去向：北京曙光航空电气有限责任公司.
+- 2023.09-2026.06, 李思帅, 毕业论文题目：虚单元法在多尺度电子封装结构中的应用研究 Research on the application of virtual element method in multiscale electronic packaging structures <span class="award-badge">北京工业大学优秀毕业论文</span>. 毕业去向：北京曙光航空电气有限责任公司.
 
 - 2022.09-2025.06, 寇玉国, 毕业论文题目：热力耦合相场模型在电子封装互连结构中的应用 Application of thermal coupled phase field model in electronic packaging interconnection structures <span class="award-badge">北京工业大学优秀毕业论文</span>. 毕业去向：华南理工大学（读博）.
 
