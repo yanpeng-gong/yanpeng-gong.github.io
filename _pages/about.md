@@ -8,12 +8,64 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.profile-highlights {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(145px, 1fr));
+  gap: 10px;
+  margin: 16px 0 20px;
+}
+.profile-highlights .highlight {
+  border: 1px solid #e5e5e5;
+  border-left: 4px solid #008B8B;
+  padding: 10px 12px;
+  background: #fff;
+}
+.profile-highlights strong {
+  display: block;
+  color: #008B8B;
+  font-size: 1.05em;
+  line-height: 1.25;
+}
+.profile-highlights span {
+  display: block;
+  color: #555;
+  font-size: 0.86em;
+  line-height: 1.35;
+  margin-top: 3px;
+}
+.student-training {
+  background: #f7fbfb;
+  border-left: 4px solid #008B8B;
+  padding: 12px 15px;
+  margin: 16px 0 20px;
+}
+.student-training p {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.65;
+}
+</style>
+
 北京工业大学<a href="https://www.bjut.edu.cn/" style="text-decoration:none;color:indianred;">力学系</a>副研究员，德国洪堡学者。2019 年在北京理工大学宇航学院力学系获得博士学位，期间于 2017-2018 年获国家留学基金委支持赴英国杜伦大学工程系联合培养，2019 年加入北京工业大学。2023-2025 年受德国洪堡基金会资助赴莱布尼茨-汉诺威大学开展学术研究。
+
+<div class="profile-highlights">
+  <div class="highlight"><strong>60+ SCI 论文</strong><span>Peer-reviewed publications</span></div>
+  <div class="highlight"><strong>1000+ 引用</strong><span>Google Scholar citations</span></div>
+  <div class="highlight"><strong>德国洪堡学者</strong><span>Humboldt Fellow</span></div>
+  <div class="highlight"><strong>Scientific Reports 编委</strong><span>Editorial Board Member</span></div>
+  <div class="highlight"><strong>杜庆华优秀青年奖</strong><span>Computational methods award</span></div>
+  <div class="highlight"><strong>4 篇优秀毕业论文</strong><span>Student mentoring outcomes</span></div>
+</div>
 
 我的研究方向是计算力学，专注于为电子封装可靠性问题、软体机器人等应用发展多尺度计算方法和机器学习算法。主要从事深度学习驱动的多尺度计算力学、电子封装可靠性预测及计算力学软件开发等方向研究。感兴趣的领域包括挠曲电材料性能表征、磁控软体机器人设计以及多物理场耦合问题相关的数值模拟技术（见<a href="https://yanpeng-gong.github.io/research/" style="text-decoration:none;color:indianred;">研究</a>）。目前已发表 SCI 论文 60 余篇，其中在计算力学领域顶级期刊 Comput. Methods Appl. Mech. Eng.、Appl. Math. Model.、Int. J. Numer. Methods Eng.等发表多篇论文（见<a href="https://yanpeng-gong.github.io/publications/" style="text-decoration:none;color:indianred;">论文</a>）。合作出版专著《等几何边界元法》。曾入选德国洪堡学者、北京市朝阳区“凤凰计划”优秀青年人才，现任 Scientific Reports 编委和《应用力学学报》、《电子与封装》青年编委，并担任 <a href="https://go.nature.com/4dC9Gwy" style="text-decoration:none;color:indianred;">Scientific Reports 专题 “Advanced 3D Packaging and Integration”</a> 客座编辑（2026，截稿 2027 年 2 月），2025 年获得杜庆华工程计算方法优秀青年学者奖等。
 
 <hr>
-<p style="color:indianred;">每年招收力学/机械<strong>博士研究生</strong>和<strong>硕士研究生</strong>（欢迎<strong>推免生</strong>和<strong>统考生</strong>）；目前有训练性课题支持本科生参与科研活动和竞赛。课题组重视论文写作与工程实践训练，已指导 4 篇北京工业大学优秀毕业论文。欢迎<a href="mailto:yanpeng.gong@bjut.edu.cn" style="text-decoration:none;color:indianred;"><i class="fas fa-fw fa-envelope" style="color:indianred"></i>邮件</a>或前往<a href="https://map.baidu.com/poi/%E5%8C%97%E5%B7%A5%E5%A4%A7%E8%A5%BF%E6%A0%A1%E5%8C%BA-%E5%9F%BA%E7%A1%80%E6%A5%BC/@12966984.011321558,4821348.059172729,19z?uid=32a7781ceabaac6279dbd25a&ugc_type=3&ugc_ver=1&device_ratio=2&compat=1&pcevaname=pc4.1&querytype=detailConInfo&da_src=shareurl" style="text-decoration:none;color:indianred;"><i class="fa fa-fw fa-map-marker" style="color:indianred"></i> 基础楼703</a>讨论。</p>
+<p style="color:indianred;">每年招收力学/机械<strong>博士研究生</strong>和<strong>硕士研究生</strong>（欢迎<strong>推免生</strong>和<strong>统考生</strong>）；目前有训练性课题支持本科生参与科研活动和竞赛，欢迎<a href="mailto:yanpeng.gong@bjut.edu.cn" style="text-decoration:none;color:indianred;"><i class="fas fa-fw fa-envelope" style="color:indianred"></i>邮件</a>或前往<a href="https://map.baidu.com/poi/%E5%8C%97%E5%B7%A5%E5%A4%A7%E8%A5%BF%E6%A0%A1%E5%8C%BA-%E5%9F%BA%E7%A1%80%E6%A5%BC/@12966984.011321558,4821348.059172729,19z?uid=32a7781ceabaac6279dbd25a&ugc_type=3&ugc_ver=1&device_ratio=2&compat=1&pcevaname=pc4.1&querytype=detailConInfo&da_src=shareurl" style="text-decoration:none;color:indianred;"><i class="fa fa-fw fa-map-marker" style="color:indianred"></i> 基础楼703</a>讨论。</p>
+
+<div class="student-training">
+  <p><strong>培养特色：</strong>课题组围绕电子封装可靠性、计算力学软件、物理信息机器学习和智能软材料开展研究，提供真实工程问题、论文写作训练和国际合作机会。学生已获得国家奖学金、全国 AI 算法竞赛一等奖和北京工业大学优秀毕业论文等荣誉，毕业去向包括科研院所、重点企业和继续攻读博士学位。</p>
+</div>
 
 <hr>
 
@@ -26,4 +78,8 @@ I have published over 60 SCI papers, with multiple publications in leading compu
 I have been selected as a distinguished young talent in Beijing Chaoyang District's "Phoenix Program". I currently serve as an editorial board member for Scientific Reports (Nature Publishing Group), and as a young editorial board member for both the Chinese Journal of Applied Mechanics and Electronics & Packaging, and as a Guest Editor of the <a href="https://go.nature.com/4dC9Gwy" style="text-decoration:none;color:indianred;">Scientific Reports Collection “Advanced 3D Packaging and Integration”</a> (2026, submissions open until 11 February 2027). In 2025, I received the Du Qinghua Outstanding Young Scholar Award in Engineering Computational Methods.
 
 <hr>
-<p style="color:indianred;">I recruit <strong>PhD</strong> and <strong>Master's students</strong> in Mechanics / Mechanical Engineering every year, and offer training projects for <strong>undergraduates</strong> to take part in research and competitions. My group emphasizes paper writing and engineering-oriented research training; four Master's theses have been recognized as BJUT Outstanding Master's Theses. Prospective students are warmly welcome to <a href="mailto:yanpeng.gong@bjut.edu.cn" style="text-decoration:none;color:indianred;"><i class="fas fa-fw fa-envelope" style="color:indianred"></i> email me</a> or visit <i class="fa fa-fw fa-map-marker" style="color:indianred"></i> Room 703, Foundation Building (West Campus, BJUT) to discuss.</p>
+<p style="color:indianred;">I recruit <strong>PhD</strong> and <strong>Master's students</strong> in Mechanics / Mechanical Engineering every year, and offer training projects for <strong>undergraduates</strong> to take part in research and competitions. Prospective students are warmly welcome to <a href="mailto:yanpeng.gong@bjut.edu.cn" style="text-decoration:none;color:indianred;"><i class="fas fa-fw fa-envelope" style="color:indianred"></i> email me</a> or visit <i class="fa fa-fw fa-map-marker" style="color:indianred"></i> Room 703, Foundation Building (West Campus, BJUT) to discuss.</p>
+
+<div class="student-training">
+  <p><strong>Training environment:</strong> Students work on real engineering problems in electronic packaging reliability, computational mechanics software, physics-informed machine learning, and smart soft materials, with opportunities for paper writing, competitions, industry projects, and international collaboration.</p>
+</div>
