@@ -29,7 +29,7 @@ Email: yanpeng.gong@bjut.edu.cn | Web: https://yanpeng-gong.github.io
 
 ## Selected Honors & Awards
 
-- **2025** Du Qing-Hua Outstanding Young Scholar Award in Engineering Computational Methods (杜庆华工程计算方法优秀青年学者奖)
+- **2025** DU Qing-Hua Medal & Young Researcher Award of Computational Methods in Engineering (杜庆华工程计算方法优秀青年学者奖)
 - **2024** Chaoyang District "Phoenix Program" Distinguished Young Talent (北京市朝阳区"凤凰计划"优秀青年人才)
 - **2022** Alexander von Humboldt Research Fellowship — tenure 2023–2025 (德国洪堡学者)
 - **2019** Outstanding Ph.D. Graduate of Beijing (北京市优秀毕业生)
@@ -39,7 +39,7 @@ Email: yanpeng.gong@bjut.edu.cn | Web: https://yanpeng-gong.github.io
 
 ## Academic Service
 
-- **Editorial Board Member**, *Scientific Reports* (Nature Publishing Group), 2025–present
+- **Editorial Board Member**, *Scientific Reports* (Nature Portfolio), 2025–present
 - **Young Editorial Board Member**, *Chinese Journal of Applied Mechanics* (应用力学学报), 2025–present
 - **Young Editorial Board Member**, *Electronics & Packaging* (电子与封装), 2026–present
 - **Guest Editor**, *Scientific Reports* Collection ["Advanced 3D Packaging and Integration"](https://go.nature.com/4dC9Gwy), 2026 (submission deadline: 11 February 2027)
@@ -92,4 +92,4 @@ Full list: https://yanpeng-gong.github.io/publications/
 
 ---
 
-*Last updated: May 2026*
+*Last updated: July 2026*

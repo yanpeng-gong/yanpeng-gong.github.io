@@ -37,7 +37,7 @@ Research Interests
 
 Honors and Awards
 ======
-* Du Qing-Hua Outstanding Young Scholar Award in Engineering Computational Methods (杜庆华工程计算方法优秀青年学者奖), 2025
+* DU Qing-Hua Medal & Young Researcher Award of Computational Methods in Engineering (杜庆华工程计算方法优秀青年学者奖), 2025
 * Chaoyang District "Phoenix Program" Distinguished Young Talent (北京市朝阳区“凤凰计划”优秀青年人才), 2024
 * Alexander von Humboldt Research Fellowship, 2022 (awarded; tenure 2023-2025)
 * Outstanding PhD graduates in Beijing, 2019
@@ -77,7 +77,7 @@ Teaching
   
 Service and leadership
 ======
-* Editorial Board Member, *Scientific Reports* (Nature Publishing Group), 2025–present
+* Editorial Board Member, *Scientific Reports* (Nature Portfolio), 2025–present
 * Young Editorial Board Member, *Chinese Journal of Applied Mechanics*, 2025–present
 * Young Editorial Board Member, *Electronics & Packaging*, 2026–present
 * Guest Editor, *Scientific Reports* Collection ["Advanced 3D Packaging and Integration"](https://go.nature.com/4dC9Gwy), 2026 (deadline: 11 February 2027)

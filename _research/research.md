@@ -141,7 +141,7 @@ We are committed to solving critical numerical computational challenges in compl
 <h3>学术兼职 Academic Service</h3>
 
 <ul>
-<li>2025-present, Editorial Board Member, <i>Scientific Reports</i> (Nature Publishing Group)</li>
+<li>2025-present, Editorial Board Member, <i>Scientific Reports</i> (Nature Portfolio)</li>
 <li>2025-present, 《应用力学学报》青年编委</li>
 <li>2026-present, 《电子与封装》青年编委</li>
 </ul>

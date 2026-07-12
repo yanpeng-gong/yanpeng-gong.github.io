@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Gong Research Group"
 title_separator          : "-"
 name                     : &name "Yanpeng Gong"
-description              : &description "Yanpeng Gong (公颜鹏), Associate Professor at Beijing University of Technology and Humboldt Fellow. Computational mechanics research on electronic packaging reliability, phase-field fracture, isogeometric BEM, and physics-informed machine learning (PINN). 60+ SCI papers."
+description              : &description "Yanpeng Gong (公颜鹏), Associate Professor at Beijing University of Technology and Humboldt Fellow. Computational mechanics for electronic packaging reliability, multiscale CAE, phase-field fracture, physics-informed machine learning, and soft robotics. 60+ SCI papers and 1,000+ citations."
 url                      : https://yanpeng-gong.github.io
 baseurl                  : ""
 repository               : "yanpeng-gong/yanpeng-gong.github.io"

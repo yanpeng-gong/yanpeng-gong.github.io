@@ -10,6 +10,9 @@ collection: news
 
 <h3>2026</h3>
 
+- 6 月 26 日，祝贺硕士生<u>贺一达</u>、<u>李思帅</u>参加北京工业大学 2026 届毕业典礼并顺利毕业！两人的硕士学位论文均获<strong>北京工业大学优秀毕业论文</strong>。贺一达入职北京华航无线电测量研究所，李思帅入职北京曙光航空电气有限责任公司。<br>
+  June 26, 2026 — Congratulations to <u>Yida He</u> and <u>Sishuai Li</u> on their graduation. Both Master's theses were recognized as <strong>BJUT Outstanding Master's Theses</strong>.<br>
+
 - 6 月 3 日，<u>公颜鹏</u>的 <a href="https://scholar.google.com/citations?user=wmkLERIAAAAJ&hl=zh-CN" style="text-decoration:none;color:#DE3163;">Google Scholar</a> 引用总数突破 <strong>1000 次</strong>。感谢多年来合作者们的支持，以及课题组同学们的共同努力。<a href="/files/news/2026_GoogleScholar_1000.png" style="text-decoration:none;color:#4A90E2;">[引用曲线]</a><br>
   June 3, 2026 — My <a href="https://scholar.google.com/citations?user=wmkLERIAAAAJ&hl=zh-CN" style="text-decoration:none;color:#DE3163;">Google Scholar</a> citations surpassed <strong>1,000</strong>. Sincere thanks to my collaborators over the years and to the students in my group.<br>
 
