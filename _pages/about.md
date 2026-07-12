@@ -10,9 +10,7 @@ redirect_from:
 
 北京工业大学<a href="https://www.bjut.edu.cn/" style="text-decoration:none;color:indianred;">力学系</a>副研究员，德国洪堡学者。2019 年获北京理工大学力学博士学位，2017-2018 年获国家留学基金委资助赴英国杜伦大学联合培养；2019 年加入北京工业大学，2023-2025 年受德国洪堡基金会资助在莱布尼茨-汉诺威大学开展研究。
 
-我的研究方向是计算力学，面向电子封装可靠性、软体机器人等工程应用，发展多尺度计算方法和机器学习算法。主要开展深度学习驱动的多尺度计算力学、电子封装可靠性预测，以及面向 CAE 的数值方法、求解器与软件开发研究。
-
-在方法层面，关注等几何分析、边界元法、虚单元法、相场法及物理信息机器学习；在应用层面，研究挠曲电材料性能表征、磁控软体机器人设计以及多物理场耦合问题的数值模拟（见<a href="/research/" style="text-decoration:none;color:indianred;">研究方向</a>）。
+我的研究方向是计算力学，面向电子封装可靠性、软体机器人等工程应用，发展多尺度计算方法和机器学习算法，主要开展深度学习驱动的多尺度计算力学、电子封装可靠性预测，以及面向 CAE 的数值方法、求解器与软件开发。在方法层面，重点关注等几何分析、边界元法、虚单元法、相场法及物理信息机器学习；在应用层面，研究挠曲电材料性能表征、磁控软体机器人设计和多物理场耦合问题的数值模拟（见<a href="/research/" style="text-decoration:none;color:indianred;">研究方向</a>）。
 
 目前已发表 SCI 论文 60 余篇，<a href="https://scholar.google.com/citations?user=wmkLERIAAAAJ&hl=zh-CN" style="text-decoration:none;color:indianred;">Google Scholar</a> 引用超过 1000 次，在 <em>Computer Methods in Applied Mechanics and Engineering</em>、<em>Applied Mathematical Modelling</em>、<em>International Journal for Numerical Methods in Engineering</em> 等期刊发表多篇论文，并合作出版专著《等几何边界元法》（见<a href="/publications/" style="text-decoration:none;color:indianred;">论文列表</a>）。主持国家自然科学基金青年项目、北京市教委科技计划项目及多项行业合作项目。
 
@@ -25,9 +23,7 @@ redirect_from:
 
 I am an Associate Professor at <a href="https://www.bjut.edu.cn/" style="text-decoration:none;color:indianred;">Beijing University of Technology</a> and a Humboldt Fellow. I received my Ph.D. in Mechanics from Beijing Institute of Technology in 2019 and conducted CSC-funded joint doctoral research at Durham University, UK, from 2017 to 2018. I joined Beijing University of Technology in 2019 and carried out Humboldt-funded research at Leibniz University Hannover from 2023 to 2025.
 
-My research is in computational mechanics, with a focus on developing multiscale computational methods and machine-learning algorithms for applications in electronic packaging reliability and soft robotics. My work spans deep-learning-driven multiscale computational mechanics, reliability prediction for electronic packaging, and the development of numerical methods, solvers, and software for CAE.
-
-Methodologically, I am interested in isogeometric analysis, boundary and virtual element methods, phase-field modeling, and physics-informed machine learning. Applications include flexoelectric material characterization, magnetically actuated soft robot design, and numerical simulation of multi-physics coupling problems (see <a href="/research/" style="text-decoration:none;color:indianred;">Research</a>).
+My research is in computational mechanics, with a focus on developing multiscale computational methods and machine-learning algorithms for applications in electronic packaging reliability and soft robotics. My work spans deep-learning-driven multiscale computational mechanics, reliability prediction for electronic packaging, and the development of numerical methods, solvers, and software for CAE. Methodologically, I am interested in isogeometric analysis, boundary and virtual element methods, phase-field modeling, and physics-informed machine learning; applications include flexoelectric material characterization, magnetically actuated soft robot design, and numerical simulation of multi-physics coupling problems (see <a href="/research/" style="text-decoration:none;color:indianred;">Research</a>).
 
 I have published over 60 SCI-indexed journal papers with more than 1,000 <a href="https://scholar.google.com/citations?user=wmkLERIAAAAJ&hl=zh-CN" style="text-decoration:none;color:indianred;">Google Scholar</a> citations, including multiple papers in <em>Computer Methods in Applied Mechanics and Engineering</em>, <em>Applied Mathematical Modelling</em>, and <em>International Journal for Numerical Methods in Engineering</em>. I co-authored the monograph <em>Isogeometric Boundary Element Method</em> and have led projects funded by the National Natural Science Foundation of China, the Beijing Municipal Education Commission, and industry partners (see <a href="/publications/" style="text-decoration:none;color:indianred;">Publications</a>).
 
