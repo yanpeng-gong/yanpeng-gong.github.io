@@ -10,7 +10,7 @@ collection: news
 
 <h3>2026</h3>
 
-- 7 月 23–26 日，<u>公颜鹏</u>参加在浙江安吉举办的<a href="https://aspowercn2026.scimeeting.cn/" style="text-decoration:none;color:#DE3163;">第十届中国空天动力联合大会</a>，并在“固体推进技术专题交流会”作特邀报告“多材料复杂结构多尺度数值仿真方法及其应用”。<a href="/files/news/2026_Aerospace_Power_invited_talk.jpg" style="text-decoration:none;color:#4A90E2;">[特邀报告证书]</a><br>
+- 7 月 23–26 日，<u>公颜鹏</u>参加在浙江安吉举办的<a href="https://aspowercn2026.scimeeting.cn/" style="text-decoration:none;color:#DE3163;">第十届中国空天动力联合大会</a>，并在“固体推进技术专题交流会”作特邀报告“多材料复杂结构多尺度数值仿真方法及其应用”。<br>
   July 23–26, 2026 — <u>Yanpeng Gong</u> delivered an invited talk entitled “Multiscale Numerical Simulation Methods for Complex Multi-Material Structures and Their Applications” at the Solid Propulsion Technology Symposium of the 10th China Aerospace Power Joint Conference in Anji, Zhejiang.<br>
 
 - 6 月 26 日，祝贺硕士生<u>贺一达</u>、<u>李思帅</u>参加北京工业大学 2026 届毕业典礼并顺利毕业！两人的硕士学位论文均获<strong>北京工业大学优秀毕业论文</strong>。贺一达入职北京华航无线电测量研究所，李思帅入职北京曙光航空电气有限责任公司。<br>
