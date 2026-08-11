@@ -10,6 +10,9 @@ collection: news
 
 <h3>2026</h3>
 
+- 8 月 11 日，<u>公颜鹏</u>在香港举办的<a href="https://www.iccesconf.org/" style="text-decoration:none;color:#DE3163;">第 32 届国际计算与实验工程和科学会议（ICCES2026）</a>作邀请报告“A Stochastic Phase-Field Model for Probabilistic Fracture Analysis of Brittle Materials: Numerical Framework and Experimental Validation”。<br>
+  August 11, 2026 — <u>Yanpeng Gong</u> delivered an invited talk entitled “A Stochastic Phase-Field Model for Probabilistic Fracture Analysis of Brittle Materials: Numerical Framework and Experimental Validation” at the 32nd International Conference on Computational &amp; Experimental Engineering and Sciences (ICCES2026) in Hong Kong.<br>
+
 - 6 月 26 日，祝贺硕士生<u>贺一达</u>、<u>李思帅</u>参加北京工业大学 2026 届毕业典礼并顺利毕业！两人的硕士学位论文均获<strong>北京工业大学优秀毕业论文</strong>。贺一达入职北京华航无线电测量研究所，李思帅入职北京曙光航空电气有限责任公司。<br>
   June 26, 2026 — Congratulations to <u>Yida He</u> and <u>Sishuai Li</u> on their graduation. Both Master's theses were recognized as <strong>BJUT Outstanding Master's Theses</strong>.<br>
 
