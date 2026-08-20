@@ -43,6 +43,9 @@ Honors and Awards
 * Alexander von Humboldt Research Fellowship, 2022 (awarded; tenure 2023-2025)
 * Outstanding PhD graduates in Beijing, 2019
 * National Scholarship for Doctoral Student, 2017 (Ministry of Education of China)
+* Outstanding Graduate of Shandong Province (山东省优秀毕业生), 2013
+* Outstanding Bachelor's Thesis of Shandong Province (山东省优秀学士学位论文), 2013
+
 Research Grants & Projects
 ======
 **Principal Investigator — Government-Funded (纵向):**

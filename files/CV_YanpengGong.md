@@ -34,6 +34,8 @@ Email: yanpeng.gong@bjut.edu.cn | Web: https://yanpeng-gong.github.io
 - **2022** Alexander von Humboldt Research Fellowship — tenure 2023–2025 (德国洪堡学者)
 - **2019** Outstanding Ph.D. Graduate of Beijing (北京市优秀毕业生)
 - **2017** National Scholarship for Doctoral Students, Ministry of Education of China
+- **2013** Outstanding Graduate of Shandong Province (山东省优秀毕业生)
+- **2013** Outstanding Bachelor's Thesis of Shandong Province (山东省优秀学士学位论文)
 
 ---
 
