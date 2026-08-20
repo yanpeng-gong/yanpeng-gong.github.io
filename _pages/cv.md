@@ -77,6 +77,7 @@ Teaching
   
 Service and leadership
 ======
+* Editorial Advisory Board Member, *Engineering Analysis with Boundary Elements* (Elsevier), 2026–present
 * Editorial Board Member, *Scientific Reports* (Nature Portfolio), 2025–present
 * Young Editorial Board Member, *Chinese Journal of Applied Mechanics*, 2025–present
 * Young Editorial Board Member, *Electronics & Packaging*, 2026–present

@@ -39,6 +39,7 @@ Email: yanpeng.gong@bjut.edu.cn | Web: https://yanpeng-gong.github.io
 
 ## Academic Service
 
+- **Editorial Advisory Board Member**, *Engineering Analysis with Boundary Elements* (Elsevier), 2026–present
 - **Editorial Board Member**, *Scientific Reports* (Nature Portfolio), 2025–present
 - **Young Editorial Board Member**, *Chinese Journal of Applied Mechanics* (应用力学学报), 2025–present
 - **Young Editorial Board Member**, *Electronics & Packaging* (电子与封装), 2026–present
