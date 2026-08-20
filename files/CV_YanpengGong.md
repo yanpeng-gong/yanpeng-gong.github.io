@@ -1,6 +1,6 @@
 # Yanpeng Gong (公颜鹏)
 
-**Associate Professor (副研究员)**  
+**Associate Professor (副教授)**<br>
 Department of Mechanics, Faculty of Materials and Manufacturing  
 Beijing University of Technology, Beijing, China  
 Ph.D. in Mechanics, Beijing Institute of Technology (2019) · Visiting Ph.D., Durham University, UK (2017–2018, CSC-funded)  
@@ -10,7 +10,7 @@ Email: yanpeng.gong@bjut.edu.cn | Web: https://yanpeng-gong.github.io
 
 ## Work Experience
 
-- **2022–present**: Associate Professor (副研究员), Beijing University of Technology
+- **2022–present**: Associate Professor (副教授), Beijing University of Technology
 - **2023–2025**: Humboldt Research Fellow, Institute of Photonics, Leibniz University Hannover, Germany
 - **2019–2022**: Lecturer, Beijing University of Technology
 
@@ -93,4 +93,4 @@ Full list: https://yanpeng-gong.github.io/publications/
 
 ---
 
-*Last updated: July 2026*
+*Last updated: August 2026*

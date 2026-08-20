@@ -1,5 +1,6 @@
 ---
 permalink: /non-menu-page/
+published: false
 title: "Page not in menu"
 author_profile: true
 redirect_from: 

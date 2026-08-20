@@ -93,9 +93,9 @@ body {
         <!-- Author names -->
         <u>Y. Gong</u>, L. Zhang, Y. Duan, T. An, X. Zhuang, T. Rabczuk*.
         <!-- Title of the paper -->
-        <a href="#" style="text-decoration:none; color:#DE3163;">
+        <span style="color:#DE3163;">
             A variational-damage-based thermo-mechanical phase-field model for fracture analysis of electronic packaging structures.
-        </a>
+        </span>
         <!-- Journal information -->
         <b>Engineering Fracture Mechanics</b> Under Review
     </div>
@@ -120,7 +120,7 @@ Arxive预印版：有图片
             <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
         </a>
         link of open source code
-        <a href="https://github.com/your-repo" style="text-decoration:none; color:#24292e;">
+        <a href="https://github.com/yanpeng-gong/PIKAN-MultiMaterial" style="text-decoration:none; color:#24292e;">
             <i class="fa fa-github" style="font-size:16px;"></i> [Code]
         </a>
     </div>

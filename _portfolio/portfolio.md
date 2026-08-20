@@ -4,6 +4,7 @@ title: "课题组相册 Group Gallery"
 permalink: /portfolio/
 author_profile: false
 collection: portfolio
+description: "Research group activities, academic visits, conferences, and student milestones of the Gong Research Group."
 ---
 
 <!--

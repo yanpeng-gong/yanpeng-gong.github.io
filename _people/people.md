@@ -4,6 +4,7 @@ title: "团队 People"
 permalink: /people/
 author_profile: false
 collection: people
+description: "Graduate students and alumni of the Gong Research Group at Beijing University of Technology, working on computational mechanics, electronic packaging reliability, and machine learning."
 ---
 
 {% include base_path %}

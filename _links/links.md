@@ -3,6 +3,7 @@ layout: archive
 title: "学术链接 Academic Links"
 permalink: /links/
 author_profile: false
+description: "Academic profiles, editorial service, collaborating groups, journals, and research resources related to Yanpeng Gong's work in computational mechanics."
 ---
 
 <h3>学校相关 University</h3>
@@ -15,6 +16,7 @@ author_profile: false
 <hr>
 <h3>编委会成员 Editorial Board Member</h3>
 <p style="text-align:left;">
+<a href="https://www.sciencedirect.com/journal/engineering-analysis-with-boundary-elements" style="text-decoration:none;color:indianred;">Engineering Analysis with Boundary Elements (Elsevier)</a><br>
 <a href="https://www.nature.com/srep/" style="text-decoration:none;color:indianred;">Scientific Reports (Nature Portfolio)</a><br>
 <a href="https://pubs.cstam.org.cn/yylxxb" style="text-decoration:none;color:indianred;">应用力学学报 Chinese Journal of Applied Mechanics</a><br>
 <a href="https://ep.org.cn/CN/1681-1070/home.shtml" style="text-decoration:none;color:indianred;">电子与封装 Electronics & Packaging</a><br>

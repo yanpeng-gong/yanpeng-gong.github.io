@@ -3,6 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+description: "Curriculum vitae of Yanpeng Gong (公颜鹏): computational mechanics research, honors, grants, teaching, and academic service."
 redirect_from:
   - /resume
 ---
@@ -16,7 +17,7 @@ Work Experience
 * 2023-2025: Humboldt Research Fellow
   * Institute of Photonics, Leibniz University Hannover, Germany
 
-* 2022-present: Associate Professor (副研究员)
+* 2022-present: Associate Professor (副教授)
   * Department of Mechanics, Faculty of Materials and Manufacturing
   * Beijing University of Technology, China
 
@@ -42,9 +43,6 @@ Honors and Awards
 * Alexander von Humboldt Research Fellowship, 2022 (awarded; tenure 2023-2025)
 * Outstanding PhD graduates in Beijing, 2019
 * National Scholarship for Doctoral Student, 2017 (Ministry of Education of China)
-* Excellent bachelor dissertation in Shandong, 2013
-* Outstanding graduates in Shandong, 2013
-
 Research Grants & Projects
 ======
 **Principal Investigator — Government-Funded (纵向):**

@@ -2,36 +2,21 @@
 layout: archive
 title: "Sitemap"
 permalink: /sitemap/
-author_profile: true
+author_profile: false
+description: "Main sections of Yanpeng Gong's academic website."
 ---
 
-{% include base_path %}
+主要栏目 | Main sections
 
-A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+- [主页 Home](/)
+- [科学研究 Research](/research/)
+- [论文 Publications](/publications/)
+- [学术报告 Talks](/talks/)
+- [个人简历 CV](/cv/)
+- [团队 People](/people/)
+- [教学 Teaching](/teaching/)
+- [课题组动态 News](/news/)
+- [课题组相册 Album](/portfolio/)
+- [学术链接 Academic Links](/links/)
 
-<h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
-
-<h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% capture written_label %}'None'{% endcapture %}
-
-{% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
-  {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
-{% endfor %}
+供搜索引擎使用的 [XML Sitemap](/sitemap.xml)。
