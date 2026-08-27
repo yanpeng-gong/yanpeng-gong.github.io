@@ -52,11 +52,12 @@ Email: yanpeng.gong@bjut.edu.cn | Web: https://yanpeng-gong.github.io
 ## Research Grants & Projects
 
 **As Principal Investigator — Government-Funded Projects:**
-1. 2023–2025, Alexander von Humboldt Research Fellowship Programme, Humboldt Foundation
-2. 2021–2023, National Natural Science Foundation of China (Youth Program)
-3. 2021–2023, Beijing Municipal Education Commission Science and Technology Program
-4. 2021, Chaoyang District Postdoctoral Research Fund
-5. 2020–2021, Beijing Postdoctoral Research Foundation (First Class)
+1. 2027–2030, Multiscale numerical methods and mechanisms for rough contact of magnetically actuated soft materials under large deformation, National Natural Science Foundation of China (General Program), Grant No. 12672250
+2. 2023–2025, Alexander von Humboldt Research Fellowship Programme, Humboldt Foundation
+3. 2021–2023, National Natural Science Foundation of China (Youth Program)
+4. 2021–2023, Beijing Municipal Education Commission Science and Technology Program
+5. 2021, Chaoyang District Postdoctoral Research Fund
+6. 2020–2021, Beijing Postdoctoral Research Foundation (First Class)
 
 **As Principal Investigator — Industry Projects:**
 1. 2026, Reliability assessment of aircraft landing gear key components

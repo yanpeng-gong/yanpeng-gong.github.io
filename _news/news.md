@@ -11,6 +11,9 @@ description: "News and updates from Yanpeng Gong and the Gong Research Group at 
 
 <h3>2026</h3>
 
+- 8 月 27 日，<u>公颜鹏</u>获批<strong>国家自然科学基金面上项目</strong>“磁控软材料大变形粗糙接触的多尺度数值方法与机理研究”（项目编号：12672250，执行期：2027–2030）。<br>
+  August 27, 2026 — <u>Yanpeng Gong</u> was awarded a <strong>National Natural Science Foundation of China (NSFC) General Program</strong> grant for “Multiscale Numerical Methods and Mechanisms for Rough Contact of Magnetically Actuated Soft Materials under Large Deformation” (Grant No. 12672250, 2027–2030).<br>
+
 - 8 月 11 日，<u>公颜鹏</u>在香港举办的<a href="https://www.iccesconf.org/" style="text-decoration:none;color:#DE3163;">第 32 届国际计算与实验工程和科学会议（ICCES2026）</a>作邀请报告“A Stochastic Phase-Field Model for Probabilistic Fracture Analysis of Brittle Materials: Numerical Framework and Experimental Validation”。<br>
   August 11, 2026 — <u>Yanpeng Gong</u> delivered an invited talk entitled “A Stochastic Phase-Field Model for Probabilistic Fracture Analysis of Brittle Materials: Numerical Framework and Experimental Validation” at the 32nd International Conference on Computational &amp; Experimental Engineering and Sciences (ICCES2026) in Hong Kong.<br>
 

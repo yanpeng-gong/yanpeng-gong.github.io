@@ -4,7 +4,7 @@ title: "科学研究 Research"
 permalink: /research/
 author_profile: false
 collection: research
-description: "Research of Yanpeng Gong (公颜鹏): numerical methods and software development (isogeometric/boundary element method, phase-field, PINN, FEM-BEM coupling), electronic packaging reliability, and multiscale multi-physics simulation."
+description: "Research of Yanpeng Gong (公颜鹏): numerical methods and software development, electronic packaging reliability, physics-informed machine learning, magnetically actuated soft materials, rough contact, and multiscale multi-physics simulation."
 ---
 
 <p>课题组围绕计算力学，在以下四个方向开展研究（点击图片跳转）。Our research spans four directions in computational mechanics — click a card to jump to that theme.</p>
@@ -89,12 +89,12 @@ We are committed to solving critical numerical computational challenges in compl
 
 <hr>
 <h3 id="soft-robotics">智能软材料与软体机器人力学 Smart Soft Materials & Soft Robotics Mechanics</h3>
-<p style="color:indianred;">Keywords: Magnetic actuation, Flexoelectricity, Soft materials, Nonlinear deformation, Multi-physics coupling, Dynamic simulation, Bio-inspired design, Smart actuators</p>
+<p style="color:indianred;">Keywords: Magnetic actuation, Flexoelectricity, Soft materials, Large deformation, Rough contact, Interfacial mechanics, Multi-physics coupling, Smart actuators</p>
 
 <!-- TODO: 需要添加软体机器人研究图片到 /images/Research/Research_SoftRobot.png -->
 <!-- <div style="text-align: center;"><img src="/images/Research/Research_SoftRobot.png" alt="Smart soft materials and soft robotics mechanics" width="500"></div> -->
 
-<p>研究智能软材料的多物理场耦合行为及其在软体机器人中的应用，包括挠曲电材料的力-电耦合特性、磁驱动软体结构的大变形力学行为，建立智能软材料的多尺度建模方法，为新型软体驱动器和传感器设计提供理论基础。Investigating multi-physics coupling behaviors of smart soft materials and their applications in soft robotics, including electro-mechanical coupling characteristics of flexoelectric materials and large deformation mechanical behaviors of magnetically actuated soft structures, establishing multiscale modeling methods for smart soft materials to provide theoretical foundation for novel soft actuators and sensors.</p>
+<p>研究智能软材料的多物理场耦合行为及其在软体机器人中的应用，包括挠曲电材料的力-电耦合特性，以及磁控软材料的大变形、粗糙接触与界面行为，发展相应的多尺度数值方法，为新型软体驱动器、传感器及柔性界面设计提供理论基础。We investigate multi-physics coupling in smart soft materials and its applications in soft robotics, including electromechanical coupling in flexoelectric materials and the large-deformation rough-contact and interfacial behavior of magnetically actuated soft materials. Our work develops multiscale numerical methods for designing soft actuators, sensors, and compliant interfaces.</p>
 
 <ol>
 <li><p>X. Zhuang, H. Hu, S. S. Nanthakumar, Q.-T. Tran, <u>Y. Gong</u>, T. Rabczuk*. <a href="https://doi.org/10.1016/j.apm.2025.116327" style="text-decoration:none;color:black;">Variationally consistent Maxwell stress in flexoelectric structures under finite deformation and immersed in free space</a>. <b>Applied Mathematical Modelling</b> 116327 (2025) <a href="/files/papers/2025_AMM.pdf"><i class="fa fa-file-pdf-o" style="font-size:16px;color:black"></i></a> <span style="color:#7B7D7D;">Flexoelectric modeling under large deformation</span></p></li>
@@ -109,6 +109,7 @@ We are committed to solving critical numerical computational challenges in compl
 
 <h4>纵向项目 Research Grants</h4>
 <ul>
+<li>2027-2030，国家自然科学基金面上项目，"磁控软材料大变形粗糙接触的多尺度数值方法与机理研究"（项目编号：12672250），主持</li>
 <li>2023-2025，德国洪堡学者，洪堡基金会项目，主持</li>
 <li>2021-2023，国家自然科学基金（青年）项目，"跨尺度多层结构热应力分析的等几何边界元法研究"，主持</li>
 <li>2021-2023，北京市教委科技计划(面上)项目，"多层、跨尺度IGBT封装模块界面破坏分析的等几何边界元法研究"，主持</li>
