@@ -22,7 +22,14 @@ description: "Graduate students and alumni of the Gong Research Group at Beijing
 -->
 
 <hr>
-<h3>硕士研究生 Graduate Students</h3>
+<h3>博士研究生 PhD Students</h3>
+
+- 2026.09.08-present, 张宪成 (Xiancheng Zhang).
+
+- 2026.09.08-present, 刘達 (Da Liu).
+
+<hr>
+<h3>硕士研究生 Master's Students</h3>
 
 - 2024.09-present, 张乐通（推免生）, Letong Zhang is working on phase field modeling of thermal cycling-induced failure mechanisms in electronic packaging.
 
@@ -31,6 +38,14 @@ description: "Graduate students and alumni of the Gong Research Group at Beijing
 - 2025.09-present, 张宇喆, Yuzhe Zhang is working on probabilistic fracture analysis of heterogeneous brittle materials, coupling cross-correlated random fields (Karhunen–Loève expansion) with the phase-field cohesive zone model (PF-CZM) and Monte Carlo simulation.
 
 - 2025.09-present, 杨东晋, Dongjin Yang is working on machine learning-based heterogeneous parameter inversion for fracture behavior prediction and reliability analysis of brittle ceramics (e.g., aluminum nitride).
+
+- 2026.09.08-present, 肖梦云 (Mengyun Xiao)，学术型硕士（推免生） / Academic Master's student (recommended admission).
+
+- 2026.09.08-present, 吴京 (Jing Wu)，专业型硕士 / Professional Master's student.
+
+- 2026.09.08-present, 朱新宇 (Xinyu Zhu)，专业型硕士 / Professional Master's student.
+
+- 2026.09.08-present, 刘鹏飞 (Pengfei Liu)，集成电路关键领域工程硕士（推免生） / Master of Engineering student in the key field of integrated circuits (recommended admission).
 
 <!-- 在页面位置添加招生说明（更有效） -->
 <div style="background: #e7f3ff; border-left: 4px solid #007bff; padding: 15px; margin: 20px 0; border-radius: 5px;">
