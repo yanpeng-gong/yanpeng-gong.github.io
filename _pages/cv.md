@@ -84,3 +84,4 @@ Service and leadership
 * Young Editorial Board Member, *Chinese Journal of Applied Mechanics*, 2025–present
 * Young Editorial Board Member, *Electronics & Packaging*, 2026–present
 * Guest Editor, *Scientific Reports* Collection ["Advanced 3D Packaging and Integration"](https://go.nature.com/4dC9Gwy), 2026 (deadline: 11 February 2027)
+* Guest Editor, *Electronics & Packaging* Virtual Collection ["Simulation and Analysis of TSV/TGV 3D Interconnects" (TSV/TGV三维互连仿真分析)](https://mp.weixin.qq.com/s/AdZjey62Fi6xEaaGQssnqA?scene=1), 2026
