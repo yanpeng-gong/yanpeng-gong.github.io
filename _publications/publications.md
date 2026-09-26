@@ -86,7 +86,7 @@ body {
 
 <br>
 <hr>
-<h2 style="color: #008B8B; font-weight: bold; font-size: 28px; margin-bottom: 20px;">Under Review</h2>
+<h2 style="color: #008B8B; font-weight: bold; font-size: 28px; margin-bottom: 20px;">Forthcoming</h2>
 
 <li class="publication-item">
     <div class="publication-content">
