@@ -17,7 +17,7 @@ body {
   font-size: 16px;
 }
 .publications-list {
-    counter-reset: pub-counter 63; /* 设置初始值为总论文数+1 */
+    counter-reset: pub-counter 64; /* 设置初始值为列表条目数+1（含审稿中稿件） */
     list-style: none;
     padding-left: 0;
 }
@@ -86,18 +86,18 @@ body {
 
 <br>
 <hr>
-<h2 style="color: #008B8B; font-weight: bold; font-size: 28px; margin-bottom: 20px;">Forthcoming</h2>
+<h2 style="color: #008B8B; font-weight: bold; font-size: 28px; margin-bottom: 20px;">Under Review</h2>
 
 <li class="publication-item">
     <div class="publication-content">
         <!-- Author names -->
-        <u>Y. Gong</u>, L. Zhang, Y. Duan, T. An, X. Zhuang, T. Rabczuk*.
+        <u>Y. Gong</u>*, J. Song, Y. Mei*, T. Yu, X. Zhuang.
         <!-- Title of the paper -->
         <span style="color:#DE3163;">
-            A variational-damage-based thermo-mechanical phase-field model for fracture analysis of electronic packaging structures.
+            Phase-Field-Driven Adaptive Remeshing for Thermally Induced Fracture in Electronic Packaging Structures.
         </span>
         <!-- Journal information -->
-        <b>Engineering Fracture Mechanics</b> Under Review
+        <b>Computer Modeling in Engineering &amp; Sciences</b> Under Review
     </div>
 </li>
 
@@ -190,6 +190,24 @@ Arxive预印版：有图片
 <br>
 <hr>
 <h3>2026</h3>
+
+<li class="publication-item">
+    <div class="publication-content">
+        <u>Y. Gong</u>, L. Zhang, Y. Duan, T. An, X. Zhuang, T. Rabczuk*.
+        <a href="https://doi.org/10.1016/j.engfracmech.2026.112662" style="text-decoration:none; color:#DE3163;">
+            A variational-damage-based thermo-mechanical phase-field model for fracture analysis of electronic packaging structures.
+        </a>
+        <b>Engineering Fracture Mechanics</b> 346 (2026) 112662
+        <a href="/files/papers/2026_EFM_Tpfczm.pdf" style="text-decoration:none;" aria-label="Download the thermo-mechanical phase-field paper (PDF)">
+            <i class="fa fa-file-pdf-o" style="font-size:16px; color:black;"></i>
+        </a>
+    </div>
+    <div class="publication-image wide">
+        <a href="/files/papers/2026_EFM_Tpfczm.png" target="_blank">
+            <img src="/files/papers/2026_EFM_Tpfczm.png" alt="Thermo-mechanical Tpfczm framework and fracture simulations of electronic packaging structures">
+        </a>
+    </div>
+</li>
 
 <!-- Review: computational methods for multi-scale electronic packaging (In Chinese) -->
 <li class="publication-item">
