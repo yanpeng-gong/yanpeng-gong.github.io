@@ -17,7 +17,7 @@ body {
   font-size: 16px;
 }
 .publications-list {
-    counter-reset: pub-counter 64; /* 设置初始值为列表条目数+1（含审稿中稿件） */
+    counter-reset: pub-counter 65; /* 设置初始值为列表条目数+1（含审稿中稿件） */
     list-style: none;
     padding-left: 0;
 }
@@ -190,6 +190,16 @@ Arxive预印版：有图片
 <br>
 <hr>
 <h3>2026</h3>
+
+<li class="publication-item">
+    <div class="publication-content">
+        <u>Y. Gong</u>, H. Ye, T. An, C. Dong.
+        <a href="https://link.cnki.net/urlid/11.2064.O3.20260909.1042.002" style="text-decoration:none; color:#DE3163;">
+            Application of AI tools and teaching practice in computational mechanics courses (面向计算力学课程的AI工具应用与教学实践) (In Chinese).
+        </a>
+        <b>Mechanics in Engineering</b> (力学与实践) (2026, Online First 网络首发)
+    </div>
+</li>
 
 <li class="publication-item">
     <div class="publication-content">
