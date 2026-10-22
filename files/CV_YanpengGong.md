@@ -53,7 +53,7 @@ Email: yanpeng.gong@bjut.edu.cn | Web: https://yanpeng-gong.github.io
 ## Research Grants & Projects
 
 **As Principal Investigator — Government-Funded Projects:**
-1. Jan 2027–Dec 2030, Multiscale numerical methods and mechanisms for rough contact of magnetically actuated soft materials under large deformation, National Natural Science Foundation of China (General Program), Grant No. 12672250; awarded in 2026
+1. Jan 2027–Dec 2030, Multiscale numerical methods and mechanisms for rough contact of magnetically actuated soft materials under large deformation, National Natural Science Foundation of China (General Program), Grant No. 12672250
 2. 2023–2025, Alexander von Humboldt Research Fellowship Programme, Humboldt Foundation
 3. 2021–2023, Isogeometric boundary element method for thermal stress analysis of multi-scale and multi-layer structures, National Natural Science Foundation of China (Youth Program), Grant No. 12002009
 4. 2021–2023, Isogeometric boundary element method for interface failure analysis of multi-layer, multi-scale IGBT packaging modules, Beijing Municipal Education Commission Science and Technology Program (General Program), Grant No. KM202110005032
