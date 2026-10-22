@@ -49,10 +49,10 @@ Honors and Awards
 Research Grants & Projects
 ======
 **Principal Investigator — Government-Funded (纵向):**
-* Jan 2027-Dec 2030, Multiscale numerical methods and mechanisms for rough contact of magnetically actuated soft materials under large deformation, National Natural Science Foundation of China (General Program), Grant No. 12672250
+* Jan 2027-Dec 2030, Multiscale numerical methods and mechanisms for rough contact of magnetically actuated soft materials under large deformation, National Natural Science Foundation of China (General Program)
 * 2023-2025, Alexander von Humboldt Research Fellowship Programme, Alexander von Humboldt Foundation
-* 2021-2023, Isogeometric boundary element method for thermal stress analysis of multi-scale and multi-layer structures, National Natural Science Foundation of China (Youth Program), Grant No. 12002009
-* 2021-2023, Isogeometric boundary element method for interface failure analysis of multi-layer, multi-scale IGBT packaging modules, Beijing Municipal Education Commission Science and Technology Program (General Program), Grant No. KM202110005032
+* 2021-2023, Isogeometric boundary element method for thermal stress analysis of multi-scale and multi-layer structures, National Natural Science Foundation of China (Youth Program)
+* 2021-2023, Isogeometric boundary element method for interface failure analysis of multi-layer, multi-scale IGBT packaging modules, Beijing Municipal Education Commission Science and Technology Program (General Program)
 * 2021, Dynamic isogeometric boundary element method for thermo-mechanical coupling analysis of multi-scale IGBT packaging modules, Chaoyang District Postdoctoral Research Fund
 * 2020-2021, Isogeometric boundary element method for temperature/stress analysis of IGBT packaging modules, Beijing Postdoctoral Research Foundation (First Class)
 
