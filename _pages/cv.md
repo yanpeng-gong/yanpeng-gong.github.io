@@ -57,7 +57,7 @@ Research Grants & Projects
 * 2020-2021, Isogeometric boundary element method for temperature/stress analysis of IGBT packaging modules, Beijing Postdoctoral Research Foundation (First Class)
 
 **Principal Investigator — Industry (横向):**
-* Oct-Dec 2026, Development of computational mechanics simulation methods for hydraulic power machinery and components (contract signed)
+* Oct-Dec 2026, Development of computational mechanics simulation methods for hydraulic power machinery and components
 * Jun 2026-Oct 2027, Design and validation of test cases for structural frequency response analysis
 * Nov 2025-Jun 2027, Reliability assessment methods for key components of aircraft landing gear
 * Dec 2024-Nov 2028, Cascade mechanism of oil-contamination propagation in high-pressure hydraulic systems

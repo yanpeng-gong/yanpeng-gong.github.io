@@ -119,7 +119,7 @@ We are committed to solving critical numerical computational challenges in compl
 
 <h4>主持横向项目 Industry Projects as Principal Investigator</h4>
 <ul>
-<li>2026.10-2026.12，液压动力机械及元件计算力学仿真方法开发，主持（合同已签）</li>
+<li>2026.10-2026.12，液压动力机械及元件计算力学仿真方法开发，主持</li>
 <li>2026.06-2027.10，结构频率响应分析测试用例设计与验证，主持</li>
 <li>2025.11-2027.06，飞行器起落架关键部件可靠性评估方法研究技术服务合同，主持</li>
 <li>2024.12-2028.11，高压力液压系统油液污染传播级联机理研究，主持</li>

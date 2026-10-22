@@ -61,7 +61,7 @@ Email: yanpeng.gong@bjut.edu.cn | Web: https://yanpeng-gong.github.io
 6. 2020–2021, Isogeometric boundary element method for temperature/stress analysis of IGBT packaging modules, Beijing Postdoctoral Research Foundation (First Class)
 
 **As Principal Investigator — Industry Projects:**
-1. Oct–Dec 2026, Development of computational mechanics simulation methods for hydraulic power machinery and components (contract signed)
+1. Oct–Dec 2026, Development of computational mechanics simulation methods for hydraulic power machinery and components
 2. Jun 2026–Oct 2027, Design and validation of test cases for structural frequency response analysis
 3. Nov 2025–Jun 2027, Reliability assessment methods for key components of aircraft landing gear
 4. Dec 2024–Nov 2028, Cascade mechanism of oil-contamination propagation in high-pressure hydraulic systems
