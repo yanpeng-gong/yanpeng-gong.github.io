@@ -53,19 +53,25 @@ Email: yanpeng.gong@bjut.edu.cn | Web: https://yanpeng-gong.github.io
 ## Research Grants & Projects
 
 **As Principal Investigator — Government-Funded Projects:**
-1. 2027–2030, Multiscale numerical methods and mechanisms for rough contact of magnetically actuated soft materials under large deformation, National Natural Science Foundation of China (General Program), Grant No. 12672250
+1. Jan 2027–Dec 2030, Multiscale numerical methods and mechanisms for rough contact of magnetically actuated soft materials under large deformation, National Natural Science Foundation of China (General Program), Grant No. 12672250; awarded in 2026
 2. 2023–2025, Alexander von Humboldt Research Fellowship Programme, Humboldt Foundation
-3. 2021–2023, National Natural Science Foundation of China (Youth Program)
-4. 2021–2023, Beijing Municipal Education Commission Science and Technology Program
-5. 2021, Chaoyang District Postdoctoral Research Fund
-6. 2020–2021, Beijing Postdoctoral Research Foundation (First Class)
+3. 2021–2023, Isogeometric boundary element method for thermal stress analysis of multi-scale and multi-layer structures, National Natural Science Foundation of China (Youth Program), Grant No. 12002009
+4. 2021–2023, Isogeometric boundary element method for interface failure analysis of multi-layer, multi-scale IGBT packaging modules, Beijing Municipal Education Commission Science and Technology Program (General Program), Grant No. KM202110005032
+5. 2021, Dynamic isogeometric boundary element method for thermo-mechanical coupling analysis of multi-scale IGBT packaging modules, Chaoyang District Postdoctoral Research Fund
+6. 2020–2021, Isogeometric boundary element method for temperature/stress analysis of IGBT packaging modules, Beijing Postdoctoral Research Foundation (First Class)
 
 **As Principal Investigator — Industry Projects:**
-1. 2026, Reliability assessment of aircraft landing gear key components
-2. 2025, Oil contamination propagation mechanism in high-pressure hydraulic systems
-3. 2024, Intelligent hydraulic component modeling and simulation based on MWORKS
-4. 2022, Mesoscale simulation of composite solid propellants
-5. 2022, Separation efficiency analysis of cyclone separators
+1. Oct–Dec 2026, Development of computational mechanics simulation methods for hydraulic power machinery and components (contract signed)
+2. Jun 2026–Oct 2027, Design and validation of test cases for structural frequency response analysis
+3. Nov 2025–Jun 2027, Reliability assessment methods for key components of aircraft landing gear
+4. Dec 2024–Nov 2028, Cascade mechanism of oil-contamination propagation in high-pressure hydraulic systems
+5. Jan 2024–Jun 2025, Intelligent hydraulic component modeling and simulation based on MWORKS
+6. Oct 2022–May 2023, Mesoscale simulation of composite solid propellants
+7. Feb 2022–Feb 2023, Influence factors on the separation efficiency of cyclone separators
+
+**As Subproject Lead — Industry Collaborations:**
+1. Jingshu technical collaboration project (晶枢技术合作项目)
+2. Characterization of weld crack initiation and propagation (焊缝裂纹萌生及扩展表征技术项目)
 
 **As Co-Investigator:**
 1. 2020–2023, Fast direct isogeometric BEM for large-scale coating structures, National Natural Science Foundation of China

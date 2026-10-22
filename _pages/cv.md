@@ -49,19 +49,25 @@ Honors and Awards
 Research Grants & Projects
 ======
 **Principal Investigator — Government-Funded (纵向):**
-* 2027-2030, Multiscale numerical methods and mechanisms for rough contact of magnetically actuated soft materials under large deformation, National Natural Science Foundation of China (General Program), Grant No. 12672250
+* Jan 2027-Dec 2030, Multiscale numerical methods and mechanisms for rough contact of magnetically actuated soft materials under large deformation, National Natural Science Foundation of China (General Program), Grant No. 12672250; awarded in 2026
 * 2023-2025, Alexander von Humboldt Research Fellowship Programme, Alexander von Humboldt Foundation
-* 2021-2023, Isogeometric boundary element method for thermal stress analysis of multi-scale and multi-layer structures, National Natural Science Foundation of China (Youth Program)
-* 2021-2023, Isogeometric boundary element method for interface failure analysis of multi-layer, multi-scale IGBT packaging modules, Beijing Municipal Education Commission Science and Technology Program (General Program)
+* 2021-2023, Isogeometric boundary element method for thermal stress analysis of multi-scale and multi-layer structures, National Natural Science Foundation of China (Youth Program), Grant No. 12002009
+* 2021-2023, Isogeometric boundary element method for interface failure analysis of multi-layer, multi-scale IGBT packaging modules, Beijing Municipal Education Commission Science and Technology Program (General Program), Grant No. KM202110005032
 * 2021, Dynamic isogeometric boundary element method for thermo-mechanical coupling analysis of multi-scale IGBT packaging modules, Chaoyang District Postdoctoral Research Fund
 * 2020-2021, Isogeometric boundary element method for temperature/stress analysis of IGBT packaging modules, Beijing Postdoctoral Research Foundation (First Class)
 
 **Principal Investigator — Industry (横向):**
-* 2026, Reliability assessment methods for key components of aircraft landing gear
-* 2025, Cascade mechanism of oil-contamination propagation in high-pressure hydraulic systems
-* 2024, Intelligent hydraulic component modeling and simulation based on MWORKS
-* 2022, Mesoscale simulation of composite solid propellants
-* 2022, Influence factors on the separation efficiency of cyclone separators
+* Oct-Dec 2026, Development of computational mechanics simulation methods for hydraulic power machinery and components (contract signed)
+* Jun 2026-Oct 2027, Design and validation of test cases for structural frequency response analysis
+* Nov 2025-Jun 2027, Reliability assessment methods for key components of aircraft landing gear
+* Dec 2024-Nov 2028, Cascade mechanism of oil-contamination propagation in high-pressure hydraulic systems
+* Jan 2024-Jun 2025, Intelligent hydraulic component modeling and simulation based on MWORKS
+* Oct 2022-May 2023, Mesoscale simulation of composite solid propellants
+* Feb 2022-Feb 2023, Influence factors on the separation efficiency of cyclone separators
+
+**Subproject Lead — Industry Collaborations (横向合作子课题):**
+* Jingshu technical collaboration project (晶枢技术合作项目)
+* Characterization of weld crack initiation and propagation (焊缝裂纹萌生及扩展表征技术项目)
 
 **Co-Investigator:**
 * 2020-2023, Fast direct isogeometric boundary element method for analysis of large-scale coating structures, National Natural Science Foundation of China
