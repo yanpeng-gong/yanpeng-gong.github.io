@@ -52,30 +52,30 @@ Email: yanpeng.gong@bjut.edu.cn | Web: https://yanpeng-gong.github.io
 
 ## Research Grants & Projects
 
-**As Principal Investigator — Government-Funded Projects:**
-1. 2027–2030, Multiscale numerical methods and mechanisms for rough contact of magnetically actuated soft materials under large deformation, National Natural Science Foundation of China (General Program)
-2. 2023–2025, Alexander von Humboldt Research Fellowship Programme, Humboldt Foundation
-3. 2021–2023, Isogeometric boundary element method for thermal stress analysis of multi-scale and multi-layer structures, National Natural Science Foundation of China (Youth Program)
-4. 2021–2023, Isogeometric boundary element method for interface failure analysis of multi-layer, multi-scale IGBT packaging modules, Beijing Municipal Education Commission Science and Technology Program (General Program)
-5. 2021, Dynamic isogeometric boundary element method for thermo-mechanical coupling analysis of multi-scale IGBT packaging modules, Chaoyang District Postdoctoral Research Fund
-6. 2020–2021, Isogeometric boundary element method for temperature/stress analysis of IGBT packaging modules, Beijing Postdoctoral Research Foundation (First Class)
+**Principal Investigator — Research Grants (纵向):**
+- 2027-2030, Multiscale numerical methods and mechanisms for large-deformation rough contact of magnetically actuated soft materials, NSFC General Program
+- 2023-2025, Humboldt Research Fellowship
+- 2021-2023, Isogeometric BEM for thermal stress analysis of multiscale multilayer structures, NSFC Youth Program
+- 2021-2023, Isogeometric BEM for interface failure analysis of multiscale multilayer IGBT packaging, Beijing Municipal Education Commission Science and Technology Program (General Program)
+- 2021, Dynamic isogeometric BEM for thermomechanical analysis of multiscale IGBT packaging, Chaoyang District Postdoctoral Research Fund
+- 2020-2021, Isogeometric BEM for temperature/stress analysis of IGBT packaging, Beijing Postdoctoral Research Foundation (First Class)
 
-**As Principal Investigator — Industry Projects:**
-1. 2026, Development of computational mechanics simulation methods for hydraulic power machinery and components
-2. 2026–2027, Design and validation of test cases for structural frequency response analysis
-3. 2025–2027, Reliability assessment methods for key components of aircraft landing gear
-4. 2024–2028, Cascade mechanism of oil-contamination propagation in high-pressure hydraulic systems
-5. 2024–2025, Intelligent hydraulic component modeling and simulation based on MWORKS
-6. 2022–2023, Mesoscale simulation of composite solid propellants
-7. 2022–2023, Influence factors on the separation efficiency of cyclone separators
+**Principal Investigator — Industry Projects (横向):**
+- 2026, Computational mechanics simulation methods for hydraulic power machinery and components
+- 2026-2027, Structural frequency response analysis: test case design and validation
+- 2025-2027, Reliability assessment of key aircraft landing gear components
+- 2024-2028, Cascade mechanism of oil-contamination propagation in high-pressure hydraulic systems
+- 2024-2025, MWORKS-based modeling and simulation of intelligent hydraulic components
+- 2022-2023, Mesoscale simulation of composite solid propellants
+- 2022-2023, Factors affecting cyclone separator efficiency
 
-**As Subproject Lead — Industry Collaborations:**
-1. Jingshu technical collaboration project (晶枢技术合作项目)
-2. Characterization of weld crack initiation and propagation (焊缝裂纹萌生及扩展表征技术项目)
+**Subproject Lead — Industry Collaborations (合作子课题):**
+- Jingshu technical collaboration (晶枢技术合作项目)
+- Weld crack initiation and propagation characterization (焊缝裂纹萌生及扩展表征技术项目)
 
-**As Co-Investigator:**
-1. 2020–2023, Fast direct isogeometric BEM for large-scale coating structures, National Natural Science Foundation of China
-2. 2012–2013, Crack analysis of aeroengine turbine blades using isogeometric BEM, National Natural Science Foundation of China
+**Co-Investigator:**
+- 2020-2023, Fast direct isogeometric BEM for large-scale coating structures, NSFC
+- 2012-2013, Isogeometric BEM for crack analysis in aeroengine turbine blades, NSFC
 
 ---
 
