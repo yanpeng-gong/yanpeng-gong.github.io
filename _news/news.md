@@ -11,6 +11,9 @@ description: "News and updates from Yanpeng Gong and the Gong Research Group at 
 
 <h3>2026</h3>
 
+- 10 月 16 日，<u>公颜鹏</u>在大连举行的第 48 届边界元与其他降维方法国际会议（BEM/MRM 48）作<strong>半大会报告（Semi-Plenary Lecture）</strong>，题目为“A virtual element method for magneto-mechanical coupling in magneto-active polymers at finite strain”。<br>
+  October 16, 2026 — <u>Yanpeng Gong</u> delivered a <strong>semi-plenary lecture</strong> entitled “A virtual element method for magneto-mechanical coupling in magneto-active polymers at finite strain” at the 48th International Conference on Boundary Elements and other Mesh Reduction Methods (BEM/MRM 48) in Dalian, China.<br>
+
 - 9 月 24 日，<u>公颜鹏</u>担任客座编辑的《电子与封装》虚拟专辑 <strong>“TSV/TGV三维互连仿真分析”</strong> 正式上线。专辑精选 4 篇论文，涵盖电热耦合仿真、三维封装力学计算方法、TGV 应力优化及 TSV 界面裂纹扩展，欢迎相关领域的同行和同学阅读交流。<a href="https://mp.weixin.qq.com/s/AdZjey62Fi6xEaaGQssnqA?scene=1" style="text-decoration:none;color:#4A90E2;">[专辑导读与论文]</a><br>
   September 24, 2026 — The virtual collection <strong>“Simulation and Analysis of TSV/TGV 3D Interconnects”</strong> in <em>Electronics &amp; Packaging</em>, guest-edited by <u>Yanpeng Gong</u>, is now online. The collection features four articles covering electro-thermal simulation, computational methods for 3D packaging, TGV stress mitigation, and TSV interfacial crack propagation. <a href="https://mp.weixin.qq.com/s/AdZjey62Fi6xEaaGQssnqA?scene=1" style="text-decoration:none;color:#4A90E2;">[Collection overview and articles (in Chinese)]</a><br>
 
