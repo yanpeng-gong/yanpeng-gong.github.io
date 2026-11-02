@@ -38,7 +38,7 @@ author:
   semantic         : # URL
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Yanpeng-Gong"
-  scopus           : # URL
+  scopus           : "https://www.scopus.com/authid/detail.url?authorId=57198659234"
   webofscience     : "https://www.webofscience.com/wos/author/record/LIF-1683-2024"  # webofscience网站
 
   # Repositories and software development
