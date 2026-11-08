@@ -11,6 +11,9 @@ description: "News and updates from Yanpeng Gong and the Gong Research Group at 
 
 <h3>2026</h3>
 
+- 11 月 6–9 日，<u>公颜鹏</u>参加在武汉举行的中国计算力学大会2026（CCCM2026），并在“数据与物理融合的力学模型探索与预测”分会场作<strong>邀请报告</strong>，题目为“基于双神经网络的氮化铝陶瓷非均质模型参数反演与随机断裂预测”。<br>
+  November 6–9, 2026 — <u>Yanpeng Gong</u> delivered an <strong>invited talk</strong> on dual-neural-network-based parameter inversion and stochastic fracture prediction of heterogeneous aluminum nitride ceramics at the Chinese Conference on Computational Mechanics 2026 (CCCM2026) in Wuhan, China.<br>
+
 - 10 月 16 日，<u>公颜鹏</u>在大连举行的第 48 届边界元与其他降维方法国际会议（BEM/MRM 48）作<strong>半大会报告（Semi-Plenary Lecture）</strong>，题目为“A virtual element method for magneto-mechanical coupling in magneto-active polymers at finite strain”。<br>
   October 16, 2026 — <u>Yanpeng Gong</u> delivered a <strong>semi-plenary lecture</strong> entitled “A virtual element method for magneto-mechanical coupling in magneto-active polymers at finite strain” at the 48th International Conference on Boundary Elements and other Mesh Reduction Methods (BEM/MRM 48) in Dalian, China.<br>
 
